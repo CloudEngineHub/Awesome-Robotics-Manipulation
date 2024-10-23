@@ -42,6 +42,15 @@
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Task Success Prediction for Open-Vocabulary Manipulation Based on Multi-Level Aligned Representations**](https://arxiv.org/abs/2410.00436) | CoRL 2024 | 2024-10-01 | [Project](https://lambda-repformer-project-pa-eziy1.kinsta.page/) |
+| [**Learning Compositional Behaviors from Demonstration and Language**](https://openreview.net/pdf?id=fR1rCXjCQX) | CoRL 2024 | - | - | Fine-grained Atom action |
+| [**Contrastive Imitation Learning for Language-guided Multi-Task Robotic Manipulation**](https://arxiv.org/abs/2406.09738) | CoRL 2024 | 2024-06-14 | [Project](https://teleema.github.io/projects/Sigma_Agent/) | |
+
+
+### Policy Learning
+|  Title  |   Venue  |   Date   |   Code   |   Notes  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Generative Image as Action Models**](https://arxiv.org/abs/2407.07875) | CoRL 2024 | 2024-07-10 | [Github](https://github.com/MohitShridhar/genima) | GENIMA, diffusion, draw joint-actions |
+
 
 
 ### Vision Language Action Models
@@ -49,12 +58,41 @@
 |:--------|:--------:|:--------:|:--------:|:--------:|
 
 
+### SE(3)-Equivariant Robot Manipulation
+|  Title  |   Venue  |   Date   |   Code   |   Notes  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Generative Image as Action Models**](https://arxiv.org/abs/2403.19460) | CoRL 2024 | 2024-03-28 | [Github](https://github.com/HeegerGao/RiEMann) |  |
+
+
+
+
+
+
+
+## Affordance
+
+### Spatial
+|  Title  |   Venue  |   Date   |   Code   |   Notes  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics**](https://arxiv.org/abs/2406.10721) | CoRL 2024 | 2024-06-15 | [Github](https://github.com/wentaoyuan/RoboPoint) | |
+
+### Articulation
+|  Title  |   Venue  |   Date   |   Code   |   Notes  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**A3VLM: Actionable Articulation-Aware Vision Language Model**](https://arxiv.org/abs/2406.07549) | CoRL 2024 | 2024-06-14 | [Github](https://github.com/changhaonan/A3VLM) | |
+| [**AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation**](https://arxiv.org/abs/2406.11548) | CoRL 2024 | 2024-06-17 | [Project](https://sites.google.com/view/aic-mllm) | |
+
+
+
 
 
 ## Robotics for 3D
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration for Robotic Manipulation**](https://arxiv.org/abs/2410.00436) | CoRL 2024 | 2024-02-23 | [Github](https://github.com/Jianghanxiao/RoboEXP) | 3D reasoning, introduce action-conditioned scene graph (ACSG) task |
+| [**RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration for Robotic Manipulation**](https://arxiv.org/abs/2402.15487) | CoRL 2024 | 2024-02-23 | [Github](https://github.com/Jianghanxiao/RoboEXP) | 3D reasoning, action-conditioned scene graph (ACSG) task |
+| [**Physically Embodied Gaussian Splatting: A Realtime Correctable World Model for Robotics**](https://arxiv.org/abs/2406.10788) | CoRL 2024 | 2024-06-16 | [Dataset](https://huggingface.co/datasets/anon211/embodied_gaussians/tree/main) | 3DGS |
+
+
 
 
 
@@ -62,20 +100,28 @@
 ## Planning and Reasoning
 
 ### Language Planning
-|  Title  |   Venue  |   Date   |   Code   |
-|:--------|:--------:|:--------:|:--------:|
+|  Title  |   Venue  |   Date   |   Code   |   Notes  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
 
 
 ### Code Planning
-|  Title  |   Venue  |   Date   |   Code   |
-|:--------|:--------:|:--------:|:--------:|
+|  Title  |   Venue  |   Date   |   Code   |   Notes  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+
 
 
 
 ## Generalization and Generalist
-|  Title  |   Venue  |   Date   |   Code   |
-|:--------|:--------:|:--------:|:--------:|
+|  Title  |   Venue  |   Date   |   Code   |   Notes  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
 | [**All Robots in One: A New Standard and Unified Dataset for Versatile, General-Purpose Embodied Agents**](https://arxiv.org/abs/2408.10899) | arXiv | 2024-08-20 | [Dataset](https://openi.pcl.ac.cn/ARIO/ARIO_Dataset) |
+
+
+
+## Mobile Manipulation
+|  Title  |   Venue  |   Date   |   Code   |   Notes  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**TaMMa: Target-driven Multi-subscene Mobile Manipulation**](https://openreview.net/pdf?id=EiqQEsOMZt) | CoRL 2024 | - | - |
 
 
 
@@ -84,4 +130,10 @@
 
 
 # Awesome-simulators
- 
+|  Title  |   Venue  |   Date   |   Code   |   Notes  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs**](https://arxiv.org/abs/2410.03645) | CoRL 2024 | 2024-10-04 | [Github](https://github.com/GenSim2/gensim2) |
+
+
+
+
