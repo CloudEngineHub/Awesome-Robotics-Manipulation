@@ -7,7 +7,6 @@ This repo contains a curated list of **Robot Manipulation** papers relating to R
 Please feel free to send pull requests or [email](baishuanghao@stu.xjtu.edu.cn) me to add papers! 
 This version of the repository may have some typos, so don’t hesitate to contact me for corrections!
 
-
 <!-- ******* 0-Content Table ******* -->
  ## 🏠 Table of Contents
 - [Awesome Papers](#awesome-papers)
@@ -38,7 +37,7 @@ This version of the repository may have some typos, so don’t hesitate to conta
     - [Generalization](#generalization)
     - [Generalist](#generalist)
     - [Human-Robot Interaction and Collaboration](#human-robot-interaction-and-collaboration)
-    - [Tactile](#tactile)
+    - [Tactile-based Manipulation](#tactile-based-manipulation)
     - [Dexterous Manipulation](#dexterous-manipulation)
     - [Other Applications](#other-applications)
 - [Awesome Benchmarks](#awesome-datasets)
@@ -627,7 +626,7 @@ This version of the repository may have some typos, so don’t hesitate to conta
 -->
 
 <!-- ******* 1.3.21-Tactile ******* -->
-### Tactile
+### Tactile-based Manipulation
 <!-- |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
