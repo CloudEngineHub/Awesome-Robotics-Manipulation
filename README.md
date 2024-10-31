@@ -49,11 +49,11 @@ Please feel free to send me pull requests or email to add papers!
 
 
 <!-- ******* 1-Papers ******* -->
-# Awesome Papers
+# 📝 Awesome Papers
 
 
 <!-- ******* 1.1-Survey ******* -->
-## Survey
+## 📄 Survey
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**A Survey of Embodied Learning for Object-Centric Robotic Manipulation**](https://arxiv.org/abs/2408.11537) | arXiv | 2024-08-21 | [Github](https://github.com/RayYoh/OCRM_survey) | Manipulation |
@@ -69,7 +69,7 @@ Please feel free to send me pull requests or email to add papers!
 
 
 <!-- ******* 1.2-Grasp ******* -->
-## Grasp
+## 🦾 Grasp
 
 <!-- ******* 1.2.1-Rectangle-based Grasp ******* -->
 ### Rectangle-based Grasp
@@ -139,7 +139,7 @@ Please feel free to send me pull requests or email to add papers!
 
 
 <!-- ******* 1.3-Manipulation ******* -->
-## Manipulation
+## 🤖 Manipulation
 
 <!-- ******* 1.3.1-Representation Learning with Auxiliary Tasks ******* -->
 ### Representation Learning with Auxiliary Tasks
@@ -245,7 +245,7 @@ Please feel free to send me pull requests or email to add papers!
 | [**Diffusion Transformer Policy**](https://arxiv.org/abs/2410.15959) | arXiv | 2024-10-21 | - | |
 | [MDT: **Multimodal Diffusion Transformer: Learning Versatile Behavior from Multimodal Goals**](https://arxiv.org/abs/2407.05996) | RSS 2024 | 2024-07-08 | [Github](https://github.com/intuitive-robots/mdt_policy) | IL, RepL, Masked Construction, DP, Partially labeled data |
 | [**Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning**](https://arxiv.org/abs/2405.18196) | RSS 2024 | 2024-05-28 | [Github](https://github.com/vv19/rendiff) | |
-| [**3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations**](https://arxiv.org/abs/2403.03954) | RSS 2024 | 2024-03-06 | [Github](https://github.com/YanjieZe/3D-Diffusion-Policy) | DP3 |
+| [DP3: **3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations**](https://arxiv.org/abs/2403.03954) | RSS 2024 | 2024-03-06 | [Github](https://github.com/YanjieZe/3D-Diffusion-Policy) |  |
 | [**PlayFusion: Skill Acquisition via Diffusion from Language-Annotated Play**](https://arxiv.org/abs/2312.04549) | CoRL 2023 | 2023-12-07 | [Project](https://play-fusion.github.io/) |  |
 | [**Equivariant Diffusion Policy**](https://arxiv.org/abs/2407.01812) | CoRL 2024 | 2024-07-01 | [Code](https://github.com/pointW/equidiff) | Equivariance |
 | [**EquiBot: SIM(3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning**](https://arxiv.org/abs/2407.01479) | CoRL 2024 | 2024-07-01 | [Github](https://github.com/yjy0625/equibot) |  |
@@ -280,10 +280,10 @@ Please feel free to send me pull requests or email to add papers!
 | [**Octo: An Open-Source Generalist Robot Policy**](https://arxiv.org/abs/2405.12213) | RSS 2024 | 2024-05-20 | [Github](https://github.com/octo-models/octo) | |
 | [**RT-H: Action Hierarchies Using Language**](https://arxiv.org/abs/2403.01823) | arXiv | 2024-03-04 | [Project](https://rt-hierarchy.github.io/) |  |
 | [**Open X-Embodiment: Robotic Learning Datasets and RT-X Models**](https://arxiv.org/abs/2310.08864) | ICRA 2024 | 2023-10-13 | [Github](https://github.com/google-deepmind/open_x_embodiment) | |
-| [**Open-World Object Manipulation using Pre-trained Vision-Language Models**](https://arxiv.org/abs/2303.00905) | CoRL 2023 | 2023-03-02 | [Project](https://robot-moo.github.io/) | MOO |
+| [MOO: **Open-World Object Manipulation using Pre-trained Vision-Language Models**](https://arxiv.org/abs/2303.00905) | CoRL 2023 | 2023-03-02 | [Project](https://robot-moo.github.io/) |  |
 | [**RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**](https://arxiv.org/abs/2307.15818) | CoRL 2023 | 2023-07-28 | [Project](https://robotics-transformer2.github.io/) |  |
 | [**RT-1: Robotics Transformer for Real-World Control at Scale**](https://arxiv.org/abs/2212.06817) | RSS 2023 | 2022-12-13 | [Github](https://github.com/google-research/robotics_transformer) |  |
-| [**Vision-Language Foundation Models as Effective Robot Imitators**](https://arxiv.org/abs/2311.01378) | ICLR 2024 | 2023-11-02 | [Github](https://github.com/RoboFlamingo/RoboFlamingo) | RoboFlamingo |
+| [RoboFlamingo: **Vision-Language Foundation Models as Effective Robot Imitators**](https://arxiv.org/abs/2311.01378) | ICLR 2024 | 2023-11-02 | [Github](https://github.com/RoboFlamingo/RoboFlamingo) |  |
 
 <p align=right>(<a href=#awesome-robotics-manipulation>back to top</a>)</p>
 
@@ -527,7 +527,7 @@ Please feel free to send me pull requests or email to add papers!
 | [**Vocal Sandbox: Continual Learning and Adaptation for Situated Human-Robot Collaboration**](https://openreview.net/pdf?id=ypaYtV1CoG) | CoRL 2024 | - | [Project](https://vocal-sandbox.github.io/) |  |
 | [**APRICOT: Active Preference Learning and Constraint-Aware Task Planning with LLMs**](https://openreview.net/pdf?id=nQslM6f7dW) | CoRL 2024 | - | [Project](https://portal-cornell.github.io/apricot/) |  |
 | [**Text2Interaction: Establishing Safe and Preferable Human-Robot Interaction**](https://arxiv.org/abs/2408.06105) | CoRL 2024 | 2024-08-12 | [Github](https://github.com/JakobThumm/text2interaction) |  |
-| [KNOWNO: **Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners**](https://arxiv.org/abs/2307.01928) | CoRL 2023 | 2023-07-04 | [Github](https://github.com/google-research/google-research/tree/master/language_model_uncertainty) | HRI, Task Planning |
+| [KNOWNO: **Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners**](https://arxiv.org/abs/2307.01928) | CoRL 2023 | 2023-07-04 | [Github](https://github.com/google-research/google-research/tree/master/language_model_uncertainty) | |
 | [**Yell At Your Robot: Improving On-the-Fly from Language Corrections**](https://arxiv.org/abs/2403.12910) | arXiv | 2024-03-19 | [Github](https://github.com/yay-robot/yay_robot) | |
 | [**"No, to the Right" -- Online Language Corrections for Robotic Manipulation via Shared Autonomy**](https://arxiv.org/abs/2301.02555) | HRI 2023 | 2023-01-06 | [Github](https://github.com/Stanford-ILIAD/lilac) | |
 
@@ -603,13 +603,13 @@ Please feel free to send me pull requests or email to add papers!
 | _Feed_ |
 | [**Learning Sequential Acquisition Policies for Robot-Assisted Feeding**](https://arxiv.org/abs/2309.05197) | CoRL 2023 | 2023-09-11  | [Github](https://sites.google.com/view/vaporsbot)  |
 | _Tool Manipulation_ |
-| [**Leveraging Language for Accelerated Learning of Tool Manipulation**](https://arxiv.org/abs/2206.13074) | CoRL 2023 | 2022-06-27 | [Github](https://github.com/irom-lab/ATLA) | Tool Manipulation |
+| [**Leveraging Language for Accelerated Learning of Tool Manipulation**](https://arxiv.org/abs/2206.13074) | CoRL 2023 | 2022-06-27 | [Github](https://github.com/irom-lab/ATLA) | |
 
 <p align=right>(<a href=#awesome-robotics-manipulation>back to top</a>)</p>
 
 
 <!-- ******* 2-Benchmarks ******* -->
-# Awesome Benchmarks
+# 📊 Awesome Benchmarks
 
 <!-- ******* 2.1-Grasp Datasets ******* -->
 ## Grasp Datasets
@@ -669,7 +669,7 @@ Please feel free to send me pull requests or email to add papers!
 
 
 <!-- ******* 3-Techniques ******* -->
-# Awesome-techniques
+# 🛠️ Awesome Techniques
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | **Awesome-Implicit-NeRF-Robotics: [Neural Fields in Robotics: A Survey](https://arxiv.org/abs/2410.20220)** | - | 2024-10-26 | [Github](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) | |
