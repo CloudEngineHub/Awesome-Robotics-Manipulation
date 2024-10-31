@@ -1,13 +1,14 @@
 # Awesome-Robotics-Manipulation
 
- **A Survey on Robot Manipulation**
+## ✨ About
+
+This repo contains a curated list of **Robot Manipulation** Papers relating to Robotics domain.
 
 Please feel free to send me pull requests or email to add papers!
 
 
 <!-- ******* 0-Content Table ******* -->
- ---
-<font size=5><center><b> Table of Contents </b> </center></font>
+ ## 🏠 Table of Contents
 - [Awesome Papers](#awesome-papers)
   - [Survey](#survey)
   - [Grasp](#grasp)
@@ -44,12 +45,12 @@ Please feel free to send me pull requests or email to add papers!
   - [Manipulation Benchmarks](#manipulation-benchmarks)
   - [Cross-Embodiment Benchmarks](#cross-embodiment-benchmarks)
 - [Awesome-techniques](#awesome-techniques)
----
+
 
 
 
 <!-- ******* 1-Papers ******* -->
-# 📝 Awesome Papers
+## 📝 Awesome Papers
 
 
 <!-- ******* 1.1-Survey ******* -->
@@ -456,7 +457,6 @@ Please feel free to send me pull requests or email to add papers!
 | [**InterPreT: Interactive Predicate Learning from Language Feedback for Generalizable Task Planning**](https://arxiv.org/abs/2405.19758) | RSS 2024 | 2023-05-30 | [Github](https://github.com/hmz-15/interactive-predicate-learning) | Code Generation, Task Planning, PDDL |
 | [**Text2Motion: From Natural Language Instructions to Feasible Plans**](https://arxiv.org/abs/2303.12153) | Autonomous Robots 2023 | 2023-03-21 | [Project](https://sites.google.com/stanford.edu/text2motion) |  |
 | _Multimodal Reasoning_ |
-| _Task Success Prediction_ |
 | [**AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation**](https://arxiv.org/abs/2410.00371) | arXiv | 2024-10-01 | [Project](https://aha-vlm.github.io/) | VLMs, Failure Detection |
 | [**Task Success Prediction for Open-Vocabulary Manipulation Based on Multi-Level Aligned Representations**](https://arxiv.org/abs/2410.00436) | CoRL 2024 | 2024-10-01 | [Project](https://lambda-repformer-project-pa-eziy1.kinsta.page/) | RepL, Multi-level, E-D TP, Both Goals |
 | [**EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought**](https://arxiv.org/abs/2305.15021) | NeurIPS 2023 | 2023-05-24 | [Github](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch) |  |
@@ -481,7 +481,7 @@ Please feel free to send me pull requests or email to add papers!
 ### Generalization 
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| _Generalization with Data_ |
+| _Generalization using Data_ |
 | [**Mirage: Cross-Embodiment Zero-Shot Policy Transfer with Cross-Painting**](https://arxiv.org/abs/2402.19249) | RSS 2024 | 2024-02-29 | [Github](https://github.com/BerkeleyAutomation/mirage) |  |
 | [**Decomposing the Generalization Gap in Imitation Learning for Visual Robotic Manipulation**](https://arxiv.org/abs/2307.03659) | ICRA 2024 | 2024-02-29 | [Github](https://github.com/RLAgent/factor-world) |  
 | _Compositional Generalization_ |
@@ -609,10 +609,10 @@ Please feel free to send me pull requests or email to add papers!
 
 
 <!-- ******* 2-Benchmarks ******* -->
-# 📊 Awesome Benchmarks
+## 📊 Awesome Benchmarks
 
 <!-- ******* 2.1-Grasp Datasets ******* -->
-## Grasp Datasets
+### Grasp Datasets
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Real-to-Sim Grasp: Rethinking the Gap between Simulation and Real World in Grasp Detection**](https://arxiv.org/abs/2410.06521) | CoRL 2024 | 2024-10-09 | [Project](https://isee-laboratory.github.io/R2SGrasp/) | |
@@ -624,7 +624,7 @@ Please feel free to send me pull requests or email to add papers!
 <p align=right>(<a href=#awesome-robotics-manipulation>back to top</a>)</p>
 
 <!-- ******* 2.2-Manipulation Benchmarks ******* -->
-## Manipulation Benchmarks
+### Manipulation Benchmarks
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | _Manipulation in Home Environment_ |
@@ -657,7 +657,7 @@ Please feel free to send me pull requests or email to add papers!
 <p align=right>(<a href=#awesome-robotics-manipulation>back to top</a>)</p>
 
 <!-- ******* 2.3-Cross-Embodiment Benchmarks ******* -->
-## Cross-Embodiment Benchmarks
+### Cross-Embodiment Benchmarks
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | **GENESIS: A generative world for general-purpose robotics & embodied AI learning** | - | - | [Github](https://github.com/Genesis-Embodied-AI/Genesis) |
@@ -669,7 +669,7 @@ Please feel free to send me pull requests or email to add papers!
 
 
 <!-- ******* 3-Techniques ******* -->
-# 🛠️ Awesome Techniques
+## 🛠️ Awesome Techniques
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | **Awesome-Implicit-NeRF-Robotics: [Neural Fields in Robotics: A Survey](https://arxiv.org/abs/2410.20220)** | - | 2024-10-26 | [Github](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) | |
@@ -705,7 +705,7 @@ Please feel free to send me pull requests or email to add papers!
 
 
 
-## Citation
+## ✨ Citation
 If you find this repository useful, please consider citing this list:
 ```
 @misc{bai2024roboticsmanipulation,
