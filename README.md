@@ -2,7 +2,7 @@
 
 ## ✨ About
 
-This repo contains a curated list of **Robot Manipulation** Papers relating to Robotics domain.
+This repo contains a curated list of **Robot Manipulation** papers relating to Robotics domain.
 
 Please feel free to send me pull requests or email to add papers!
 
