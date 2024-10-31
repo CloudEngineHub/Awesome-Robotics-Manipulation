@@ -37,6 +37,7 @@ This version of the repository may have some typos, so don’t hesitate to conta
     - [Generalization](#generalization)
     - [Generalist](#generalist)
     - [Human-Robot Interaction and Collaboration](#human-robot-interaction-and-collaboration)
+    - [Mobile Manipulation](#mobile-manipulation)
     - [Tactile-based Manipulation](#tactile-based-manipulation)
     - [Dexterous Manipulation](#dexterous-manipulation)
     - [Other Applications](#other-applications)
