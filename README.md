@@ -77,8 +77,8 @@ Please feel free to send me pull requests or email to add papers!
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Lightweight Language-driven Grasp Detection using Conditional Consistency Model**](https://arxiv.org/abs/2407.17967) | IROS 2024 | 2024-07-25 | [Github](https://github.com/Fsoft-AIC/Lightweight-Language-driven-Grasp-Detection) | |
-| [**End-to-end Trainable Deep Neural Network for Robotic Grasp Detection and Semantic Segmentation from RGB**](https://arxiv.org/abs/2107.05287) | ICRA 2021 | 2021-07-12 | [Github](https://github.com/stefan-ainetter/grasp_det_seg_cnn) | grasp_det_seg_cnn |
-| [**Antipodal Robotic Grasping using Generative Residual Convolutional Neural Network**](https://arxiv.org/abs/1909.04810) | IROS 2020 | 2019-09-11 | [Github](https://github.com/skumra/robotic-grasping) | GR-ConvNet |
+| [grasp_det_seg_cnn: **End-to-end Trainable Deep Neural Network for Robotic Grasp Detection and Semantic Segmentation from RGB**](https://arxiv.org/abs/2107.05287) | ICRA 2021 | 2021-07-12 | [Github](https://github.com/stefan-ainetter/grasp_det_seg_cnn) |  |
+| [GR-ConvNet: **Antipodal Robotic Grasping using Generative Residual Convolutional Neural Network**](https://arxiv.org/abs/1909.04810) | IROS 2020 | 2019-09-11 | [Github](https://github.com/skumra/robotic-grasping) |  |
 
 <p align=right>(<a href=#awesome-robotics-manipulation>back to top</a>)</p>
 
@@ -222,10 +222,10 @@ Please feel free to send me pull requests or email to add papers!
 ### World Model
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**MOTO: Offline Pre-training to Online Fine-tuning for Model-based Robot Learning**](https://arxiv.org/abs/2401.03306) | CoRL 2023 | 2024-01-06 | [Project](https://sites.google.com/view/mo2o) | |
 | [**Finetuning Offline World Models in the Real World**](https://arxiv.org/abs/2310.16029) | CoRL 2023 | 2023-10-24 | [Github](https://github.com/fyhMer/fowm) | |
 | [**Structured World Models from Human Videos**](https://arxiv.org/abs/2308.10901) | RSS 2023 | 2023-08-23 | [Github](https://human-world-model.github.io/) | |
 | [**Surfer: Progressive Reasoning with World Models for Robotic Manipulation**](https://arxiv.org/abs/2306.11335) | arXiv | 2023-06-20 | [Github](https://github.com/Necolizer/RM-PRT) | |
-| [**MOTO: Offline Pre-training to Online Fine-tuning for Model-based Robot Learning**](https://arxiv.org/abs/2401.03306) | CoRL 2023 | 2024-01-06 | [Project](https://sites.google.com/view/mo2o) | |
 
 <p align=right>(<a href=#awesome-robotics-manipulation>back to top</a>)</p>
 
@@ -307,7 +307,7 @@ Please feel free to send me pull requests or email to add papers!
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | _Path Planning_|
-| [**Language-Conditioned Path Planning**](https://arxiv.org/abs/2308.16893) | CORL 2023 | 2024-08-31 | [Github](https://github.com/amberxie88/lapp) |  |
+| [**Language-Conditioned Path Planning**](https://arxiv.org/abs/2308.16893) | CoRL 2023 | 2024-08-31 | [Github](https://github.com/amberxie88/lapp) |  |
 | _Motion Planning_|
 | [**DiffusionSeeder: Seeding Motion Optimization with Diffusion for Rapid Motion Planning**](https://arxiv.org/abs/2410.16727) | CoRL 2024 | 2024-10-22 | [Project](https://diffusion-seeder.github.io/) | Motion Planning  |
 | [**ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation**](https://arxiv.org/abs/2409.01652) | CoRL 2024 | 2024-09-03 | [Github](https://github.com/huangwl18/ReKep) | Motion Planning |
@@ -673,7 +673,7 @@ Please feel free to send me pull requests or email to add papers!
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | **Awesome-Implicit-NeRF-Robotics: [Neural Fields in Robotics: A Survey](https://arxiv.org/abs/2410.20220)** | - | 2024-10-26 | [Github](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) | |
-| **Awesome-Video-Robotic-Papers: [Neural Fields in Robotics: A Survey](https://arxiv.org/abs/2410.20220)** | - | 2024 | [Github](https://github.com/H-Freax/Awesome-Video-Robotic-Papers) | |
+| **Awesome-Video-Robotic-Papers** | - | 2024 | [Github](https://github.com/H-Freax/Awesome-Video-Robotic-Papers) | |
 | **Awesome-Generalist-Robots-via-Foundation-Models: [Neural Fields in Robotics: A Survey](https://arxiv.org/abs/2312.08782)** | - | 2024 | [Github](https://github.com/JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models) | |
 | **Awesome-Robotics-3D** | - | 2024 | [Github](https://github.com/zubair-irshad/Awesome-Robotics-3D) | |
 | **Awesome-Robotics-Foundation-Models: [Foundation Models in Robotics: Applications, Challenges, and the Future](https://arxiv.org/abs/2312.07843)** | - | 2023-12-13 | [Github](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models/tree/main) | |
