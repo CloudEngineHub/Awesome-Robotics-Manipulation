@@ -134,7 +134,7 @@ This version of the repository may have some typos, so don’t hesitate to conta
 | [Reasoning Grasping: **Reasoning Grasping via Multimodal Large Language Model**](https://arxiv.org/abs/2402.06798) | CoRL 2024 | 2024-02-09 | [Project](https://reasoning-grasping.github.io/) | LLMs |
 | [**ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter**](https://arxiv.org/abs/2407.11298) | CoRL 2024 | 2024-07-16 | ![Star](https://img.shields.io/github/stars/H-Freax/ThinkGrasp?style=social&label=Star) [Github](https://github.com/H-Freax/ThinkGrasp) | MLLMs |
 | [OWG: **Towards Open-World Grasping with Large Vision-Language Models**](https://arxiv.org/abs/2406.18722) | CoRL 2024 | 2024-06-26 | [Project](https://gtziafas.github.io/OWG_project/) | MLLMs |
-| [RT-Grasp: **RT-Grasp: Reasoning Tuning Robotic Grasping via Multi-modal Large Language Model**](https://arxiv.org/abs/2411.05212) | IROS 2024 | 2024-11-07 | [Project](https://sites.google.com/view/rt-grasp) | Tunning MLLMs |
+| [**RT-Grasp: Reasoning Tuning Robotic Grasping via Multi-modal Large Language Model**](https://arxiv.org/abs/2411.05212) | IROS 2024 | 2024-11-07 | [Project](https://sites.google.com/view/rt-grasp) | Tunning MLLMs |
 
 <p align=right>(<a href=#awesome-robotics-manipulation>back to top</a>)</p>
 
