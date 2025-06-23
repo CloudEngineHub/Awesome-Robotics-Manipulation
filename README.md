@@ -40,6 +40,7 @@ This repository will be continuously updated, and we warmly welcome contribution
     - [Generalist](#generalist)
     - [Human-Robot Interaction and Collaboration](#human-robot-interaction-and-collaboration)
     - [Humanoid Manipulation](#humanoid-manipulation)
+    - [Quadrupedal Manipulation](#quadrupedal-manipulation)
     - [Mobile Manipulation](#mobile-manipulation)
     - [Tactile-based Manipulation](#tactile-based-manipulation)
     - [Dexterous Manipulation](#dexterous-manipulation)
@@ -117,6 +118,8 @@ This repository will be continuously updated, and we warmly welcome contribution
 
 <!-- ******* 1.2.3-Grasp in Cluttered Scenes ******* -->
 ### Grasp in Cluttered Scenes
+|  Title  |   Venue  |   Date   |   Code   | 
+|:--------|:--------:|:--------:|:--------:|
 | [**ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes**](https://arxiv.org/abs/2506.14317) | arXiv | 2025-05-17 | [Prject](https://clutterdexgrasp.github.io/) | |
 | [HGGD: **Efficient Heatmap-Guided 6-Dof Grasp Detection in Cluttered Scenes**](https://arxiv.org/abs/2403.18546) | RA-L 2023 | 2024-03-27 | ![Star](https://img.shields.io/github/stars/THU-VCLab/HGGD?style=social&label=Star) [Github](https://github.com/THU-VCLab/HGGD) | Scene-level |
 | [**Contact-GraspNet: Efficient 6-DoF Grasp Generation in Cluttered Scenes**](https://arxiv.org/abs/2103.14127) | ICRA 2021 | 2021-03-25 | ![Star](https://img.shields.io/github/stars/NVlabs/contact_graspnet?style=social&label=Star) [Github](https://github.com/NVlabs/contact_graspnet) | |
@@ -917,6 +920,8 @@ This repository will be continuously updated, and we warmly welcome contribution
 
 <!-- ******* 1.3.20-Humanoid Manipulation ******* -->
 ### Humanoid Manipulation
+|  Title  |   Venue  |   Date   |   Code   | 
+|:--------|:--------:|:--------:|:--------:|
 | [**TACT: Humanoid Whole-body Contact Manipulation through Deep Imitation Learning with Tactile Modality**](https://arxiv.org/abs/2506.15146) | arXiv | 2025-06-18 | -| |
 | [**Humanoid Policy ~ Human Policy**](https://arxiv.org/abs/2503.13441) | arXiv | 2025-03-17 | ![Star](https://img.shields.io/github/stars/RogerQi/human-policy?style=social&label=Star) [Github](https://github.com/RogerQi/human-policy) | |
 | [**Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration**](https://arxiv.org/abs/2502.14795) | arXiv | 2025-02-20 | -| |
@@ -926,6 +931,7 @@ This repository will be continuously updated, and we warmly welcome contribution
 <p align=right>(<a href=#awesome-robotics-manipulation>back to top</a>)</p>
 
 ### Quadrupedal Manipulation
+
 | [**Human2LocoMan: Learning Versatile Quadrupedal Manipulation with Human Pretraining**](https://arxiv.org/abs/2506.16475) | RSS 2025 | 2025-06-19  | ![Star](https://img.shields.io/github/stars/chrisyrniu/Human2LocoMan?style=social&label=Star) [Github](https://github.com/chrisyrniu/Human2LocoMan)  |
 
 <p align=right>(<a href=#awesome-robotics-manipulation>back to top</a>)</p>
