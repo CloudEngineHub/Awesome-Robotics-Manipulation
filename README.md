@@ -931,7 +931,8 @@ This repository will be continuously updated, and we warmly welcome contribution
 <p align=right>(<a href=#awesome-robotics-manipulation>back to top</a>)</p>
 
 ### Quadrupedal Manipulation
-
+|  Title  |   Venue  |   Date   |   Code   | 
+|:--------|:--------:|:--------:|:--------:|
 | [**Human2LocoMan: Learning Versatile Quadrupedal Manipulation with Human Pretraining**](https://arxiv.org/abs/2506.16475) | RSS 2025 | 2025-06-19  | ![Star](https://img.shields.io/github/stars/chrisyrniu/Human2LocoMan?style=social&label=Star) [Github](https://github.com/chrisyrniu/Human2LocoMan)  |
 
 <p align=right>(<a href=#awesome-robotics-manipulation>back to top</a>)</p>
