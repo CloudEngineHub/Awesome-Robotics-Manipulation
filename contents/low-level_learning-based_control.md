@@ -1,4 +1,4 @@
-## 🏠 Table of Contents
+<h2 id="table-of-contents">🏠 Table of Contents</h2>
 
 - Low-level Learning-based Control
   - [Data Collection and Utilization](#data-collection-and-utilization)

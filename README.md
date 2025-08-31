@@ -40,7 +40,8 @@ Our comprehensive survey is in progress—stay tuned for updates!
 
 
 <!-- ------- 0 - Content Table ------- -->
-## 🏠 Table of Contents
+<h2 id="table-of-contents">🏠 Table of Contents</h2>
+
 - [📝 Awesome Papers](#-awesome-papers)
   - [📄 Survey](#-survey)
   - [Manipulation Tasks](contents/manipulation_tasks.md)

@@ -1,4 +1,4 @@
-## 🏠 Table of Contents
+<h2 id="table-of-contents">🏠 Table of Contents</h2>
 
 - Generalization
     - [Task Generalization](#task-generalization)

@@ -1,4 +1,4 @@
-## 🏠 Table of Contents
+<h2 id="table-of-contents">🏠 Table of Contents</h2>
 
 - High-level Planner
     - [Task Planning](#task-planning)
