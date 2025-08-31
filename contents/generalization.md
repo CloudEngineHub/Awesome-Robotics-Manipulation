@@ -24,11 +24,11 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
-| [**Policy Architectures for Compositional Generalization in Control**](https://arxiv.org/abs/2203.05960) | NeurIPSW 2022 | 2022-03-10 | ![Star](https://img.shields.io/github/stars/facebookresearch/entity-factored-rl?style=social&label=Star) [Github](https://github.com/facebookresearch/entity-factored-rl) | Compositional Generalization |
-| [PROGRAMPORT: **Programmatically Grounded, Compositionally Generalizable Robotic Manipulation**](https://arxiv.org/abs/2304.13826) | ICLR 2023 | 2023-04-26 | [Project](https://progport.github.io/) | Compositional Generalization |
 | [**Efficient Data Collection for Robotic Manipulation via Compositional Generalization**](https://arxiv.org/abs/2403.05110) | RSS 2024 | 2024-03-08 | [Project](https://iliad.stanford.edu/robot-data-comp/) | Compositional Generalization |
+| [PROGRAMPORT: **Programmatically Grounded, Compositionally Generalizable Robotic Manipulation**](https://arxiv.org/abs/2304.13826) | ICLR 2023 | 2023-04-26 | [Project](https://progport.github.io/) | Compositional Generalization |
+| [**Policy Architectures for Compositional Generalization in Control**](https://arxiv.org/abs/2203.05960) | NeurIPSW 2022 | 2022-03-10 | ![Star](https://img.shields.io/github/stars/facebookresearch/entity-factored-rl?style=social&label=Star) [Github](https://github.com/facebookresearch/entity-factored-rl) | Compositional Generalization |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 ### Cross-Embodiment Generalization
 <!-- |  Title  |   Venue  |   Date   |   Code   |   Notes  |
@@ -48,13 +48,14 @@
 | [**XSkill: Cross Embodiment Skill Discovery**](https://arxiv.org/abs/2307.09955) | CoRL 2023 | 2023-07-19 | ![Star](https://img.shields.io/github/stars/real-stanford/xskill?style=social&label=Star) [Github](https://github.com/real-stanford/xskill) | |
 | [**Modularity through Attention: Efficient Training and Transfer of Language-Conditioned Policies for Robot Manipulation**](https://arxiv.org/abs/2212.04573) | CoRL 2022 | 2022-12-08 | ![Star](https://img.shields.io/github/stars/ir-lab/ModAttn?style=social&label=Star) [Github](https://github.com/ir-lab/ModAttn) | |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 ### Long-horizon Generalization
 <!-- |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation**](https://arxiv.org/abs/2508.19958) | CoRL 2025 | 2025-08-27 | [Project](https://long-vla.github.io/) | |
 | [**BT-TL-DMPs: A Novel Robot TAMP Framework Combining Behavior Tree, Temporal Logic and Dynamical Movement Primitives**](https://arxiv.org/abs/2507.14582) | arXiv | 2025-07-19 | - | |
 | [**Look Before You Leap: Using Serialized State Machine for Language Conditioned Robotic Manipulation**](https://arxiv.org/abs/2503.05114) | arXiv | 2025-03-07 | [Project](https://hd-space-robotics.github.io/) | |
 | [**Bootstrapping Imitation Learning for Long-horizon Manipulation via Hierarchical Data Collection Space**](https://arxiv.org/abs/2505.17389) | arXiv | 2025-05-23 | [Project](https://hd-space-robotics.github.io/) | |
@@ -83,7 +84,7 @@
 | [**Learning to Generalize Across Long-Horizon Tasks from Human Demonstrations**](https://arxiv.org/abs/2003.06085) | RSS 2020 | 2020-03-13 | [Project](https://sites.google.com/view/gti2020/) |  |
 | [**Learning to Combine Primitive Skills: A Step towards Versatile Robotic Manipulation**](https://arxiv.org/abs/1908.00722) | ICRA 2020 | 2019-08-02 | ![Star](https://img.shields.io/github/stars/rstrudel/rlbc?style=social&label=Star) [Github](https://github.com/rstrudel/rlbc) |  |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 ### Few-shot Learning
 <!-- |  Title  |   Venue  |   Date   |   Code   |   Notes  |
@@ -91,22 +92,21 @@
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 | [**Elastic Motion Policy: An Adaptive Dynamical System for Robust and Efficient One-Shot Imitation Learning**](https://arxiv.org/abs/2503.08029) | IROS 2025 | 2025-03-11 | [Project](https://elastic-motion-policy.github.io/EMP/) |  |
+| [**VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation**](https://arxiv.org/abs/2503.07135) | CVPR 2025 | 2025-03-10 | [Project](https://hanzhic.github.io/vidbot-project/) |  |
 | [**One-Shot Dual-Arm Imitation Learning**](https://arxiv.org/abs/2503.06831) | ICRA 2025 | 2025-03-10 | [Project](https://www.robot-learning.uk/one-shot-dual-arm) |  |
 | [**You Only Teach Once: Learn One-Shot Bimanual Robotic Manipulation from Video Demonstrations**](https://arxiv.org/abs/2501.14208) | RSS 2025 | 2025-01-24 | ![Star](https://img.shields.io/github/stars/hnuzhy/YOTO?style=social&label=Star) [Github](https://github.com/hnuzhy/YOTO) |  |
+| [**Zero-Shot Offline Imitation Learning via Optimal Transport**](https://arxiv.org/abs/2410.08751) | arXiv | 2024-10-11 | ![Star](https://img.shields.io/github/stars/martius-lab/zilot?style=social&label=Star) [Github](https://github.com/martius-lab/zilot) |  |
 | [**Vision-based Manipulation from Single Human Video with Open-World Object Graphs**](https://arxiv.org/abs/2405.20321) | CoRLW 2024 | 2024-05-30 | [Project](https://ut-austin-rpl.github.io/ORION-release/) |  |
-| [**DITTO: Demonstration Imitation by Trajectory Transformation**](https://arxiv.org/abs/2403.15203) | IROS 2024 | 2024-03-22 | ![Star](https://img.shields.io/github/stars/robot-learning-freiburg/DITTO?style=social&label=Star) [Github](https://github.com/robot-learning-freiburg/DITTO) |  |
-| [**CoBT: Collaborative Programming of Behaviour Trees from One Demonstration for Robot Manipulation**](https://arxiv.org/abs/2404.05870) | ICRA 2024 | 2024-04-08 | ![Star](https://img.shields.io/github/stars/jainaayush2006/CoBT?style=social&label=Star) [Github](https://github.com/jainaayush2006/CoBT) |  |
+| [**DITTO: Demonstration Imitation by Trajectory Transformation**](https://arxiv.org/abs/2403.15203) | IROS 2024 | 2024-03-22 | ![Star](https://img.shields.io/github/stars/robot-learning-freiburg/DITTO?style=social&label=Star) [Github](https://github.com/robot-learning-freiburg/DITTO) |  
+| [**CoBT: Collaborative Programming of Behaviour Trees from One Demonstration for Robot Manipulation**](https://arxiv.org/abs/2404.05870) | ICRA 2024 | 2024-04-08 | ![Star](https://img.shields.io/github/stars/jainaayush2006/CoBT?style=social&label=Star) [Github](https://github.com/jainaayush2006/CoBT) |  
 | [**Zero-Shot Visual Generalization in Robot Manipulation**](https://arxiv.org/abs/2505.11719) | arXiv | 2022-05-16 | [Project](https://sites.google.com/view/vis-gen-robotics/home) |  |
 | [**One-Shot Domain-Adaptive Imitation Learning via Progressive Learning**](https://arxiv.org/abs/2204.11251) | TASE 2022 | 2022-04-24 | - |  |
 | [**Demonstrate Once, Imitate Immediately (DOME): Learning Visual Servoing for One-Shot Imitation Learning**](https://arxiv.org/abs/2204.02863) | IROS 2022 | 2022-04-06 | [Project](https://www.robot-learning.uk/dome) |  |
 | [**Coarse-to-Fine Imitation Learning: Robot Manipulation from a Single Demonstration**](https://arxiv.org/abs/2105.06411) | ICRA 2021 | 2021-05-13 | [Project](https://www.robot-learning.uk/coarse-to-fine-imitation-learning) |  |
-
-| [**VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation**](https://arxiv.org/abs/2503.07135) | CVPR 2025 | 2025-03-10 | [Project](https://hanzhic.github.io/vidbot-project/) |  |
-| [**Zero-Shot Offline Imitation Learning via Optimal Transport**](https://arxiv.org/abs/2410.08751) | arXiv | 2024-10-11 | ![Star](https://img.shields.io/github/stars/martius-lab/zilot?style=social&label=Star) [Github](https://github.com/martius-lab/zilot) |  |
 | [**SOZIL: Self-Optimal Zero-Shot Imitation Learning**](https://ieeexplore.ieee.org/document/9552943) | TCDS 2021 | 2021-09-30 | - |  |
 | [**Zero-Shot Visual Imitation**](https://arxiv.org/abs/1804.08606) | ICLR 2018  | 2018-04-23 | ![Star](https://img.shields.io/github/stars/pathak22/zeroshot-imitation?style=social&label=Star) [Github](https://github.com/pathak22/zeroshot-imitation) |  |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 ### Meta Learning
 <!-- |  Title  |   Venue  |   Date   |   Code   |   Notes  |
@@ -133,7 +133,7 @@
 | [**One-Shot Visual Imitation Learning via Meta-Learning**](https://arxiv.org/abs/1709.04905) | CoRL 2017 | 2017-09-14 | ![Star](https://img.shields.io/github/stars/tianheyu927/mil?style=social&label=Star) [Github](https://github.com/tianheyu927/mil) | | 
 | [**One-Shot Imitation Learning**](https://arxiv.org/abs/1703.07326) | NeurIPS 2017 | 2017-03-21 | [Project](https://sites.google.com/view/nips2017-one-shot-imitation/home) | | 
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 ### Lifelong/Continual/Incremental Learning
 <!-- |  Title  |   Venue  |   Date   |   Code   |   Notes  |
@@ -149,7 +149,7 @@
 | [**LOTUS: Continual Imitation Learning for Robot Manipulation Through Unsupervised Skill Discovery**](https://arxiv.org/abs/2311.02058) | ICRA 2024 | 2023-11-03 | ![Star](https://img.shields.io/github/stars/UT-Austin-RPL/Lotus?style=social&label=Star) [Github](https://github.com/UT-Austin-RPL/Lotus) |  |
 | [**CRIL: Continual Robot Imitation Learning via Generative and Prediction Model**](https://arxiv.org/abs/2106.09422) | IROS 2021 | 2021-06-17 | ![Star](https://img.shields.io/github/stars/HeegerGao/CRIL?style=social&label=Star) [Github](https://github.com/HeegerGao/CRIL) |  |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 ### Test-Time Adaptation
 <!-- |  Title  |   Venue  |   Date   |   Code   |   Notes  |
@@ -158,7 +158,7 @@
 |:--------|:--------:|:--------:|:--------:|
 | [**Adapting by Analogy: OOD Generalization of Visuomotor Policies via Functional Correspondence**](https://arxiv.org/abs/2506.12678) | arXiv | 2025-06-15 | - |  |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 
 
@@ -184,7 +184,7 @@
 | [Domain Randomization: **Sim-to-Real Transfer of Robotic Control with Dynamics Randomization**](https://arxiv.org/abs/1710.06537) | ICRA 2018 | 2017-10-18 | - |  |
 | [**Transferring End-to-End Visuomotor Control from Simulation to Real World for a Multi-Stage Task**](https://arxiv.org/abs/1710.06537) | CoRL 2017 | 2017-07-07 | - |  |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 ### SE(3)/SIM(3)-Equivariance (View Changes)
 <!-- |  Title  |   Venue  |   Date   |   Code   |   Notes  |
@@ -197,7 +197,7 @@
 | [**ET-SEED: Efficient Trajectory-Level SE(3) Equivariant Diffusion Policy**](https://arxiv.org/abs/2411.03990) | ICLR 2025 | 2024-11-06 | ![Star](https://img.shields.io/github/stars/yuechen0614/ET-SEED?style=social&label=Star) [Github](https://github.com/yuechen0614/ET-SEED) |  |
 | [**EquiBot: SIM(3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning**](https://arxiv.org/abs/2407.01479) | CoRL 2024 | 2024-07-01 | ![Star](https://img.shields.io/github/stars/yjy0625/equibot?style=social&label=Star) [Github](https://github.com/yjy0625/equibot) |  |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 ### Lighting/background/distractor Changes
 <!-- |  Title  |   Venue  |   Date   |   Code   |   Notes  |
@@ -214,4 +214,4 @@
 | [**Spatial Generalization of Visual Imitation Learning with Position-Invariant Regularization**](https://openreview.net/forum?id=N00uQFLlvHC) | RSSW 2023 | 2023-06-24 | - | Position Changes |
 | [**Cross-context Visual Imitation Learning from Demonstrations**](https://ieeexplore.ieee.org/document/9196868) | ICRA 2020 | 2020-09-16 | [Project](https://vsislab.github.io/ccvil/) |  |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>

@@ -28,7 +28,7 @@
 | [**DALL-E-Bot: Introducing Web-Scale Diffusion Models to Robotics**](https://arxiv.org/abs/2210.02438) | RA-L 2023 | 2022-10-05 | [Project](https://www.robot-learning.uk/) | Object Rearrangement |
 | [**Towards the Development of a Soft Manipulator as An Assistive Robot for Personal Care of Elderly People**](https://journals.sagepub.com/doi/full/10.1177/1729881416687132) | IJARS 2017 | 2017-04-11  | - | Assist |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 
 
@@ -38,7 +38,7 @@
 <!-- |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:| -->
 
-<!-- <p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p> -->
+<!-- <p align="right">(<a href="#table-of-contents">back to top</a>)</p> -->
 
 
 
@@ -53,7 +53,7 @@
 | [**RICE: Reactive Interaction Controller for Cluttered Canopy Environment**](https://arxiv.org/abs/2506.10383) | RA-L 2025 | 2025-06-12  | - |
 | [**Enhanced View Planning for Robotic Harvesting: Tackling Occlusions with Imitation Learning**](https://arxiv.org/abs/2503.10334) | ICRA 2025 | 2025-03-13 | - |  |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 
 
@@ -66,7 +66,7 @@
 | [**DeepCraft: Imitation Learning Method in a Cointelligent Design to Production Process to Deliver Architectural Scenarios**](https://link.springer.com/article/10.1007/s44223-024-00055-2) | AI 2024 | 2024-04-02 | - |  |
 | [**End-to-end Manipulator Calligraphy Planning via Variational Imitation Learning**](https://arxiv.org/abs/2304.02801) | arXiv | 2023-04-06 | - |  |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 
 
@@ -86,15 +86,14 @@
 | [**Collaborative Robot-Assisted Endovascular Catheterization with Generative Adversarial Imitation Learning**](https://ieeexplore.ieee.org/document/9196912) | ICRA 2020 | 2020-09-15 | - | |
 | _Biology_|
 | [**RoboCulture: A Robotics Platform for Automated Biological Experimentation**](https://arxiv.org/abs/2505.14941) | arXiv | 2025-05-20 | - | |
-| [**Real-Time Spatiotemporal Assistance for Micromanipulation Using Imitation Learning**](https://ieeexplore.ieee.org/document/10436348/) | RA-L 2024 | 
-2024-02-14 | - | |
+| [**Real-Time Spatiotemporal Assistance for Micromanipulation Using Imitation Learning**](https://ieeexplore.ieee.org/document/10436348/) | RA-L 2024 | 2024-02-14 | - | |
 | _Aerospace_ |
 | [**Enhancing Autonomous Manipulator Control with Human-in-loop for Uncertain Assembly Environments**](https://arxiv.org/abs/2507.11006) | CASE 2025 | 2025-07-15 | - | |
 | [**Imitation Learning for Autonomous Trajectory Learning of Robot Arms in Space**](https://arxiv.org/abs/2008.04007) | arXiv | 2020-08-10 | - | Aerospace |
 | _Others_ |
 | [**LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents**](https://arxiv.org/abs/2505.22634) | arXiv | 2025-05-28 | - | |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 
 
@@ -105,4 +104,4 @@
 |:--------|:--------:|:--------:|:--------:|
 | [**SpikePingpong: High-Frequency Spike Vision-based Robot Learning for Precise Striking in Table Tennis Game**](https://arxiv.org/abs/2506.06690) | arXiv | 2025-06-07 | - | |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>

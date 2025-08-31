@@ -31,7 +31,7 @@
 | [**A fast and robust grasp planner for arbitrary 3D objects**](https://ieeexplore.ieee.org/abstract/document/770384/) | ICRA 1999 | 1999-05 | - | |
 | [**Planning Two-fingered Grasps for Pick-and-Place Operations on Polyhedra**](https://ieeexplore.ieee.org/document/126063) | ICRA 1990 | 1990-05 | - | |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 ### Rectangle-based Grasp
 <!-- |  Title  |   Venue  |   Date   |   Code   |   Notes  |
@@ -48,7 +48,7 @@
 | [**Robotic Grasp Detection using Deep Convolutional Neural Networks**](https://arxiv.org/abs/1611.08036) | IROS 2017 | 2016-11-24 | ![Star](https://img.shields.io/github/stars/tnikolla/robot-grasp-detection?style=social&label=Star)  [Github](https://github.com/tnikolla/robot-grasp-detection) |  |
 | [**Real-Time Grasp Detection Using Convolutional Neural Networks**](https://arxiv.org/abs/1412.3128) | ICRA 2015 | 2014-12-09 | - |  |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 <!-- ******* 1.2.3 - 6-DoF Grasp ******* -->
 ### 6-DoF Grasp
@@ -80,7 +80,7 @@
 | [**6-DOF GraspNet: Variational Grasp Generation for Object Manipulation**](https://arxiv.org/abs/1905.10520) | ICCV 2019 | 2019-05-25 | ![Star](https://img.shields.io/github/stars/NVlabs/6dof-graspnet?style=social&label=Star) [Github](https://github.com/NVlabs/6dof-graspnet) | VAE |
 | [**Learning 6-DOF Grasping Interaction via Deep Geometry-aware 3D Representations**](https://arxiv.org/abs/1708.07303) | ICRA 2018 | 2017-08-24 | [Project](https://xcyan.github.io/geoaware_grasping/) |  |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 <!-- ******* 1.2.4 - Grasp with 3D Techniques ******* -->
 ### Grasp with 3D Techniques
@@ -101,7 +101,7 @@
 | [**GraspSplats: Efficient Manipulation with 3D Feature Splatting**](https://arxiv.org/abs/2409.02084) | CoRL 2024 | 2024-09-03 | ![Star](https://img.shields.io/github/stars/jimazeyu/GraspSplats?style=social&label=Star) [Github](https://github.com/jimazeyu/GraspSplats) | |
 | [**GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping**](https://arxiv.org/abs/2403.09637) | RA-L 2024 | 2024-03-14 | ![Star](https://img.shields.io/github/stars/MrSecant/GaussianGrasper?style=social&label=Star) [Github](https://github.com/MrSecant/GaussianGrasper) | |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 <!-- ******* 1.2.5 - Language-Driven Grasp ******* -->
 ### Language-Driven Grasp
@@ -129,7 +129,7 @@
 | [**A Joint Modeling of Vision-Language-Action for Target-oriented Grasping in Clutter**](https://arxiv.org/abs/2302.12610) | ICRA 2023 | 2023-02-24 | ![Star](https://img.shields.io/github/stars/xukechun/Vision-Language-Grasping?style=social&label=Star) [Github](https://github.com/xukechun/Vision-Language-Grasping) | |
 | [**Learning 6-DoF Fine-grained Grasp Detection Based on Part Affordance Grounding**](https://arxiv.org/pdf/2301.11564) | TASE 2025 | 2023-01-27 | ![Star](https://img.shields.io/github/stars/aaronhd/LangPartGPD?style=social&label=Star) [Github](https://github.com/aaronhd/LangPartGPD) | |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 <!-- ******* 1.2.6 - Grasp for Transparent Objects ******* -->
 ### Grasp for Transparent Objects
@@ -146,7 +146,7 @@
 | [**ASGrasp: Generalizable Transparent Object Reconstruction and Grasping from RGB-D Active Stereo Camera**](https://arxiv.org/abs/2405.05648) | ICRA 2024 | 2024-05-09 | ![Star](https://img.shields.io/github/stars/jun7-shi/ASGrasp?style=social&label=Star) [Github](https://github.com/jun7-shi/ASGrasp) | |
 | [**Dex-NeRF: Using a Neural Radiance Field to Grasp Transparent Objects**](https://arxiv.org/abs/2110.14217) | CoRL 2021 | 2021-10-27 | ![Star](https://img.shields.io/github/stars/BerkeleyAutomation/dex-nerf-datasets?style=social&label=Star) [Github](https://github.com/BerkeleyAutomation/dex-nerf-datasets) | |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 <!-- ******* 1.2.7 - Dexterous Grasp ******* -->
 ### Dexterous Grasp
@@ -167,7 +167,7 @@
 | [**GenDexGrasp: Generalizable Dexterous Grasping**](https://arxiv.org/abs/2210.00722) | ICRA 2023  | 2022-10-03 | ![Star](https://img.shields.io/github/stars/tengyu-liu/GenDexGrasp?style=social&label=Star) [Github](https://github.com/tengyu-liu/GenDexGrasp) |
 | [**Towards a Unifying Grasp Representation for Imitation Learning on Humanoid Robots**](https://ieeexplore.ieee.org/document/5980559/) | ICRA 2011  | 2011-08-18 | - |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 <!-- ******* 1.2.8 - Bimanual Grasp ******* -->
 ### Bimanual Grasp
@@ -178,7 +178,7 @@
 | [**Bi3D Diffuser Actor: 3D Policy Diffusion for Bi-manual Robot Manipulation**](https://openreview.net/forum?id=xcBz0l6yfa) | CoRLW 2024 | 2024-10-29 | - | |
 | [**Learning Ambidextrous Robot Grasping Policies**](https://www.science.org/doi/10.1126/scirobotics.aau4984?ijkey=IogH9u4mOL70s&keytype=ref&siteid=robotics) | SR 2019 | 2019-01-30 | - | |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 
 
@@ -196,7 +196,7 @@
 | _Learning-based Control_ |
 | Refer to [Low-level Learng-based Contorl-based Control](low-level_learning-based_control_methods.md) |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 
 
@@ -252,7 +252,7 @@
 | _3D_ |
 | [**DexFruit: Dexterous Manipulation and Gaussian Splatting Inspection of Fruit**](https://arxiv.org/abs/2508.07118) | arXiv | 2025-08-09 | [Project](https://dex-fruit.github.io/) | |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 
 
@@ -293,7 +293,7 @@
 | _RL+IL_ |
 | [**Sensor-Space Based Robust Kinematic Control of Redundant Soft Manipulator by Learning**](https://arxiv.org/abs/2507.16842) | arXiv | 2025-07-19 | - |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 
 
@@ -318,7 +318,7 @@
 | [**Multi-Stage Cable Routing through Hierarchical Imitation Learning**](https://arxiv.org/abs/2307.08927) | T-RO 2024 | 2023-07-18 | ![Star](https://img.shields.io/github/stars/charlesxu0124/CableRouting?style=social&label=Star) [Code](https://github.com/charlesxu0124/CableRouting) |
 | [**RoboCook: Long-Horizon Elasto-Plastic Object Manipulation with Diverse Tools**](https://arxiv.org/abs/2306.14447) | CoRL 2023 | 2023-06-26  | ![Star](https://img.shields.io/github/stars/hshi74/robocook?style=social&label=Star) [Github](https://github.com/hshi74/robocook) |
 | [**HANDLOOM: Learned Tracing of One-Dimensional Objects for Inspection and Manipulation**](https://arxiv.org/abs/2303.08975) | CoRL 2023 | 2023-03-15 | [Project](https://github.com/vainaviv/handloom)  |
-| [**DexDeform: Dexterous Deformable Object Manipulation with Human Demonstrations and Differentiable Physics**](https://arxiv.org/abs/2304.03223) | ICLR 2023 | 2023-04-27 | ![Star](https://img.shields.io/github/stars/sizhe-li/Sim-to-Real Reinforcement Learning forDexDeform?style=social&label=Star) [Code](https://github.com/sizhe-li/DexDeform) |
+| [**DexDeform: Dexterous Deformable Object Manipulation with Human Demonstrations and Differentiable Physics**](https://arxiv.org/abs/2304.03223) | ICLR 2023 | 2023-04-27 | ![Star](https://img.shields.io/github/stars/sizhe-li/DexDeform?style=social&label=Star) [Code](https://github.com/sizhe-li/DexDeform) |
 | [**Learning Robot Manipulation from Cross-Morphology Demonstration**](https://arxiv.org/abs/2304.03833) | CoRL 2023 | 2023-04-07 | ![Star](https://img.shields.io/github/stars/uscresl/mail?style=social&label=Star) [Code](https://github.com/uscresl/mail) |
 | [**Deep Imitation Learning of Sequential Fabric Smoothing From an Algorithmic Supervisor**](https://arxiv.org/abs/1910.04854) | IROS 2019 | 2019-10-23 | [Project](https://sites.google.com/view/fabric-smoothing) |
 | [**Cloth Manipulation Using Random-Forest-Based Imitation Learning**](https://arxiv.org/abs/1802.09661) | RA-L 2019 | 2018-02-27 | - |
@@ -341,7 +341,7 @@
 | [**Deformable Linear Objects Manipulation With Online Model Parameters Estimation**](https://ieeexplore.ieee.org/document/10412116) | RA-L 2024 | 2024-01-24 | - |
 | [**GenDOM: Generalizable One-shot Deformable Object Manipulation with Parameter-Aware Policy**](https://arxiv.org/abs/2309.09051) | ICRA 2024 | 2023-09-16 | ![Star](https://img.shields.io/github/stars/Kuroki1931/UniDOM?style=social&label=Star) [Code](https://github.com/Kuroki1931/UniDOM) |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 
 
@@ -394,7 +394,7 @@
 | [**TaMMa: Target-driven Multi-subscene Mobile Manipulation**](https://openreview.net/pdf?id=EiqQEsOMZt) | CoRL 2024 | 2024-09-06 | - |
 | [**Active-Perceptive Motion Generation for Mobile Manipulation**](https://arxiv.org/abs/2310.00433) | ICRA 2024 | 2023-10-30 | ![Star](https://img.shields.io/github/stars/pearl-robot-lab/ActPerMoMa?style=social&label=Star) [Github](https://github.com/pearl-robot-lab/ActPerMoMa) |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 
 
@@ -438,7 +438,7 @@
 | _3D Representations_ | 
 | [**Learning Generalizable Feature Fields for Mobile Manipulation**](https://arxiv.org/abs/2403.07563) | arXiv | 2024-03-12 | [Project](https://geff-b1.github.io/) |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 
 
@@ -479,5 +479,5 @@
 | [**Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration**](https://arxiv.org/abs/2502.14795) | arXiv | 2025-02-20 | - | |
 | [**HumanVLA: Towards Vision-Language Directed Object Rearrangement by Physical Humanoid**](https://arxiv.org/abs/2406.19972) | NeurIPS 2024 | 2024-06-28 | ![Star](https://img.shields.io/github/stars/AllenXuuu/HumanVLA?style=social&label=Star) [Github](https://github.com/AllenXuuu/HumanVLA) | |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 

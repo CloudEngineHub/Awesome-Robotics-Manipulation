@@ -79,7 +79,7 @@ Our comprehensive survey is in progress—stay tuned for updates!
     - [Policy Learning](contents/low-level_learning-based_control.md#latent-decode-policy-design)
       - [Diffusion Policy](contents/low-level_learning-based_control.md#diffusion-policy)
       - [Other Policies](contents/low-level_learning-based_control.md#other-policies)
-  - [Generalization Tasks](contents/generalization.md)
+  - [Generalization](contents/generalization.md)
     - [Task Generalization](contents/generalization.md#task-generalization)
     - [Environment Generalization](contents/generalization.md#environment-generalization)
   - [Applications](contents/applications.md)
@@ -133,7 +133,7 @@ Our comprehensive survey is in progress—stay tuned for updates!
 | [**A Survey of Wheeled Mobile Manipulation: A Decision Making Perspective**](https://par.nsf.gov/servlets/purl/10393722) | J. Mech. Robot. 2023 | 2023-04 | - | Mobile Manipulation |
 | [**A Review of Soft Manipulator Research, Applications, and Opportunities**](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22051) | J Field Robot. 2023 | 2023-04 | - | Soft Manipulator |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 <!-- ------- 1.2 - Future Direction ------- -->
 <!-- ### Future Direction
@@ -176,7 +176,7 @@ Our comprehensive survey is in progress—stay tuned for updates!
 | [**UniFucGrasp: Human-Hand-Inspired Unified Functional Grasp Annotation Strategy and Dataset for Diverse Dexterous Hands**](https://www.arxiv.org/abs/2508.03339) | arXiv | 2025-08-05 | ![Star](https://img.shields.io/github/stars/cxcAxxy/UniFucGrasp?style=social&label=Star) [Github](https://github.com/cxcAxxy/UniFucGrasp) | |
 | [**DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation**](https://arxiv.org/abs/2210.02697) | ICRA 2023 | 2022-10-06 | ![Star](https://img.shields.io/github/stars/PKU-EPIC/DexGraspNet?style=social&label=Star) [Github](https://github.com/PKU-EPIC/DexGraspNet) | |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 <!-- ------- 2.2 - Single-Embodiment Manipulation Simulators and Benchmarks ------- -->
 ### Single-Embodiment Manipulation Simulators and Benchmarks
@@ -252,7 +252,7 @@ Our comprehensive survey is in progress—stay tuned for updates!
 | [**BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark**](https://arxiv.org/abs/2407.07788) | arXiv | 2024-07-10 | ![Star](https://img.shields.io/github/stars/chernyadev/bigym?style=social&label=Star) [Github](https://github.com/chernyadev/bigym) | |
 | [**HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation**](https://arxiv.org/abs/2403.10506) | arXiv | 2024-03-15 | ![Star](https://img.shields.io/github/stars/carlosferrazza/humanoid-bench?style=social&label=Star) [Github](https://github.com/carlosferrazza/humanoid-bench) | |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 <!-- ------- 2.3 - Cross-Embodiment Simulators and Benchmarks ------- -->
 ### Cross-Embodiment Simulators and Benchmarks
@@ -273,7 +273,7 @@ Our comprehensive survey is in progress—stay tuned for updates!
 | [Isaac Lab: **Orbit: A Unified Simulation Framework for Interactive Robot Learning Environments**](https://arxiv.org/abs/2301.04195) | RA-L 2023 | 2023-01-10 | ![Star](https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=social&label=Star) [Github](https://github.com/isaac-sim/IsaacLab) |
 | [**robosuite: A Modular Simulation Framework and Benchmark for Robot Learning**](https://arxiv.org/abs/2009.12293) | arXiv | 2020-09-25 | ![Star](https://img.shields.io/github/stars/ARISE-Initiative/robosuite?style=social&label=Star) [Github](https://github.com/ARISE-Initiative/robosuite) |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 <!-- ------- 2.4 - Other Simulators and Benchmarks ------- -->
 ### Other Simulators and Benchmarks
@@ -283,7 +283,7 @@ Our comprehensive survey is in progress—stay tuned for updates!
 | [**Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation**](https://arxiv.org/abs/2504.06961) | CVPR 2025 | 2025-04-09 | ![Star](https://img.shields.io/github/stars/TEA-Lab/TwoByTWo?style=social&label=Star) [Github](https://github.com/TEA-Lab/TwoByTWo) | |
 | [**FMB: a Functional Manipulation Benchmark for Generalizable Robotic Learning**](https://arxiv.org/abs/2401.08553) | IJRR 2024 | 2024-01-16 | ![Star](https://img.shields.io/github/stars/rail-berkeley/fmb?style=social&label=Star) [Github](https://github.com/rail-berkeley/fmb) | Functional Manipulation |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 <!-- ------- 2.5 - Trajectory Datasets ------- -->
 ### Trajectory Datasets
@@ -303,7 +303,7 @@ Our comprehensive survey is in progress—stay tuned for updates!
 | [**Bridge Data: Boosting Generalization of Robotic Skills with Cross-Domain Datasets**](https://arxiv.org/abs/2109.13396) | CoRL 2018 | 2021-09-27 | ![Star](https://img.shields.io/github/stars/yanlai00/bridge_data_imitation_learning?style=social&label=Star) [Github](https://github.com/yanlai00/bridge_data_imitation_learning) | |
 | [**Multiple Interactions Made Easy (MIME): Large Scale Demonstrations Data for Imitation**](https://arxiv.org/abs/1810.07121) | CoRL 2018 | 2018-10-16 | - | |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 <!-- ------- 2.6 - Embodied QA and Affordance Datasets ------- -->
 ### Embodied QA and Affordance Datasets
@@ -317,7 +317,7 @@ Our comprehensive survey is in progress—stay tuned for updates!
 | [**ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models**](https://arxiv.org/abs/2403.11289) | IROS 2024 | 2024-03-17 | ![Star](https://img.shields.io/github/stars/SiyuanHuang95/ManipVQA?style=social&label=Star) [Github](https://github.com/SiyuanHuang95/ManipVQA) | |
 | [**OpenEQA: Embodied Question Answering in the Era of Foundation Models**](https://open-eqa.github.io/assets/pdfs/paper.pdf) | CVPR 2024 | 2024 | ![Star](https://img.shields.io/github/stars/facebookresearch/open-eqa?style=social&label=Star) [Github](https://github.com/facebookresearch/open-eqa) | |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 
 
@@ -336,7 +336,7 @@ Our comprehensive survey is in progress—stay tuned for updates!
 | **Awesome-Generalist-Robots-via-Foundation-Models: [Neural Fields in Robotics: A Survey](https://arxiv.org/abs/2312.08782)** | - | 2023-06-20 | ![Star](https://img.shields.io/github/stars/JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models?style=social&label=Star) [Github](https://github.com/JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models) | |
 | **Awesome-LLM-Robotics** | - | 2022-08-12 | ![Star](https://img.shields.io/github/stars/GT-RIPL/Awesome-LLM-Robotics?style=social&label=Star) [Github](https://github.com/GT-RIPL/Awesome-LLM-Robotics) | |
 
-<p align=right>(<a href=#🏠-table-of-contents>back to top</a>)</p>
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 
 
