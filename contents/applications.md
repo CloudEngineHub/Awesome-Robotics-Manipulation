@@ -13,32 +13,49 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| _Dress_ |
 | [**Bimanual Robot-Assisted Dressing: A Spherical Coordinate-Based Strategy for Tight-Fitting Garments**](https://arxiv.org/abs/2508.12274) | arXiv | 2025-08-17 | -  | - | Dress |
-| [**RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills**](https://arxiv.org/abs/2506.14763) | arXiv | 2025-06-17 | [Project](https://chunru-lin.github.io/RobotSmith/) | Tool |
+| _Cook_ |
 | [**ForceMimic: Force-Centric Imitation Learning with Force-Motion Capture System for Contact-Rich Manipulation**](https://arxiv.org/abs/2410.07554) | arXiv | 2024-10-10 | [Project](https://forcemimic.github.io/)  | - | Cook |
-| [**Tool-as-Interface: Learning Robot Policies from Human Tool Usage through Imitation Learning**](https://arxiv.org/abs/2504.04612) | ICRAW 2025 | 2025-04-06 | ![Star](https://img.shields.io/github/stars/Tool-as-Interface/Tool_as_Interface?style=social&label=Star) [Github](https://github.com/Tool-as-Interface/Tool_as_Interface) | Tool |
+| _Feed_ |
+| [**Adaptive Visual Imitation Learning for Robotic Assisted Feeding Across Varied Bowl Configurations and Food Types**](https://arxiv.org/abs/2403.12891) | ICRAW 2024 | 2024-03-19  | - | Feed |
+| [VAPORS: **Learning Sequential Acquisition Policies for Robot-Assisted Feeding**](https://arxiv.org/abs/2309.05197) | CoRL 2023 | 2023-09-11  | [Project](https://sites.google.com/view/vaporsbot) | Feed |
+| _Scoop_ |
+| [**GRITS: A Spillage-Aware Guided Diffusion Policy for Robot Food Scooping Tasks**](https://arxiv.org/abs/2510.00573) | arXiv | 2023-10-01  | - |  |
+| _Assist_ |
+| [**PrioriTouch: Adapting to User Contact Preferences for Whole-Arm Physical Human-Robot Interaction**](https://arxiv.org/abs/2509.18447) | CoRL 2025 | 2025-09-22 | [Project](https://emprise.cs.cornell.edu/prioritouch/) | Assist |
+| [**TASC: Task-Aware Shared Control for Teleoperated Manipulation**](https://arxiv.org/abs/2509.10416) | arXiv | 2025-09-12 | ![Star](https://img.shields.io/github/stars/fitz0401/tasc?style=social&label=Star) [Github](https://github.com/fitz0401/tasc) | Assist |
+| [**Towards the Development of a Soft Manipulator as An Assistive Robot for Personal Care of Elderly People**](https://journals.sagepub.com/doi/full/10.1177/1729881416687132) | IJARS 2017 | 2017-04-11  | - | Assist |
+| _Stow_ |
+| [**Predicting Object Interactions with Behavior Primitives: An Application in Stowing Tasks**](https://arxiv.org/abs/2309.16873) | CoRL 2023 | 2023-09-28 | ![Star](https://img.shields.io/github/stars/haonan16/Stow?style=social&label=Star) [Github](https://github.com/haonan16/Stow)  | Stow |
+| _Object Rearrangement_ |
 | [**PACA: Perspective-Aware Cross-Attention Representation for Zero-Shot Scene Rearrangement**](https://arxiv.org/abs/2410.22059) | WACV 2025 | 2024-10-29 | - | Object Rearrangement |
 | [**LGMCTS: Language-Guided Monte-Carlo Tree Search for Executable Semantic Object Rearrangement**](https://arxiv.org/abs/2309.15821) | IROS 2024 | 2023-09-27  | ![Star](https://img.shields.io/github/stars/changhaonan/LGMCTS-D?style=social&label=Star) [Github](https://github.com/changhaonan/LGMCTS-D) | Object Rearrangement |
-| [**Adaptive Visual Imitation Learning for Robotic Assisted Feeding Across Varied Bowl Configurations and Food Types**](https://arxiv.org/abs/2403.12891) | ICRAW 2024 | 2024-03-19  | - | Feed |
-| [**Predicting Object Interactions with Behavior Primitives: An Application in Stowing Tasks**](https://arxiv.org/abs/2309.16873) | CoRL 2023 | 2023-09-28 | ![Star](https://img.shields.io/github/stars/haonan16/Stow?style=social&label=Star) [Github](https://github.com/haonan16/Stow)  | Stow |
-| [VAPORS: **Learning Sequential Acquisition Policies for Robot-Assisted Feeding**](https://arxiv.org/abs/2309.05197) | CoRL 2023 | 2023-09-11  | [Project](https://sites.google.com/view/vaporsbot) | Feed |
-| [**Leveraging Language for Accelerated Learning of Tool Manipulation**](https://arxiv.org/abs/2206.13074) | CoRL 2023 | 2022-06-27 | ![Star](https://img.shields.io/github/stars/irom-lab/ATLA?style=social&label=Star) [Github](https://github.com/irom-lab/ATLA) | Tool |
-| [**HACMan: Learning Hybrid Actor-Critic Maps for 6D Non-Prehensile Manipulation**](https://arxiv.org/abs/2305.03942) | CoRL 2023 | 2023-05-06  | ![Star](https://img.shields.io/github/stars/HACMan-2023/HACMan?style=social&label=Star) [Github](https://github.com/HACMan-2023/HACMan)  | Non-prehensile |
 | [LLM-GROP: **Task and Motion Planning with Large Language Models for Object Rearrangement**](https://arxiv.org/abs/2303.06247) | IROS 2023 | 2023-03-10 | [Colab](https://colab.research.google.com/drive/1cSqoSc6Gk9KM9p-GwHSIIL5VfZICGW3B?usp=sharing) | Object Rearrangement |
 | [**DALL-E-Bot: Introducing Web-Scale Diffusion Models to Robotics**](https://arxiv.org/abs/2210.02438) | RA-L 2023 | 2022-10-05 | [Project](https://www.robot-learning.uk/) | Object Rearrangement |
-| [**Towards the Development of a Soft Manipulator as An Assistive Robot for Personal Care of Elderly People**](https://journals.sagepub.com/doi/full/10.1177/1729881416687132) | IJARS 2017 | 2017-04-11  | - | Assist |
+| _Tool Manipulation_ |
+| [**RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills**](https://arxiv.org/abs/2506.14763) | arXiv | 2025-06-17 | [Project](https://chunru-lin.github.io/RobotSmith/) | Tool |
+| [**FUNCTO: Function-Centric One-Shot Imitation Learning for Tool Manipulation**](https://arxiv.org/abs/2502.11744) | arXiv | 2025-02-17 | ![Star](https://img.shields.io/github/stars/mkt1412/FUNCTO_public?style=social&label=Star) [Github](https://github.com/mkt1412/FUNCTO_public) | |
+| [**Tool-as-Interface: Learning Robot Policies from Human Tool Usage through Imitation Learning**](https://arxiv.org/abs/2504.04612) | ICRAW 2025 | 2025-04-06 | ![Star](https://img.shields.io/github/stars/Tool-as-Interface/Tool_as_Interface?style=social&label=Star) [Github](https://github.com/Tool-as-Interface/Tool_as_Interface) | Tool |
+| [**Leveraging Language for Accelerated Learning of Tool Manipulation**](https://arxiv.org/abs/2206.13074) | CoRL 2023 | 2022-06-27 | ![Star](https://img.shields.io/github/stars/irom-lab/ATLA?style=social&label=Star) [Github](https://github.com/irom-lab/ATLA) | Tool |
+| _Non-prehensile Manipulation_ |
+| [**HACMan: Learning Hybrid Actor-Critic Maps for 6D Non-Prehensile Manipulation**](https://arxiv.org/abs/2305.03942) | CoRL 2023 | 2023-05-06  | ![Star](https://img.shields.io/github/stars/HACMan-2023/HACMan?style=social&label=Star) [Github](https://github.com/HACMan-2023/HACMan)  | Non-prehensile |
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 
 
-<!-- ## Industrial -->
+## Industrial
 <!-- |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
-<!-- |  Title  |   Venue  |   Date   |   Code   | 
-|:--------|:--------:|:--------:|:--------:| -->
+|  Title  |   Venue  |   Date   |   Code   | 
+|:--------|:--------:|:--------:|:--------:|
+| [**Vision-based Manipulation of Transparent Plastic Bags in Industrial Setups**](https://arxiv.org/abs/2411.09623) | frobt 2025 | 2024-11-14 | - |  |
+| [**A Flexible Manufacturing Assembly System with Deep Reinforcement Learning**](https://www.sciencedirect.com/science/article/pii/S0967066121002343) | Control Engineering Practice 2022 | 2021-10-25 | - |  |
+| [**Toward Fully Autonomous Mobile Manipulation for Industrial Environments**](https://journals.sagepub.com/doi/full/10.1177/1729881417718588) | IJARS 2017 | 2017-07-14 | - |  |
+| [**RobotML for Industrial Robots: Design and Simulation of Manipulation Scenarios**](https://ieeexplore.ieee.org/document/7733727) | ETFA 2016 | 2016-11-07 | - |  |
 
-<!-- <p align="right">(<a href="#table-of-contents">back to top</a>)</p> -->
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 
 
@@ -47,6 +64,8 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Vision-Guided Targeted Grasping and Vibration for Robotic Pollination in Controlled Environments**](https://arxiv.org/abs/2510.06146) | arXiv | 2025-10-07  | - |
+| [**Learning to Pick: A Visuomotor Policy for Clustered Strawberry Picking**](https://arxiv.org/abs/2509.14530) | arXiv | 2025-09-18  | - |
 | [**Find the Fruit: Designing a Zero-Shot Sim2Real Deep RL Planner for Occlusion Aware Plant Manipulation**](https://arxiv.org/abs/2505.16547) | arXiv | 2025-05-22  | - |
 | [**ChicGrasp: Imitation-Learning based Customized Dual-Jaw Gripper Control for Delicate, Irregular Bio-products Manipulation**](https://arxiv.org/abs/2505.08986) | arXiv | 2025-05-13 | - |  |
 | [**Autonomous Robotic Pepper Harvesting: Imitation Learning in Unstructured Agricultural Environments**](https://arxiv.org/abs/2411.09929) | RA-L 2025 | 2024-11-15 | - |  |
@@ -62,9 +81,13 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
-| [**RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands**](https://arxiv.org/abs/2408.11048) | CoRL 2024 | 2024-08-20 | ![Star](https://img.shields.io/github/stars/AllenXuuu/HumanVLA?style=social&label=Star) [Github](https://github.com/google-research/robopianist) |  |
+| [**Learning to Play Piano in the Real World**](https://arxiv.org/abs/2503.15481) | arXiv | 2025-03-19 | ![Star](https://img.shields.io/github/stars/lasr-lab/learning-to-play-piano?style=social&label=Star) [Github](https://github.com/lasr-lab/learning-to-play-piano) |  |
+| [**RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands**](https://arxiv.org/abs/2408.11048) | CoRL 2024 | 2024-08-20 | ![Star](https://img.shields.io/github/stars/google-research/robopianist?style=social&label=Star) [Github](https://github.com/google-research/robopianist) |  |
 | [**DeepCraft: Imitation Learning Method in a Cointelligent Design to Production Process to Deliver Architectural Scenarios**](https://link.springer.com/article/10.1007/s44223-024-00055-2) | AI 2024 | 2024-04-02 | - |  |
+| [**Style Generation in Robot Calligraphy with Deep Generative Adversarial Networks**](https://arxiv.org/abs/2312.09673) | arXiv | 2023-12-15 | - |  |
 | [**End-to-end Manipulator Calligraphy Planning via Variational Imitation Learning**](https://arxiv.org/abs/2304.02801) | arXiv | 2023-04-06 | - |  |
+| [**RoboCoDraw: Robotic Avatar Drawing with GAN-based Style Transfer and Time-efficient Path Optimization**](https://arxiv.org/abs/1912.05099) | AAAI 2020 | 2019-12-11 | - |  |
+
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
@@ -84,10 +107,13 @@
 | [**Surgical Robot Transformer (SRT): Imitation Learning for Surgical Tasks**](https://arxiv.org/abs/2407.12998) | CoRL 2024 | 2024-07-17 | [Project](https://surgical-robot-transformer.github.io/) | |
 | [**3D Perception based Imitation Learning under Limited Demonstration for Laparoscope Control in Robotic Surgery**](https://arxiv.org/abs/2204.031958) | ICRA 2022 | 2022-04-07 | - | |
 | [**Collaborative Robot-Assisted Endovascular Catheterization with Generative Adversarial Imitation Learning**](https://ieeexplore.ieee.org/document/9196912) | ICRA 2020 | 2020-09-15 | - | |
-| _Biology_|
+| _Biology_ |
 | [**RoboCulture: A Robotics Platform for Automated Biological Experimentation**](https://arxiv.org/abs/2505.14941) | arXiv | 2025-05-20 | - | |
 | [**Real-Time Spatiotemporal Assistance for Micromanipulation Using Imitation Learning**](https://ieeexplore.ieee.org/document/10436348/) | RA-L 2024 | 2024-02-14 | - | |
+| _Chemical_ |
+| [**A Multiagent-Driven Robotic AI Chemist Enabling Autonomous Chemical Research On Demand**](https://pubs.acs.org/doi/10.1021/jacs.4c17738) | JACS 2025 | 2025-03-08 | - | |
 | _Aerospace_ |
+| [**Space Robotics Bench: Robot Learning Beyond Earth**](https://arxiv.org/abs/2509.23328) | arXiv | 2025-09-27 | ![Star](https://img.shields.io/github/stars/AndrejOrsula/space_robotics_bench?style=social&label=Star) [Github](https://github.com/AndrejOrsula/space_robotics_bench) | |
 | [**Enhancing Autonomous Manipulator Control with Human-in-loop for Uncertain Assembly Environments**](https://arxiv.org/abs/2507.11006) | CASE 2025 | 2025-07-15 | - | |
 | [**Imitation Learning for Autonomous Trajectory Learning of Robot Arms in Space**](https://arxiv.org/abs/2008.04007) | arXiv | 2020-08-10 | - | Aerospace |
 | _Others_ |
@@ -103,5 +129,7 @@
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 | [**SpikePingpong: High-Frequency Spike Vision-based Robot Learning for Precise Striking in Table Tennis Game**](https://arxiv.org/abs/2506.06690) | arXiv | 2025-06-07 | - | |
+| [**Learning Coordinated Badminton Skills for Legged Manipulators**](https://arxiv.org/abs/2506.06690) | SR 2025 | 2025-05-29 | - | |
+| [**Sample-efficient Reinforcement Learning in Robotic Table Tennis**](https://arxiv.org/abs/2011.03275) | ICRA 2021 | 2020-11-06 | - | |
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>

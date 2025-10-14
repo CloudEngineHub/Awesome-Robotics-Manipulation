@@ -6,30 +6,9 @@ This repository curates research papers on robot manipulation, featuring a small
 
 This repository will be continuously updated, and we warmly welcome contributions from the community. If you have papers, projects, or resources that are not yet included, please feel free to submit them via a pull request, open an issue for discussion or [email](baishuanghao@stu.xjtu.edu.cn) us to add papers! 
 
-<!-- <details>
-  
-<!-- <summary>Abbreviation</summary>
-
-IJRR: 
-
-TMECH: IEEE/ASME Transactions on Mechatronics
-
-AIM: IEEE International Conference on Advanced Intelligent Mechatronics
-
-Auton. Robots: Autonomous Robots
-
-CVPR: 
-
-AAAI
-
-   
-</details> -->
-
-
 ## 📢 News
 
-Our comprehensive survey is in progress—stay tuned for updates!
-
+- **[2025/10]** Our paper [Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey](https://arxiv.org/abs/2510.10903) is on available! 
 - **[2025/08]** Major revision of the classification system with a more refined taxonomy; substantial improvements across all sections.
 - **[2025/07]** Expanded coverage of *Dexterous*, *Soft Robotic*, *Mobile*, *Quadrupedal*, and *Humanoid Manipulation*; refined the categorization and content for *Awesome Simulators, Benchmarks, and Datasets*，added non-learning-based control methods.  
 - **[2025/06]** Introduced new sections on *Grasp in Cluttered Scenes*, *Quadrupedal and Humanoid Manipulation*, and *Learning from Human Demonstrations*. Also improved the classification of the *Applications* section and added a subsection on *Embodied QA Datasets*.  
@@ -37,7 +16,14 @@ Our comprehensive survey is in progress—stay tuned for updates!
 - **[2024/12]** Introduced coverage of *Dexterous Grasp*.  
 - **[2024/10]** Repository is now public!
 
+<details>
+Stay tuned for updates to this comprehensive survey!
 
+<summary>Summary of Survey</summary>
+
+<img src="imgs/summary.png" alt="summary" width="600" height="" align="center">
+   
+</details>
 
 <!-- ------- 0 - Content Table ------- -->
 <h2 id="table-of-contents">🏠 Table of Contents</h2>
@@ -61,9 +47,6 @@ Our comprehensive survey is in progress—stay tuned for updates!
     - [Affordance Learning](contents/high-level_planner.md#affordance-learning)
     - [3D Representation as Planner](contents/high-level_planner.md#3d-representation-as-planner)
   - [Low-level Learning-based Control Methods](contents/low-level_learning-based_control.md)
-    - [Data Collection and Utilization](contents/low-level_learning-based_control.md#data-collection-and-utilization)
-      - [Data Collection](contents/low-level_learning-based_control.md#data-collection)
-      - [Data Utilization](contents/low-level_learning-based_control.md#data-utilization)
     - [Learning Strategy](contents/low-level_learning-based_control.md#learning-strategy)
       - [Imitation Learning (IL)](contents/low-level_learning-based_control.md#imitation-learning-il)
       - [Reinforcement Learning (RL)](contents/low-level_learning-based_control.md#reinforcement-learning-rl)
@@ -80,9 +63,14 @@ Our comprehensive survey is in progress—stay tuned for updates!
     - [Policy Learning](contents/low-level_learning-based_control.md#latent-decode-policy-design)
       - [Diffusion Policy](contents/low-level_learning-based_control.md#diffusion-policy)
       - [Other Policies](contents/low-level_learning-based_control.md#other-policies)
-  - [Generalization](contents/generalization.md)
-    - [Task Generalization](contents/generalization.md#task-generalization)
-    - [Environment Generalization](contents/generalization.md#environment-generalization)
+  - [Bottlenecks](contents/bottlenecks.md)
+    - [Data Collection and Utilization](contents/bottlenecks.md#data-collection-and-utilization)
+        - [Data Collection](contents/bottlenecks.md#data-collection)
+        - [Data Utilization](contents/bottlenecks.md#data-utilization)
+    - [Generalization](contents/bottlenecks.md#generalization)
+      - [Task Generalization](contents/bottlenecks.md#task-generalization)
+      - [Environment Generalization](contents/bottlenecks.md#environment-generalization)
+      - [Cross-Embodiment Generalization](contents/bottlenecks.md#cross-embodiment-generalization)
   - [Applications](contents/applications.md)
 - [📊 Awesome Simulators, Benchmarks and Datasets](#-awesome-simulators-benchmarks-and-dataset)
   - [Grasp Datasets](#grasp-datasets)
@@ -163,6 +151,7 @@ Our comprehensive survey is in progress—stay tuned for updates!
 | [**Jacquard: A Large Scale Dataset for Robotic Grasp Detection**](https://arxiv.org/abs/1803.11469) | IROS 2018 | 2018-03-30 | [Project](https://jacquard.liris.cnrs.fr/) | |
 | [Cornell: **Efficient Grasping from RGBD Images: Learning Using a New Rectangle Representation**](https://ieeexplore.ieee.org/document/5980145) | ICRA 2011 | 2011-08 | - | |
 | _6-DoF Grasp_ |
+| [**GraspFactory: A Large Object-Centric Grasping Dataset**](https://arxiv.org/abs/2509.20550) | CoRLW 2025 | 2025-09-24 | ![Star](https://img.shields.io/github/stars/AutodeskRoboticsLab/graspfactory?style=social&label=Star) [Github](https://github.com/AutodeskRoboticsLab/graspfactory) | |
 | [**MapleGrasp: Mask-guided Feature Pooling for Language-driven Efficient Robotic Grasping**](https://arxiv.org/abs/2506.06535) | arXiv | 2025-06-06 | - | |
 | [**GraspClutter6D: A Large-scale Real-world Dataset for Robust Perception and Grasping in Cluttered Scenes**](https://arxiv.org/abs/2504.06866) | arXiv | 2025-04-09 | [Project](https://sites.google.com/view/graspclutter6d) | |
 | [**QDGset: A Large Scale Grasping Dataset Generated with Quality-Diversity**](https://arxiv.org/abs/2410.02319) | arXiv | 2024-10-03 | [Project](https://github.com/qdgrasp/qdgrasp.github.io/blob/main/qdg_set.md) | |
@@ -186,6 +175,8 @@ Our comprehensive survey is in progress—stay tuned for updates!
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 | _Basic Manipulation with a Single Arm_ |
+| [**SRMP: Search-Based Robot Motion Planning Library**](https://arxiv.org/abs/2509.25352) | arXiv | 2025-09-29 | [Project](https://srmp.readthedocs.io/en/latest/) | |
+| [**Robot Control Stack: A Lean Ecosystem for Robot Learning at Scale**](https://arxiv.org/abs/2509.14932) | arXiv | 2025-09-18 | ![Star](https://img.shields.io/github/stars/RobotControlStack/robot-control-stack?style=social&label=Star) [Github](https://github.com/RobotControlStack/robot-control-stack) | For VLA |
 | [**LADEV: A Language-Driven Testing and Evaluation Platform for Vision-Language-Action Models in Robotic Manipulation**](https://arxiv.org/abs/2410.05191) | arXiv | 2024-10-07 | - | For VLA |
 | [**RoboCAS: A Benchmark for Robotic Manipulation in Complex Object Arrangement Scenarios**](https://arxiv.org/abs/2407.06951) | arXiv | 2024-07-09 | ![Star](https://img.shields.io/github/stars/notFoundThisPerson/RoboCAS-v0?style=social&label=Star) [Github](https://github.com/notFoundThisPerson/RoboCAS-v0) |
 | [**GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs**](https://arxiv.org/abs/2410.03645) | CoRL 2024 | 2024-10-04 | ![Star](https://img.shields.io/github/stars/GenSim2/gensim2?style=social&label=Star) [Github](https://github.com/GenSim2/gensim2) |
@@ -247,7 +238,7 @@ Our comprehensive survey is in progress—stay tuned for updates!
 | [**BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation**](https://arxiv.org/abs/2403.09227) | CoRL 2022 | 2024-03-14 | [Project](https://behavior.stanford.edu/) | |
 | [**ManipulaTHOR: A Framework for Visual Object Manipulation**](https://arxiv.org/abs/2104.11213) | CVPR 2021 | 2021-04-22 | ![Star](https://img.shields.io/github/stars/allenai/manipulathor?style=social&label=Star) [Github](https://github.com/allenai/manipulathor) | |
 | _Quadrupedal Manipulation_ |
-| [**ODYSSEY: Open-World Quadrupeds Exploration and Manipulation for Long-Horizon Tasks**](https://arxiv.org/abs/2508.08240) | arXiv | 2024-08-11 | [Project](https://kaijwang.github.io/odyssey.github.io/) | |
+| [**ODYSSEY: Open-World Quadrupeds Exploration and Manipulation for Long-Horizon Tasks**](https://arxiv.org/abs/2508.08240) | arXiv | 2025-08-11 | [Project](https://kaijwang.github.io/odyssey.github.io/) | |
 | _Humanoid Manipulation_ |
 | [**HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning**](https://arxiv.org/abs/2507.00833) | arXiv | 2025-07-01 | ![Star](https://img.shields.io/github/stars/TeleHuman/HumanoidGen?style=social&label=Star) [Github](https://github.com/TeleHuman/HumanoidGen) | |
 | [**BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark**](https://arxiv.org/abs/2407.07788) | arXiv | 2024-07-10 | ![Star](https://img.shields.io/github/stars/chernyadev/bigym?style=social&label=Star) [Github](https://github.com/chernyadev/bigym) | |
@@ -280,6 +271,7 @@ Our comprehensive survey is in progress—stay tuned for updates!
 ### Other Simulators and Benchmarks
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Space Robotics Bench: Robot Learning Beyond Earth**](https://arxiv.org/abs/2509.23328) | arXiv | 2025-09-27 | ![Star](https://img.shields.io/github/stars/AndrejOrsula/space_robotics_bench?style=social&label=Star) [Github](https://github.com/AndrejOrsula/space_robotics_bench) | |
 | [**FLAME: A Federated Learning Benchmark for Robotic Manipulation**](https://arxiv.org/abs/2503.01729) | arXiv | 2025-03-03 | - | |
 | [**Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation**](https://arxiv.org/abs/2504.06961) | CVPR 2025 | 2025-04-09 | ![Star](https://img.shields.io/github/stars/TEA-Lab/TwoByTWo?style=social&label=Star) [Github](https://github.com/TEA-Lab/TwoByTWo) | |
 | [**FMB: a Functional Manipulation Benchmark for Generalizable Robotic Learning**](https://arxiv.org/abs/2401.08553) | IJRR 2024 | 2024-01-16 | ![Star](https://img.shields.io/github/stars/rail-berkeley/fmb?style=social&label=Star) [Github](https://github.com/rail-berkeley/fmb) | Functional Manipulation |
@@ -290,6 +282,7 @@ Our comprehensive survey is in progress—stay tuned for updates!
 ### Trajectory Datasets
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**AIRoA MoMa Dataset: A Large-Scale Hierarchical Dataset for Mobile Manipulation**](https://arxiv.org/abs/2509.25032) | arXiv | 2024-09-29 | [Dataset](https://huggingface.co/datasets/airoa-org/airoa-moma) | |
 | [**RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction**](https://arxiv.org/abs/2505.12224) | arXiv | 2024-05-18 | - | |
 | [**AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems**](https://arxiv.org/abs/2503.06669) | IROS 2025 | 2025-03-09 | ![Star](https://img.shields.io/github/stars/OpenDriveLab/AgiBot-World?style=social&label=Star) [Github](https://github.com/OpenDriveLab/AgiBot-World) |
 | [**RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation**](https://arxiv.org/abs/2412.13877) | arXiv | 2024-12-18 | ![Star](https://img.shields.io/github/stars/x-humanoid-robomind/x-humanoid-robomind.github.io?style=social&label=Star) [Github](https://github.com/x-humanoid-robomind/x-humanoid-robomind.github.io) |
@@ -310,6 +303,9 @@ Our comprehensive survey is in progress—stay tuned for updates!
 ### Embodied QA and Affordance Datasets
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Point-It-Out: Benchmarking Embodied Reasoning for Vision Language Models in Multi-Stage Visual Grounding**](https://arxiv.org/abs/2509.25794) | arXiv | 2025-09-30 | ![Star](https://img.shields.io/github/stars/xavihart/PIO?style=social&label=Star) [Github](https://github.com/xavihart/PIO) | |
+| [**How Good are Foundation Models in Step-by-Step Embodied Reasoning?**](https://arxiv.org/abs/2509.15293) | arXiv | 2025-09-18 | ![Star](https://img.shields.io/github/stars/mbzuai-oryx/FoMER-Bench?style=social&label=Star) [Github](https://github.com/mbzuai-oryx/FoMER-Bench) | |
+| [**RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics**](https://arxiv.org/abs/2506.04308) | NeurIPS 2025 | 2025-06-28 | ![Star](https://img.shields.io/github/stars/Zhoues/RoboRefer?style=social&label=Star) [Github](https://github.com/Zhoues/RoboRefer) |  |
 | [**OmniEAR: Benchmarking Agent Reasoning in Embodied Tasks**](https://arxiv.org/abs/2508.05614) | arXiv | 2024-08-07 | ![Star](https://img.shields.io/github/stars/ZJU-REAL/OmniEmbodied?style=social&label=Star) [Github](https://github.com/ZJU-REAL/OmniEmbodied) | |
 | [**PAC Bench: Do Foundation Models Understand Prerequisites for Executing Manipulation Policies?**](https://arxiv.org/abs/2506.23725) | arXiv | 2024-06-30 | [Project](https://pacbench.github.io/) | |
 | [**Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets**](https://arxiv.org/abs/2505.15517) | arXiv | 2024-05-21 | [Huggingface](https://huggingface.co/datasets/keplerccc/Robo2VLM-1) | |
@@ -320,7 +316,12 @@ Our comprehensive survey is in progress—stay tuned for updates!
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
-
+<!-- ------- 2.7 - Human and Robotic Video Datasets ------- -->
+### Human and Robotic Video Datasets
+|  Title  |   Venue  |   Date   |   Code   | 
+|:--------|:--------:|:--------:|:--------:|
+| [**OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling**](https://arxiv.org/abs/2509.12201) | arXiv | 2024-09-15 | ![Star](https://img.shields.io/github/stars/yangzhou24/OmniWorld?style=social&label=Star) [Github](https://github.com/yangzhou24/OmniWorld) | |
+| [**OpenEgo: A Large-Scale Multimodal Egocentric Dataset for Dexterous Manipulation**](https://arxiv.org/abs/2509.05513) | arXiv | 2024-09-05 | ![Star](https://img.shields.io/github/stars/physicalinc/openego?style=social&label=Star) [Github](https://github.com/physicalinc/openego) | |
 
 <!-- ------- 3 - Techniques ------- -->
 ## 🛠️ Awesome Techniques
@@ -343,27 +344,12 @@ Our comprehensive survey is in progress—stay tuned for updates!
 
 ## ✨ Citation
 
-<!-- If you find this repository useful, please consider citing our paper:
+If you find this repository useful, please consider citing our paper:
 ```
-@misc{ccbci&openhelix2024roboticsmanipulation,
-    title = {Awesome-Robotics-Manipulation},
-    author = {NKL-HMHEI & CC-BCI Group},
-    journal = {GitHub repository},
-    url = {https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation},
-    year = {2024},
-}
-``` -->
-
-This repository is developed and maintained by:
-```
-@misc{nkl-hmnei-cc-bci2024roboticsmanipulation,
-    title = {Awesome-Robotics-Manipulation},
-    author = {NKL-HMHEI and CC-BCI Group},
-    journal = {GitHub repository},
-    url = {https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation},
-    year = {2024},
+@article{bai2025towards,
+  title={Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey},
+  author={Bai, Shuanghao and Song, Wenxuan and Chen, Jiayi and Ji, Yuheng and Zhong, Zhide and Yang, Jin and Zhao, Han and Zhou, Wanqi and Zhao, Wei and Li, Zhe and Ding, Pengxiang and Chi, Cheng and Li, Haoang and Xu, Chang and Zheng, Xiaolong and Wang, Donglin and Zhang, Shanghang and Chen, Badong},
+  journal={arXiv preprint arXiv:2510.10903},
+  year={2025}
 }
 ```
-
-- [National Key Laboratory of Human-Machine Hybrid-Enhanced Intelligence (NKL-HMHEI)](https://gr.xjtu.edu.cn/en/web/chenbd/home),  Prof. Nanning Zheng [[Google Scholar](https://scholar.google.com/citations?user=iqMe3p8AAAAJ&hl=en)].
-- [XJTU Cognitive Computing and Brain-Computer Interaction (CC-BCI) Group](https://gr.xjtu.edu.cn/en/web/chenbd/home),  Prof. Badong Chen [[Google Scholar](https://scholar.google.com/citations?user=mq6tPX4AAAAJ&hl=en)].
