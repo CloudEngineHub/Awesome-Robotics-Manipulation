@@ -21,7 +21,8 @@ Stay tuned for updates to this comprehensive survey!
 
 <summary>Summary of Survey</summary>
 
-<img src="imgs/summary.png" alt="summary" width="" height="" align="center">
+<img src="imgs/summary.png" alt="summary" 
+     style="image-rendering: auto; max-width: 100%; height: auto;">
    
 </details>
 
