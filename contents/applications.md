@@ -23,6 +23,7 @@
 | _Scoop_ |
 | [**GRITS: A Spillage-Aware Guided Diffusion Policy for Robot Food Scooping Tasks**](https://arxiv.org/abs/2510.00573) | arXiv | 2023-10-01  | - |  |
 | _Assist_ |
+| [**Point and Go: Intuitive Reference Frame Reallocation in Mode Switching for Assistive Robotics**](https://arxiv.org/abs/2510.08753) | arXiv | 2025-10-09 | - | Assist |
 | [**PrioriTouch: Adapting to User Contact Preferences for Whole-Arm Physical Human-Robot Interaction**](https://arxiv.org/abs/2509.18447) | CoRL 2025 | 2025-09-22 | [Project](https://emprise.cs.cornell.edu/prioritouch/) | Assist |
 | [**TASC: Task-Aware Shared Control for Teleoperated Manipulation**](https://arxiv.org/abs/2509.10416) | arXiv | 2025-09-12 | ![Star](https://img.shields.io/github/stars/fitz0401/tasc?style=social&label=Star) [Github](https://github.com/fitz0401/tasc) | Assist |
 | [**Towards the Development of a Soft Manipulator as An Assistive Robot for Personal Care of Elderly People**](https://journals.sagepub.com/doi/full/10.1177/1729881416687132) | IJARS 2017 | 2017-04-11  | - | Assist |
@@ -64,6 +65,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Automated Behavior Planning for Fruit Tree Pruning via Redundant Robot Manipulators: Addressing the Behavior Planning Challenge**](https://arxiv.org/abs/2510.12509) | RAM 2025 | 2025-10-14  | - |
 | [**Vision-Guided Targeted Grasping and Vibration for Robotic Pollination in Controlled Environments**](https://arxiv.org/abs/2510.06146) | arXiv | 2025-10-07  | - |
 | [**Learning to Pick: A Visuomotor Policy for Clustered Strawberry Picking**](https://arxiv.org/abs/2509.14530) | arXiv | 2025-09-18  | - |
 | [**Find the Fruit: Designing a Zero-Shot Sim2Real Deep RL Planner for Occlusion Aware Plant Manipulation**](https://arxiv.org/abs/2505.16547) | arXiv | 2025-05-22  | - |
@@ -99,6 +101,7 @@
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 | _Medical Science_|
+| [**Cosmos-Surg-dVRK: World Foundation Model-based Automated Online Evaluation of Surgical Robot Policy Learning**](https://arxiv.org/abs/2510.16240) | arXiv | 2025-10-17 | - | |
 | [**Learning to Perform Low-Contact Autonomous Nasotracheal Intubation by Recurrent Action-Confidence Chunking with Transformer**](https://www.arxiv.org/abs/2508.01808) | IROS 2025 | 2025-08-03 | - | |
 | [**CapsDT: Diffusion-Transformer for Capsule Robot Manipulation**](https://arxiv.org/abs/2506.16263) | arXiv | 2025-06-19 | - | |
 | [**S3D: A Spatial Steerable Surgical Drilling Framework for Robotic Spinal Fixation Procedures**](https://arxiv.org/abs/2507.01779) | IROS 2025 | 2025-07-02 | - | |

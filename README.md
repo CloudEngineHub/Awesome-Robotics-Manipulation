@@ -81,6 +81,8 @@ Stay tuned for updates to this comprehensive survey!
   - [Trajectory Datasets](#trajectory-datasets)
   - [Embodied QA and Affordance Datasets](#embodied-qa-and-affordance-datasets)
 - [🛠️ Awesome Techniques](#-awesome-techniques)
+  - [Tutorial](#tutorial)
+  - [Github Repo](#github-repo)
 
 
 
@@ -92,6 +94,8 @@ Stay tuned for updates to this comprehensive survey!
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | _VLA Models_ |
+| [**Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey**](https://arxiv.org/abs/2510.17111) | arXiv | 2025-10-20 | - | VLA Models |
+| [**Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications**](https://arxiv.org/abs/2510.07077) | IEEE Access 2025 | 2025-10-08 | [Project](https://vla-survey.github.io/) | VLA Models |
 | [**Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey**](https://arxiv.org/abs/2508.13073) | arXiv | 2025-08-23 | ![Star](https://img.shields.io/github/stars/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation?style=social&label=Star) [Github](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation) | VLA Models |
 | [**Survey of Vision-Language-Action Models for Embodied Manipulation**](https://arxiv.org/abs/2508.15201) | arXiv | 2025-08-21 | - | VLA Models |
 | [**Vision Language Action Models in Robotic Manipulation: A Systematic Review**](https://arxiv.org/abs/2507.10672) | arXiv | 2025-07-14 | - | VLA Models |
@@ -176,6 +180,9 @@ Stay tuned for updates to this comprehensive survey!
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 | _Basic Manipulation with a Single Arm_ |
+| [**RobotArena: Scalable Robot Benchmarking via Real-to-Sim Translation**](https://arxiv.org/abs/2510.23571) | arXiv | 2025-10-27 | [Project](https://robotarenainf.github.io/) | |
+| [**GSWorld: Closed-Loop Photo-Realistic Simulation Suite for Robotic Manipulation**](https://arxiv.org/abs/2510.20813) | arXiv | 2025-10-23 | ![Star](https://img.shields.io/github/stars/luccachiang/GSWorld?style=social&label=Star) [Github](https://github.com/luccachiang/GSWorld) | |
+| [**NEBULA: Do We Evaluate Vision-Language-Action Agents Correctly?**](https://arxiv.org/abs/2510.16263) | arXiv | 2025-10-17 | ![Star](https://img.shields.io/github/stars/JerryPeng0201/NEBULA?style=social&label=Star) [Github](https://github.com/JerryPeng0201/NEBULA) | |
 | [**SRMP: Search-Based Robot Motion Planning Library**](https://arxiv.org/abs/2509.25352) | arXiv | 2025-09-29 | [Project](https://srmp.readthedocs.io/en/latest/) | |
 | [**Robot Control Stack: A Lean Ecosystem for Robot Learning at Scale**](https://arxiv.org/abs/2509.14932) | arXiv | 2025-09-18 | ![Star](https://img.shields.io/github/stars/RobotControlStack/robot-control-stack?style=social&label=Star) [Github](https://github.com/RobotControlStack/robot-control-stack) | For VLA |
 | [**LADEV: A Language-Driven Testing and Evaluation Platform for Vision-Language-Action Models in Robotic Manipulation**](https://arxiv.org/abs/2410.05191) | arXiv | 2024-10-07 | - | For VLA |
@@ -272,6 +279,7 @@ Stay tuned for updates to this comprehensive survey!
 ### Other Simulators and Benchmarks
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**SutureBot: A Precision Framework & Benchmark For Autonomous End-to-End Suturing**](https://arxiv.org/abs/2510.20965) | arXiv | 2025-10-23 | [Dataset](https://huggingface.co/datasets/jchen396/SutureBot) | |
 | [**Space Robotics Bench: Robot Learning Beyond Earth**](https://arxiv.org/abs/2509.23328) | arXiv | 2025-09-27 | ![Star](https://img.shields.io/github/stars/AndrejOrsula/space_robotics_bench?style=social&label=Star) [Github](https://github.com/AndrejOrsula/space_robotics_bench) | |
 | [**FLAME: A Federated Learning Benchmark for Robotic Manipulation**](https://arxiv.org/abs/2503.01729) | arXiv | 2025-03-03 | - | |
 | [**Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation**](https://arxiv.org/abs/2504.06961) | CVPR 2025 | 2025-04-09 | ![Star](https://img.shields.io/github/stars/TEA-Lab/TwoByTWo?style=social&label=Star) [Github](https://github.com/TEA-Lab/TwoByTWo) | |
@@ -283,8 +291,10 @@ Stay tuned for updates to this comprehensive survey!
 ### Trajectory Datasets
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
-| [**AIRoA MoMa Dataset: A Large-Scale Hierarchical Dataset for Mobile Manipulation**](https://arxiv.org/abs/2509.25032) | arXiv | 2024-09-29 | [Dataset](https://huggingface.co/datasets/airoa-org/airoa-moma) | |
-| [**RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction**](https://arxiv.org/abs/2505.12224) | arXiv | 2024-05-18 | - | |
+| [**Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation**](https://arxiv.org/abs/2510.08807) | arXiv | 2025-10-09 | ![Star](https://img.shields.io/github/stars/ausbxuse/Humanoid-Everyday?style=social&label=Star) [Github](https://github.com/ausbxuse/Humanoid-Everyday) | |
+| [**FastUMI-100K: Advancing Data-driven Robotic Manipulation with a Large-scale UMI-style Datasetn**](https://arxiv.org/abs/2510.08022) | arXiv | 2025-10-09 | ![Star](https://img.shields.io/github/stars/MrKeee/FastUMI-100K?style=social&label=Star) [Github](https://github.com/MrKeee/FastUMI-100K) | |
+| [**AIRoA MoMa Dataset: A Large-Scale Hierarchical Dataset for Mobile Manipulation**](https://arxiv.org/abs/2509.25032) | arXiv | 2025-09-29 | [Dataset](https://huggingface.co/datasets/airoa-org/airoa-moma) | |
+| [**RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction**](https://arxiv.org/abs/2505.12224) | arXiv | 2025-05-18 | - | |
 | [**AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems**](https://arxiv.org/abs/2503.06669) | IROS 2025 | 2025-03-09 | ![Star](https://img.shields.io/github/stars/OpenDriveLab/AgiBot-World?style=social&label=Star) [Github](https://github.com/OpenDriveLab/AgiBot-World) |
 | [**RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation**](https://arxiv.org/abs/2412.13877) | arXiv | 2024-12-18 | ![Star](https://img.shields.io/github/stars/x-humanoid-robomind/x-humanoid-robomind.github.io?style=social&label=Star) [Github](https://github.com/x-humanoid-robomind/x-humanoid-robomind.github.io) |
 | [ARIO: **All Robots in One: A New Standard and Unified Dataset for Versatile, General-Purpose Embodied Agents**](https://arxiv.org/abs/2408.10899) | arXiv | 2024-08-20 | [Dataset](https://openi.pcl.ac.cn/ARIO/ARIO_Dataset) | |
@@ -304,6 +314,8 @@ Stay tuned for updates to this comprehensive survey!
 ### Embodied QA and Affordance Datasets
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes**](https://arxiv.org/abs/2510.19400) | arXiv | 2025-10-22 | ![Star](https://img.shields.io/github/stars/microsoft/MV-RoboBench?style=social&label=Star) [Github](https://github.com/microsoft/MV-RoboBench) | |
+| [**PhysToolBench: Benchmarking Physical Tool Understanding for MLLMs**](https://arxiv.org/abs/2510.09507) | arXiv | 2025-10-10 | ![Star](https://img.shields.io/github/stars/EnVision-Research/PhysToolBench?style=social&label=Star) [Github](https://github.com/EnVision-Research/PhysToolBench) | |
 | [**Point-It-Out: Benchmarking Embodied Reasoning for Vision Language Models in Multi-Stage Visual Grounding**](https://arxiv.org/abs/2509.25794) | arXiv | 2025-09-30 | ![Star](https://img.shields.io/github/stars/xavihart/PIO?style=social&label=Star) [Github](https://github.com/xavihart/PIO) | |
 | [**How Good are Foundation Models in Step-by-Step Embodied Reasoning?**](https://arxiv.org/abs/2509.15293) | arXiv | 2025-09-18 | ![Star](https://img.shields.io/github/stars/mbzuai-oryx/FoMER-Bench?style=social&label=Star) [Github](https://github.com/mbzuai-oryx/FoMER-Bench) | |
 | [**RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics**](https://arxiv.org/abs/2506.04308) | NeurIPS 2025 | 2025-06-28 | ![Star](https://img.shields.io/github/stars/Zhoues/RoboRefer?style=social&label=Star) [Github](https://github.com/Zhoues/RoboRefer) |  |
@@ -324,8 +336,19 @@ Stay tuned for updates to this comprehensive survey!
 | [**OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling**](https://arxiv.org/abs/2509.12201) | arXiv | 2024-09-15 | ![Star](https://img.shields.io/github/stars/yangzhou24/OmniWorld?style=social&label=Star) [Github](https://github.com/yangzhou24/OmniWorld) | |
 | [**OpenEgo: A Large-Scale Multimodal Egocentric Dataset for Dexterous Manipulation**](https://arxiv.org/abs/2509.05513) | arXiv | 2024-09-05 | ![Star](https://img.shields.io/github/stars/physicalinc/openego?style=social&label=Star) [Github](https://github.com/physicalinc/openego) | |
 
+
+
 <!-- ------- 3 - Techniques ------- -->
 ## 🛠️ Awesome Techniques
+
+### Tutorial
+<!-- |  Title  |   Venue  |   Date   |   Code   |   Notes  |
+|:--------|:--------:|:--------:|:--------:|:--------:| -->
+|  Title  |   Venue  |   Date   |   Code   | 
+|:--------|:--------:|:--------:|:--------:|
+| **[Robot Learning: A Tutorial]**(https://arxiv.org/abs/2510.12403) | arXiv | 2025-10-14 | ![Star](https://img.shields.io/github/stars/huggingface/lerobot?style=social&label=Star) [Github](https://github.com/huggingface/lerobot) | |
+
+### Github Repo
 <!-- |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 

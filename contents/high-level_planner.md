@@ -33,6 +33,7 @@
 | [**LLM<sup>3</sup>: Large Language Model-based Task and Motion Planning with Motion Failure Reasoning**](https://arxiv.org/abs/2403.11552) | IROS 2024 | 2025-08-21 | ![Star](https://img.shields.io/github/stars/AssassinWS/LLM-TAMP?style=social&label=Star)[Github](https://github.com/AssassinWS/LLM-TAMP) | |
 | [**Text2Interaction: Establishing Safe and Preferable Human-Robot Interaction**](https://arxiv.org/abs/2408.06105) | CoRL 2024 | 2024-08-12 | ![Star](https://img.shields.io/github/stars/JakobThumm/text2interaction?style=social&label=Star) [Github](https://github.com/JakobThumm/text2interaction) |  |
 | [**Polaris: Open-ended Interactive Robotic Manipulation via Syn2Real Visual Grounding and Large Language Models**](https://arxiv.org/abs/2408.07975) | IROS 2024 | 2024-08-15 | [Project](https://star-uu-wang.github.io/Polaris/) |  |
+| [**LLM3:Large Language Model-based Task and Motion Planning with Motion Failure Reasoning**](https://arxiv.org/abs/2403.11552) | IROS 2024 | 2024-03-18 | ![Star](https://img.shields.io/github/stars/AssassinWS/LLM-TAMP?style=social&label=Star) [Github](https://github.com/AssassinWS/LLM-TAMP) |  |
 | [PG-InstructBLIP: **Physically Grounded Vision-Language Models for Robotic Manipulation**](https://arxiv.org/abs/2309.02561) | ICRA 2024 | 2023-09-05 | [Project](https://iliad.stanford.edu/pg-vlm/) |  |
 | [**RoCo: Dialectic Multi-Robot Collaboration with Large Language Models**](https://arxiv.org/abs/2307.04738) | ICRA 2024 | 2023-07-10 | ![Star](https://img.shields.io/github/stars/MandiZhao/robot-collab?style=social&label=Star) [Github](https://github.com/MandiZhao/robot-collab) | |
 | [KNOWNO: **Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners**](https://arxiv.org/abs/2307.01928) | CoRL 2023 | 2023-07-04 | [Github](https://github.com/google-research/google-research/tree/master/language_model_uncertainty) | |
@@ -60,6 +61,7 @@
 | [**Long-Horizon Visual Imitation Learning via Plan and Code Reflection**](https://arxiv.org/abs/2509.05368) | arXiv | 2025-09-04 | - | |
 | [**HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents**](https://arxiv.org/abs/2508.02629) | ICCVW 2025 | 2025-08-04 | - | |
 | [**T-Rex: Task-Adaptive Spatial Representation Extraction for Robotic Manipulation with Vision-Language Models**](https://arxiv.org/abs/2506.19498) | arXiv | 2025-06-24 | - | |
+| [**Towards Reliable Code-as-Policies: A Neuro-Symbolic Framework for Embodied Task Planning**](https://arxiv.org/abs/2510.21302) | NeurIPS 2025 | 2025-10-24 | - | |
 | [**Robotic Programmer: Video Instructed Policy Code Generation for Robotic Manipulation**](https://arxiv.org/abs/2501.04268) | arXiv | 2025-01-08 | [Project](https://video2code.github.io/RoboPro-website/) | |
 | [**Don't Let Your Robot be Harmful: Responsible Robotic Manipulation**](https://arxiv.org/abs/2411.18289) | arXiv | 2024-11-27 | ![Star](https://img.shields.io/github/stars/kodenii/Responsible-Robotic-Manipulation?style=social&label=Star) [Github](https://github.com/kodenii/Responsible-Robotic-Manipulation) | |
 | [**Vocal Sandbox: Continual Learning and Adaptation for Situated Human-Robot Collaboration**](https://openreview.net/forum?id=ypaYtV1CoG) | CoRL 2024 | 2024-09-06 | [Project](https://vocal-sandbox.github.io/) |  |
@@ -90,12 +92,15 @@
 | [**From Foresight to Forethought: VLM-In-the-Loop Policy Steering via Latent Alignment**](https://arxiv.org/abs/2502.01828) | arXiv | 2025-02-03 | - |  |
 | [Matcha: **Chat with the Environment: Interactive Multimodal Perception Using Large Language Models**](https://arxiv.org/abs/2303.08268) | IROS 2023 | 2023-03-14 | ![Star](https://img.shields.io/github/stars/xf-zhao/Matcha-agent?style=social&label=Star) [Github](https://github.com/xf-zhao/Matcha-agent) |  |
 | _Unified Reasoning_ |
+| [**EmbodiedBrain: Expanding Performance Boundaries of Task Planning for Embodied Intelligence**](https://arxiv.org/abs/2510.20578) | arXiv | 2025-10-23 | [Project](https://zterobot.github.io/EmbodiedBrain.github.io/) |  |
+| [**ERA: Transforming VLMs into Embodied Agents via Embodied Prior Learning and Online Reinforcement Learning**](https://arxiv.org/abs/2510.12693) | arXiv | 2025-10-14 | ![Star](https://img.shields.io/github/stars/Embodied-Reasoning-Agent/Embodied-Reasoning-Agent?style=social&label=Star) [Github](https://github.com/Embodied-Reasoning-Agent/Embodied-Reasoning-Agent) |  |
 | [**RynnEC: Bringing MLLMs into Embodied World**](https://arxiv.org/abs/2508.14160) | arXiv | 2025-08-23 | ![Star](https://img.shields.io/github/stars/alibaba-damo-academy/RynnEC?style=social&label=Star) [Github](https://github.com/alibaba-damo-academy/RynnEC) |  |
 | [**Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation**](https://arxiv.org/abs/2508.13998) | arXiv | 2025-08-19 | ![Star](https://img.shields.io/github/stars/pickxiguapi/Embodied-R1?style=social&label=Star) [Github](https://github.com/pickxiguapi/Embodied-R1) |  |
 | [**RoboBrain 2.0 Technical Report**](https://arxiv.org/abs/2507.02029) | arXiv | 2025-07-02 | ![Star](https://img.shields.io/github/stars/FlagOpen/RoboBrain2.0?style=social&label=Star) [Github](https://github.com/FlagOpen/RoboBrain2.0) |  |
 | [FSD: **From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**](https://arxiv.org/abs/2505.08548) | arXiv | 2025-05-13 | [Project](https://embodied-fsd.github.io/) | |
 | [**RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete**](https://arxiv.org/abs/2502.21257) | CVPR 2025 | 2025-02-28 | [Project](https://superrobobrain.github.io/) |  |
 | _Spatial Reasoning_ |
+| [**TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics**](https://arxiv.org/abs/2510.07181) | arXiv | 2025-10-08 | ![Star](https://img.shields.io/github/stars/hany01rye/tiger?style=social&label=Star) [Github](https://github.com/hany01rye/tiger) |  |
 | [**EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks**](https://arxiv.org/abs/2503.11089) | arXiv | 2025-03-14 | - |  |
 | [**SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation**](https://arxiv.org/abs/2502.13143) | arXiv | 2025-02-18 | ![Star](https://img.shields.io/github/stars/qizekun/SoFar?style=social&label=Star) [Github](https://github.com/qizekun/SoFar) |  |
 | [**RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics**](https://arxiv.org/abs/2506.04308) | NeurIPS 2025 | 2025-06-28 | ![Star](https://img.shields.io/github/stars/Zhoues/RoboRefer?style=social&label=Star) [Github](https://github.com/Zhoues/RoboRefer) |  |
@@ -138,9 +143,8 @@
 |:--------|:--------:|:--------:|:--------:|
 | _Grasp Planning_ |
 | [**CoPa: General Robotic Manipulation through Spatial Constraints of Parts with Foundation Models**](https://arxiv.org/abs/2403.08248) | IROS 2024 | 2024-03-13 | ![Star](https://img.shields.io/github/stars/HaoxuHuang/copa?style=social&label=Star) [Github](https://github.com/HaoxuHuang/copa) | Motion Planning |
-| _Path Planning_|
-| [LACO: **Language-Conditioned Path Planning**](https://arxiv.org/abs/2308.16893) | CoRL 2023 | 2024-08-31 | ![Star](https://img.shields.io/github/stars/amberxie88/lapp?style=social&label=Star) [Github](https://github.com/amberxie88/lapp) |  |
 | _Motion Planning_|
+| [**Geometry-aware Policy Imitation**](https://arxiv.org/abs/2510.08787) | arXiv | 2025-10-09 | ![Star](https://img.shields.io/github/stars/yimingli1998/GPI?style=social&label=Star) [Github](https://github.com/yimingli1998/GPI) |  |
 | [**In-Context Iterative Policy Improvement for Dynamic Manipulation**](https://arxiv.org/abs/2508.15021) | CoRL 2025 | 2025-08-20 | - | LLM Learn parameters |
 | [**Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins**](https://arxiv.org/abs/2506.13761) | RSS 2025 | 2025-06-16 | ![Star](https://img.shields.io/github/stars/TritiumR/Prompting-with-the-Future?style=social&label=Star) [Github](https://github.com/TritiumR/Prompting-with-the-Future) |  |
 | [**GeoManip: Geometric Constraints as General Interfaces for Robot Manipulation**](https://arxiv.org/abs/2501.09783) | arXiv | 2025-01-16 | ![Star](https://img.shields.io/github/stars/CUHKWilliam/GeoManip-release?style=social&label=Star)  [Github](https://github.com/CUHKWilliam/GeoManip-release) | TAMP |
@@ -148,6 +152,7 @@
 | [**DiffusionSeeder: Seeding Motion Optimization with Diffusion for Rapid Motion Planning**](https://arxiv.org/abs/2410.16727) | CoRL 2024 | 2024-10-22 | [Project](https://diffusion-seeder.github.io/) | Motion Planning  |
 | [**ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation**](https://arxiv.org/abs/2409.01652) | CoRL 2024 | 2024-09-03 | ![Star](https://img.shields.io/github/stars/huangwl18/ReKep?style=social&label=Star) [Github](https://github.com/huangwl18/ReKep) | Motion Planning |
 | [Elastic-DS: **Task Generalization with Stability Guarantees via Elastic Dynamical System Motion Policies**](https://arxiv.org/abs/2309.01884) | CoRL 2023 | 2023-09-05 | ![Star](https://img.shields.io/github/stars/tonylitianyu/Elastic-DS?style=social&label=Star) [Github](https://github.com/tonylitianyu/Elastic-DS) | IL, LfD, Motion |
+| [LACO: **Language-Conditioned Path Planning**](https://arxiv.org/abs/2308.16893) | CoRL 2023 | 2024-08-31 | ![Star](https://img.shields.io/github/stars/amberxie88/lapp?style=social&label=Star) [Github](https://github.com/amberxie88/lapp) |  |
 | _Trajectory Optimization_|
 | [**Geometry-aware 4D Video Generation for Robot Manipulation**](https://arxiv.org/abs/2507.01099) | arXiv | 2025-07-01 | ![Star](https://img.shields.io/github/stars/lzylucy/4dgen?style=social&label=Star) [Github](https://github.com/lzylucy/4dgen) |  |
 | [**Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**](https://arxiv.org/abs/2507.00990) | arXiv | 2025-07-01 | ![Star](https://img.shields.io/github/stars/shivanshpatel35/rigvid?style=social&label=Star) [Github](https://github.com/shivanshpatel35/rigvid) |  |
@@ -166,6 +171,7 @@
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 | _Point Cloud_ |
+| [**Vi-TacMan: Articulated Object Manipulation via Vision and Touch**](https://arxiv.org/abs/2510.06339) | arXiv | 2025-10-07 | ![Star](https://img.shields.io/github/stars/leiyaocui/Vi-TacMand?style=social&label=Star)  [Github](https://github.com/leiyaocui/Vi-TacMand) |  |
 | [**O<sup>3</sup>Afford: One-Shot 3D Object-to-Object Affordance Grounding for Generalizable Robotic Manipulation**](https://arxiv.org/abs/2509.06233) | CoRL 2025 | 2025-09-07 | ![Star](https://img.shields.io/github/stars/Tongxuan259/O3Afford?style=social&label=Star)  [Github](https://github.com/Tongxuan259/O3Afford) |  |
 | [**Planning from Point Clouds over Continuous Actions for Multi-object Rearrangement**](https://arxiv.org/abs/2509.04645) | CoRL 2025 | 2025-09-04 | ![Star](https://img.shields.io/github/stars/kallol-saha/SPOT?style=social&label=Star)  [Github](https://github.com/kallol-saha/SPOT) |  |
 | [**PartInstruct: Part-level Instruction Following for Fine-grained Robot Manipulation**](https://arxiv.org/abs/2505.21652) | RSS 2025 | 2025-05-27 | ![Star](https://img.shields.io/github/stars/SCAI-JHU/PartInstruct?style=social&label=Star)  [Github](https://github.com/SCAI-JHU/PartInstruct) | Part-based |
