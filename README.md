@@ -53,7 +53,7 @@ Stay tuned for updates to this comprehensive survey!
       - [Reinforcement Learning (RL)](contents/low-level_learning-based_control.md#reinforcement-learning-rl)
       - [RL and IL](contents/low-level_learning-based_control.md#rl-and-il)
       - [Learning with Auxiliary Tasks](contents/low-level_learning-based_control.md#learning-with-auxiliary-tasks)
-    - [Input Modality](contents/low-level_learning-based_control.md#modality)
+    - [Input Modelling](contents/low-level_learning-based_control.md#input-modelling)
       - [Vision Action Models](contents/low-level_learning-based_control.md#vision-action-models)
       - [Vision Language Action Models](contents/low-level_learning-based_control.md#vision-language-action-models)
       - [Tactile-based Action Models](contents/low-level_learning-based_control.md#tactile-based-action-models)

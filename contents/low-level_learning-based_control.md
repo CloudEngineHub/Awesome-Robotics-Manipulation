@@ -16,7 +16,7 @@
       - [Reconstruction](#reconstruction)
       - [Text-Grounded Goal Extraction](#text-grounded-goal-extraction)
       - [Vision-Grounded Goal Extraction](#vision-grounded-goal-extraction)
-  - [Input Modality](#modality)
+  - [Input Modelling](#input-modelling)
       - [Vision Action Models](#vision-action-models)
       - [Vision Language Action Models](#vision-language-action-models)
           - 2D Vision Language Action Models
@@ -654,7 +654,7 @@
 
 
 
-## Input Modality
+## Input Modelling
 
 ### Vision Action Models
 <!-- |  Title  |   Venue  |   Date   |   Code   |   Notes  |
