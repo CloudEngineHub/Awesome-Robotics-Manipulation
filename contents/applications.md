@@ -35,11 +35,13 @@
 | [LLM-GROP: **Task and Motion Planning with Large Language Models for Object Rearrangement**](https://arxiv.org/abs/2303.06247) | IROS 2023 | 2023-03-10 | [Colab](https://colab.research.google.com/drive/1cSqoSc6Gk9KM9p-GwHSIIL5VfZICGW3B?usp=sharing) | Object Rearrangement |
 | [**DALL-E-Bot: Introducing Web-Scale Diffusion Models to Robotics**](https://arxiv.org/abs/2210.02438) | RA-L 2023 | 2022-10-05 | [Project](https://www.robot-learning.uk/) | Object Rearrangement |
 | _Tool Manipulation_ |
+| [**GET-USE: Learning Generalized Tool Usage for Bimanual Mobile Manipulation via Simulated Embodiment Extensions**](https://arxiv.org/abs/2510.25754) | arXiv | 2025-10-29 | - | Tool |
 | [**RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills**](https://arxiv.org/abs/2506.14763) | arXiv | 2025-06-17 | [Project](https://chunru-lin.github.io/RobotSmith/) | Tool |
 | [**FUNCTO: Function-Centric One-Shot Imitation Learning for Tool Manipulation**](https://arxiv.org/abs/2502.11744) | arXiv | 2025-02-17 | ![Star](https://img.shields.io/github/stars/mkt1412/FUNCTO_public?style=social&label=Star) [Github](https://github.com/mkt1412/FUNCTO_public) | |
 | [**Tool-as-Interface: Learning Robot Policies from Human Tool Usage through Imitation Learning**](https://arxiv.org/abs/2504.04612) | ICRAW 2025 | 2025-04-06 | ![Star](https://img.shields.io/github/stars/Tool-as-Interface/Tool_as_Interface?style=social&label=Star) [Github](https://github.com/Tool-as-Interface/Tool_as_Interface) | Tool |
 | [**Leveraging Language for Accelerated Learning of Tool Manipulation**](https://arxiv.org/abs/2206.13074) | CoRL 2023 | 2022-06-27 | ![Star](https://img.shields.io/github/stars/irom-lab/ATLA?style=social&label=Star) [Github](https://github.com/irom-lab/ATLA) | Tool |
 | _Non-prehensile Manipulation_ |
+| [**AdaptPNP: Integrating Prehensile and Non-Prehensile Skills for Adaptive Robotic Manipulation**](https://arxiv.org/abs/2511.11052) | arXiv | 2025-11-14  | -  | Non-prehensile |
 | [**HACMan: Learning Hybrid Actor-Critic Maps for 6D Non-Prehensile Manipulation**](https://arxiv.org/abs/2305.03942) | CoRL 2023 | 2023-05-06  | ![Star](https://img.shields.io/github/stars/HACMan-2023/HACMan?style=social&label=Star) [Github](https://github.com/HACMan-2023/HACMan)  | Non-prehensile |
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
@@ -83,6 +85,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Dexterous Robotic Piano Playing at Scale**](https://arxiv.org/abs/2511.02504) | arXiv | 2025-11-04 | - |  |
 | [**Learning to Play Piano in the Real World**](https://arxiv.org/abs/2503.15481) | arXiv | 2025-03-19 | ![Star](https://img.shields.io/github/stars/lasr-lab/learning-to-play-piano?style=social&label=Star) [Github](https://github.com/lasr-lab/learning-to-play-piano) |  |
 | [**RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands**](https://arxiv.org/abs/2408.11048) | CoRL 2024 | 2024-08-20 | ![Star](https://img.shields.io/github/stars/google-research/robopianist?style=social&label=Star) [Github](https://github.com/google-research/robopianist) |  |
 | [**DeepCraft: Imitation Learning Method in a Cointelligent Design to Production Process to Deliver Architectural Scenarios**](https://link.springer.com/article/10.1007/s44223-024-00055-2) | AI 2024 | 2024-04-02 | - |  |
@@ -101,6 +104,7 @@
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 | _Medical Science_|
+| [**UltraDP: Generalizable Carotid Ultrasound Scanning with Force-Aware Diffusion Policy**](https://arxiv.org/abs/2511.15550) | arXiv | 2025-11-19 | - | |
 | [**Cosmos-Surg-dVRK: World Foundation Model-based Automated Online Evaluation of Surgical Robot Policy Learning**](https://arxiv.org/abs/2510.16240) | arXiv | 2025-10-17 | - | |
 | [**Learning to Perform Low-Contact Autonomous Nasotracheal Intubation by Recurrent Action-Confidence Chunking with Transformer**](https://www.arxiv.org/abs/2508.01808) | IROS 2025 | 2025-08-03 | - | |
 | [**CapsDT: Diffusion-Transformer for Capsule Robot Manipulation**](https://arxiv.org/abs/2506.16263) | arXiv | 2025-06-19 | - | |
@@ -131,6 +135,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Humanoid Whole-Body Badminton via Multi-Stage Reinforcement Learning**](https://arxiv.org/abs/2511.11218) | arXiv | 2025-11-14 | [Project](https://humanoid-badminton.github.io/Humanoid-Whole-Body-Badminton-via-Multi-Stage-Reinforcement-Learning/) | |
 | [**SpikePingpong: High-Frequency Spike Vision-based Robot Learning for Precise Striking in Table Tennis Game**](https://arxiv.org/abs/2506.06690) | arXiv | 2025-06-07 | - | |
 | [**Learning Coordinated Badminton Skills for Legged Manipulators**](https://arxiv.org/abs/2506.06690) | SR 2025 | 2025-05-29 | - | |
 | [**Sample-efficient Reinforcement Learning in Robotic Table Tennis**](https://arxiv.org/abs/2011.03275) | ICRA 2021 | 2020-11-06 | - | |

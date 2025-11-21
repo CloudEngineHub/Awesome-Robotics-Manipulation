@@ -45,6 +45,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**](https://arxiv.org/abs/2511.02832) | arXiv | 2025-11-04 | ![Star](https://img.shields.io/github/stars/amazon-far/TWIST2?style=social&label=Star) [Github](https://github.com/amazon-far/TWIST2) |  |
 | [**Open TeleDex: A Hardware-Agnostic Teleoperation System for Imitation Learning based Dexterous Manipulation**](https://arxiv.org/abs/2510.14771) | arXiv | 2025-10-16 | - |  |
 | [**ActiveUMI: Robotic Manipulation with Active Perception from Robot-Free Human Demonstrations**](https://arxiv.org/abs/2510.01607) | arXiv | 2025-10-02 | [Project](https://activeumi.github.io/) |  |
 | [**Prometheus: Universal, Open-Source Mocap-Based Teleoperation System with Force Feedback for Dataset Collection in Robot Learning**](https://arxiv.org/abs/2510.01023) | arXiv | 2025-10-01 | ![Star](https://img.shields.io/github/stars/Eterwait/Prometheus?style=social&label=Star) [Github](https://github.com/Eterwait/Prometheus) |  |
@@ -221,6 +222,7 @@
 | [**Retrieve-Augmented Generation for Speeding up Diffusion Policy without Additional Training**](https://arxiv.org/abs/2507.21452) | arXiv | 2025-07-29 | - | |
 | [**Data Retrieval with Importance Weights for Few-Shot Imitation Learning**](https://arxiv.org/abs/2509.01657) | CoRL 2025 | 2025-09-01 | ![Star](https://img.shields.io/github/stars/jhejna/importance-retrieval?style=social&label=Star) [Github](https://github.com/jhejna/importance-retrieval) | |
 | [**COLLAGE: Adaptive Fusion-based Retrieval for Augmented Policy Learning**](https://arxiv.org/abs/2508.01131) | CoRL 2025 | 2025-08-11 | [Project](https://robin-lab.cs.utexas.edu/COLLAGE/) | |
+| [**Let Me Show You: Learning by Retrieving from Egocentric Video for Robotic Manipulation**](https://arxiv.org/abs/2511.05199) | IROS 2025 | 2025-11-07 | - | |
 | [**STRAP: Robot Sub-Trajectory Retrieval for Augmented Policy Learning**](https://arxiv.org/abs/2412.15182) | ICLR 2025 | 2024-12-19 | [Project](https://weirdlabuw.github.io/strap/) | |
 | [**FlowRetrieval: Flow-Guided Data Retrieval for Few-Shot Imitation Learning**](https://arxiv.org/abs/2408.16944) | CoRL 2024 | 2024-08-29 | ![Star](https://img.shields.io/github/stars/lihenglin/bridge_training_code?style=social&label=Star) [Github](https://github.com/lihenglin/bridge_training_code) | |
 | [**Offline Imitation Learning Through Graph Search and Retrieval**](https://arxiv.org/abs/2407.15403) | RSS 2024 | 2024-07-22 | [Project](https://zhaohengyin.github.io/gsr/) | |
@@ -238,6 +240,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**A Study on Enhancing the Generalization Ability of Visuomotor Policies via Data Augmentation**](https://arxiv.org/abs/2511.09932) | arXiv | 2025-11-13 | - |  |
 | [**RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation**](https://arxiv.org/abs/2510.17640) | arXiv | 2025-10-20 | - |  |
 | [**Fidelity-Aware Data Composition for Robust Robot Generalization**](https://arxiv.org/abs/2509.24797) | arXiv | 2025-09-29 | - |  |
 | [**ROPA: Synthetic Robot Pose Generation for RGB-D Bimanual Data Augmentation**](https://arxiv.org/abs/2509.19454) | arXiv | 2025-09-23 | [Project](https://ropaaug.github.io/) |  |
@@ -297,6 +300,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Learning a Thousand Tasks in a Day**](https://arxiv.org/abs/2511.10110) | SR 2025 | 2025-11-13 | ![Star](https://img.shields.io/github/stars/kamil-dreczkowski/learning_thousand_tasks?style=social&label=Star) [Github](https://github.com/kamil-dreczkowski/learning_thousand_tasks) | |
 | [**Symskill: Symbol and Skill Co-Invention for Data-Efficient and Real-Time Long-Horizon Manipulation**](https://arxiv.org/abs/2510.01661) | CoRLW 2025 | 2025-10-02 | ![Star](https://img.shields.io/github/stars/shaoyifei96/Symskill?style=social&label=Star) [Github](https://github.com/shaoyifei96/Symskill) | |
 | [**SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation**](https://arxiv.org/abs/2509.25358) | arXiv | 2025-09-29 | [Project](https://qianzhong-chen.github.io/sarm.github.io/) | |
 | [**Compose by Focus: Scene Graph-based Atomic Skills**](https://arxiv.org/abs/2509.16053) | arXiv | 2025-09-19 | [Project](https://computationalrobotics.seas.harvard.edu/SkillComposition/) | |
@@ -339,6 +343,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**UMIGen: A Unified Framework for Egocentric Point Cloud Generation and Cross-Embodiment Robotic Imitation Learning**](https://arxiv.org/abs/2511.09302) | arXiv | 2025-11-12 | - |  |
 | [**EmbodiSwap for Zero-Shot Robot Imitation Learning**](https://arxiv.org/abs/2510.03706) | arXiv | 2025-10-04 | - |  |
 | [**Annotation-Free One-Shot Imitation Learning for Multi-Step Manipulation Tasks**](https://arxiv.org/abs/2509.24972) | arXiv | 2025-09-29 | ![Star](https://img.shields.io/github/stars/vijja-w/AF-OSIL-MS?style=social&label=Star) [Github](https://github.com/vijja-w/AF-OSIL-MS) |  |
 | [**TReF-6: Inferring Task-Relevant Frames from a Single Demonstration for One-Shot Skill Generalization**](https://arxiv.org/abs/2509.00310) | arXiv | 2025-08-30 | - |  |
@@ -455,6 +460,8 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Eq.Bot: Enhance Robotic Manipulation Learning via Group Equivariant Canonicalization**](https://arxiv.org/abs/2511.15194) | arXiv | 2025-11-19 | - | |
+| [**EgoMI: Learning Active Vision and Whole-Body Manipulation from Egocentric Human Demonstrations**](https://arxiv.org/abs/2511.00153) | arXiv | 2025-10-31 | [Project](https://egocentric-manipulation-interface.github.io/) | |
 | [**Do You Know Where Your Camera Is? View-Invariant Policy Learning with Camera Conditioning**](https://arxiv.org/abs/2510.02268) | arXiv | 2025-10-02 | [Project](https://ripl.github.io/know_your_camera/) | |
 | [**ManiVID-3D: Generalizable View-Invariant Reinforcement Learning for Robotic Manipulation via Disentangled 3D Representations**](https://arxiv.org/abs/2509.11125) | arXiv | 2025-09-14 | [Project](https://zheng-joe-lee.github.io/manivid3d/) |  |
 | [**Vision in Action: Learning Active Perception from Human Demonstrations**](https://arxiv.org/abs/2506.15666) | arXiv | 2025-06-18 | ![Star](https://img.shields.io/github/stars/haoyu-x/vision-in-action?style=social&label=Star) [Github](https://github.com/haoyu-x/vision-in-action) | |
@@ -495,6 +502,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations**](https://arxiv.org/abs/2511.04671) | arXiv | 2025-11-06 | [Project](https://portal-cornell.github.io/X-Diffusion/) |  |
 | [**Trajectory Conditioned Cross-embodiment Skill Transfer**](https://arxiv.org/abs/2510.07773) | arXiv | 2025-10-09 | - |  |
 | [**MV-UMI: A Scalable Multi-View Interface for Cross-Embodiment Learning**](https://arxiv.org/abs/2509.18757) | arXiv | 2025-09-23 | [Project](https://mv-umi.github.io/) |  |
 | [**From Human Hands to Robot Arms: Manipulation Skills Transfer via Trajectory Alignment**](https://arxiv.org/abs/2510.00491) | arXiv | 2025-10-01 | [Project](https://anonymous.4open.science/w/Traj2Action-4A45/) |  |
