@@ -357,7 +357,7 @@ Stay tuned for updates to this comprehensive survey!
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
-| **[Robot Learning: A Tutorial]**(https://arxiv.org/abs/2510.12403) | arXiv | 2025-10-14 | ![Star](https://img.shields.io/github/stars/huggingface/lerobot?style=social&label=Star) [Github](https://github.com/huggingface/lerobot) | |
+| [**Robot Learning: A Tutorial**](https://arxiv.org/abs/2510.12403) | arXiv | 2025-10-14 | ![Star](https://img.shields.io/github/stars/huggingface/lerobot?style=social&label=Star) [Github](https://github.com/huggingface/lerobot) | |
 
 ### Github Repo
 <!-- |  Title  |   Venue  |   Date   |   Code   |   Notes  |
