@@ -28,6 +28,7 @@
             - [SE(3)/SIM(3)-Equivariance (View Changes)](#se3sim3-equivariance-view-changes)
             - [Lighting/background/distractor Changes](#lightingbackgrounddistractor-changes)
         - [Cross-Embodiment Generalization](#cross-embodiment-generalization)
+    - [Human-Robot Interaction and Collaboration](#human-robot-interaction-and-collaboration)
 
 
 
@@ -45,6 +46,8 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**ACE-F: A Cross Embodiment Foldable System with Force Feedback for Dexterous Teleoperation**](https://arxiv.org/abs/2511.20887) | arXiv | 2025-11-25 | ![Star](https://img.shields.io/github/stars/ACEFoldable/acef_software?style=social&label=Star) [Github](https://github.com/ACEFoldable/acef_software) |  |
+| [**Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations**](https://arxiv.org/abs/2511.16661) | arXiv | 2025-11-20 | ![Star](https://img.shields.io/github/stars/irmakguzey/AINA?style=social&label=Star) [Github](https://github.com/irmakguzey/AINA) |  |
 | [**TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**](https://arxiv.org/abs/2511.02832) | arXiv | 2025-11-04 | ![Star](https://img.shields.io/github/stars/amazon-far/TWIST2?style=social&label=Star) [Github](https://github.com/amazon-far/TWIST2) |  |
 | [**Open TeleDex: A Hardware-Agnostic Teleoperation System for Imitation Learning based Dexterous Manipulation**](https://arxiv.org/abs/2510.14771) | arXiv | 2025-10-16 | - |  |
 | [**ActiveUMI: Robotic Manipulation with Active Perception from Robot-Free Human Demonstrations**](https://arxiv.org/abs/2510.01607) | arXiv | 2025-10-02 | [Project](https://activeumi.github.io/) |  |
@@ -102,6 +105,14 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**One-Shot Real-World Demonstration Synthesis for Scalable Bimanual Manipulation**](https://arxiv.org/abs/2512.09297) | arXiv | 2025-12-10 | [Project](https://hnuzhy.github.io/projects/BiDemoSyn/) |  |  
+| [**AOMGen: Photoreal, Physics-Consistent Demonstration Generation for Articulated Object Manipulation**](https://arxiv.org/abs/2512.18396) | arXiv | 2025-12-20 | - |  |  
+| [**AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning**](https://arxiv.org/abs/2512.17853) | arXiv | 2025-12-19 | [Project](https://anytask.rai-inst.com/) |  |  
+| [**Iterative Compositional Data Generation for Robot Control**](https://arxiv.org/abs/2512.10891) | arXiv | 2025-12-11 | - |  |  
+| [**IGen: Scalable Data Generation for Robot Learning from Open-World Images**](https://arxiv.org/abs/2512.01773) | arXiv | 2025-12-01 | ![Star](https://img.shields.io/github/stars/ChenghaoGu/IGen_Robot?style=social&label=Star) [Github](https://github.com/ChenghaoGu/IGen_Robot) |  |  
+| [**Robot-Powered Data Flywheels: Deploying Robots in the Wild for Continual Data Collection and Foundation Model Adaptation**](https://arxiv.org/abs/2511.19647) | arXiv | 2025-11-24 | [Project](https://scanford-robot.github.io/) |  |  
+| [**InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy**](https://arxiv.org/abs/2511.16651) | arXiv | 2025-11-20 | [Project](https://internrobotics.github.io/interndata-a1.github.io/) |  |  
+| [**DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks**](https://arxiv.org/abs/2511.16223) | arXiv | 2025-11-20 | ![Star](https://img.shields.io/github/stars/Fautomation-robotics-machines/DynaMimicGen?style=social&label=Star) [Github](https://github.com/automation-robotics-machines/DynaMimicGen) |  |  
 | [**FieldGen: From Teleoperated Pre-Manipulation Trajectories to Field-Guided Data Generation**](https://arxiv.org/abs/2510.20774) | arXiv | 2025-10-23 | ![Star](https://img.shields.io/github/stars/FieldGen/FieldGen?style=social&label=Star) [Github](https://github.com/FieldGen/FieldGen) |  |  
 | [**MoMaGen: Generating Demonstrations under Soft and Hard Constraints for Multi-Step Bimanual Mobile Manipulation**](https://arxiv.org/abs/2510.18316) | arXiv | 2025-10-21 | ![Star](https://img.shields.io/github/stars/ChengshuLi/MoMaGen?style=social&label=Star) [Github](https://github.com/ChengshuLi/MoMaGen) |  |  
 | [**DexFlyWheel: A Scalable and Self-improving Data Generation Framework for Dexterous Manipulation**](https://arxiv.org/abs/2509.23829) | NeurIPS 2025 | 2025-09-28 | [Project](https://dexflywheel.github.io/) |  |  
@@ -158,7 +169,8 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
-| [**Restoring Noisy Demonstration for Imitation Learning With Diffusion Models**](https://arxiv.org/abs/2510.14467) | TNNLS 2025 | 2025-10-16 | - |  |
+| [**MOVE: A Simple Motion-Based Data Collection Paradigm for Spatial Generalization in Robotic Manipulation**](https://arxiv.org/abs/2512.04813) | arXiv | 2025-12-04 | ![Star](https://img.shields.io/github/stars/lucywang720/MOVE?style=social&label=Star) [Github](https://github.com/lucywang720/MOVE) |  |
+| [**Restoring  Noisy Demonstration for Imitation Learning With Diffusion Models**](https://arxiv.org/abs/2510.14467) | TNNLS 2025 | 2025-10-16 | - |  |
 | [**R2RGEN: Real-to-Real 3D Data Generation for Spatially Generalized Manipulationr**](https://arxiv.org/abs/2510.08547) | arXiv | 2025-10-09 | [Project](https://r2rgen.github.io/) |  |
 | [**EMMA: Generalizing Real-World Robot Manipulation via Generative Visual Transfer**](https://arxiv.org/abs/2509.22407) | arXiv | 2025-09-26 | [Project](https://egodemogen.github.io/) |  |
 | [**EgoDemoGen: Novel Egocentric Demonstration Generation Enables Viewpoint-Robust Manipulation**](https://arxiv.org/abs/2509.22578) | arXiv | 2025-09-26 | [Project](https://egodemogen.github.io/) |  |
@@ -191,6 +203,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Dynamic Test-Time Compute Scaling in Control Policy: Difficulty-Aware Stochastic Interpolant Policy**](https://arxiv.org/abs/2511.20906) | arXiv | 2025-11-25 | - |  |
 | [**Using Temperature Sampling to Effectively Train Robot Learning Policies on Imbalanced Datasets**](https://arxiv.org/abs/2510.19373) | arXiv | 2025-10-22 | [Project](https://basavasagarkp.github.io/temp_samp/) |  |
 | [**Shortcut Learning in Generalist Robot Policies: The Role of Dataset Diversity and Fragmentation**](https://arxiv.org/abs/2508.06426) | CoRL 2025 | 2025-08-08 | [Project](https://lucky-light-sun.github.io/proj/shortcut-learning-in-grps/) |  |
 | [**Is Diversity All You Need for Scalable Robotic Manipulation?**](https://arxiv.org/abs/2507.06219) | arXiv | 2025-07-08 | ![Star](https://img.shields.io/github/stars/OpenDriveLab/AgiBot-World?style=social&label=Star) [Github](https://github.com/OpenDriveLab/AgiBot-World) |  |
@@ -240,6 +253,8 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**M<sup>3</sup>A Policy: Mutable Material Manipulation Augmentation Policy through Photometric Re-rendering**](https://arxiv.org/abs/2512.01446) | arXiv | 2025-12-01 | - |  |
+| [**Improving Robotic Manipulation Robustness via NICE Scene Surgery**](https://arxiv.org/abs/2511.22777) | arXiv | 2025-11-27 | - |  |
 | [**A Study on Enhancing the Generalization Ability of Visuomotor Policies via Data Augmentation**](https://arxiv.org/abs/2511.09932) | arXiv | 2025-11-13 | - |  |
 | [**RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation**](https://arxiv.org/abs/2510.17640) | arXiv | 2025-10-20 | - |  |
 | [**Fidelity-Aware Data Composition for Robust Robot Generalization**](https://arxiv.org/abs/2509.24797) | arXiv | 2025-09-29 | - |  |
@@ -304,6 +319,7 @@
 | [**Symskill: Symbol and Skill Co-Invention for Data-Efficient and Real-Time Long-Horizon Manipulation**](https://arxiv.org/abs/2510.01661) | CoRLW 2025 | 2025-10-02 | ![Star](https://img.shields.io/github/stars/shaoyifei96/Symskill?style=social&label=Star) [Github](https://github.com/shaoyifei96/Symskill) | |
 | [**SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation**](https://arxiv.org/abs/2509.25358) | arXiv | 2025-09-29 | [Project](https://qianzhong-chen.github.io/sarm.github.io/) | |
 | [**Compose by Focus: Scene Graph-based Atomic Skills**](https://arxiv.org/abs/2509.16053) | arXiv | 2025-09-19 | [Project](https://computationalrobotics.seas.harvard.edu/SkillComposition/) | |
+| [**ManiLong-Shot: Interaction-Aware One-Shot Imitation Learning for Long-Horizon Manipulation**](https://arxiv.org/abs/2512.16302) | AAAI 2026 | 2025-12-18 | [Project](https://sites.google.com/view/manilong-shot) | |
 | [**BT-TL-DMPs: A Novel Robot TAMP Framework Combining Behavior Tree, Temporal Logic and Dynamical Movement Primitives**](https://arxiv.org/abs/2507.14582) | arXiv | 2025-07-19 | - | |
 | [**Bootstrapping Imitation Learning for Long-horizon Manipulation via Hierarchical Data Collection Space**](https://arxiv.org/abs/2505.17389) | arXiv | 2025-05-23 | [Project](https://hd-space-robotics.github.io/) | |
 | [**Look Before You Leap: Using Serialized State Machine for Language Conditioned Robotic Manipulation**](https://arxiv.org/abs/2503.05114) | arXiv | 2025-03-07 | [Project](https://hd-space-robotics.github.io/) | |
@@ -430,6 +446,9 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface**](https://arxiv.org/abs/2512.19402) | arXiv | 2025-12-22 | ![Star](https://img.shields.io/github/stars/Real2Edit2Real/Real2Edit2Real?style=social&label=Star) [Github](https://github.com/Real2Edit2Real/Real2Edit2Real) |  |
+| [**TwinAligner: Visual-Dynamic Alignment Empowers Physics-aware Real2Sim2Real for Robotic Manipulation**](https://arxiv.org/abs/2512.19390) | arXiv | 2025-12-22 | ![Star](https://img.shields.io/github/stars/TwinAligner/TwinAligner?style=social&label=Star) [Github](https://github.com/TwinAligner/TwinAligner) |  |
+| [**PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies**](https://arxiv.org/abs/2512.16881) | arXiv | 2025-12-18 | ![Star](https://img.shields.io/github/stars/arhanjain/PolaRiS?style=social&label=Star) [Github](https://github.com/arhanjain/PolaRiS) |  |
 | [**Phys2Real: Fusing VLM Priors with Interactive Online Adaptation for Uncertainty-Aware Sim-to-Real Manipulation**](https://arxiv.org/abs/2510.11689) | arXiv | 2025-10-13 | [Project](https://phys2real.github.io/) |  |
 | [**High-Fidelity Simulated Data Generation for Real-World Zero-Shot Robotic Manipulation Learning with Gaussian Splatting**](https://arxiv.org/abs/2510.10637) | arXiv | 2025-10-12 | ![Star](https://img.shields.io/github/stars/Maxwell-Zhao/RoboSimGS?style=social&label=Star) [Github](https://github.com/Maxwell-Zhao/RoboSimGS) |  |
 | [**A Recipe for Efficient Sim-to-Real Transfer in Manipulation with Online Imitation-Pretrained World Models**](https://arxiv.org/abs/2510.02538) | arXiv | 2025-10-02 | - |  |
@@ -460,6 +479,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Bridging Simulation and Reality: Cross-Domain Transfer with Semantic 2D Gaussian Splatting**](https://arxiv.org/abs/2512.04731) | arXiv | 2025-12-04 | - | |
 | [**Eq.Bot: Enhance Robotic Manipulation Learning via Group Equivariant Canonicalization**](https://arxiv.org/abs/2511.15194) | arXiv | 2025-11-19 | - | |
 | [**EgoMI: Learning Active Vision and Whole-Body Manipulation from Egocentric Human Demonstrations**](https://arxiv.org/abs/2511.00153) | arXiv | 2025-10-31 | [Project](https://egocentric-manipulation-interface.github.io/) | |
 | [**Do You Know Where Your Camera Is? View-Invariant Policy Learning with Camera Conditioning**](https://arxiv.org/abs/2510.02268) | arXiv | 2025-10-02 | [Project](https://ripl.github.io/know_your_camera/) | |
@@ -502,6 +522,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies**](https://arxiv.org/abs/2512.05693) | arXiv | 2025-12-05 | ![Star](https://img.shields.io/github/stars/ZhiyingDu/HiMoE-VLA?style=social&label=Star) [Github](https://github.com/ZhiyingDu/HiMoE-VLA) |  |
 | [**X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations**](https://arxiv.org/abs/2511.04671) | arXiv | 2025-11-06 | [Project](https://portal-cornell.github.io/X-Diffusion/) |  |
 | [**Trajectory Conditioned Cross-embodiment Skill Transfer**](https://arxiv.org/abs/2510.07773) | arXiv | 2025-10-09 | - |  |
 | [**MV-UMI: A Scalable Multi-View Interface for Cross-Embodiment Learning**](https://arxiv.org/abs/2509.18757) | arXiv | 2025-09-23 | [Project](https://mv-umi.github.io/) |  |
@@ -530,13 +551,39 @@
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 
-## Safety
 
-### Latent Learning for Safety
+## Human-Robot Interaction and Collaboration
 <!-- |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Transforming Monolithic Foundation Models into Embodied Multi-Agent Architectures for Human-Robot Collaboration**](https://arxiv.org/abs/2512.00797) | arXiv | 2025-11-30 | - |  |
+| [**The Role of Consequential and Functional Sound in Human-Robot Interaction: Toward Audio Augmented Reality Interfaces**](https://arxiv.org/abs/2511.15956) | arXiv | 2025-11-20 | [Project](https://sites.google.com/berkeley.edu/rapl) |  |
+| [**I've Changed My Mind: Robots Adapting to Changing Human Goals during Collaboration**](https://arxiv.org/abs/2511.15914) | RA-L 2025 | 2025-11-19 | - |  |
+| [**Open-Ended Goal Inference through Actions and Language for Human-Robot Collaboration**](https://arxiv.org/abs/2512.04453) | HRI 2026 | 2025-12-04 | - |  |
+| [**Maximizing Alignment with Minimal Feedback: Efficiently Learning Rewards for Visuomotor Robot Policy Alignment**](https://arxiv.org/abs/2412.04835) | arXiv | 2024-12-06 | [Project](https://sites.google.com/berkeley.edu/rapl) |  |
+| [**Vocal Sandbox: Continual Learning and Adaptation for Situated Human-Robot Collaboration**](https://openreview.net/pdf?id=ypaYtV1CoG) | CoRL 2024 | 2024-09-06 | [Project](https://vocal-sandbox.github.io/) |  |
+| [**APRICOT: Active Preference Learning and Constraint-Aware Task Planning with LLMs**](https://openreview.net/pdf?id=nQslM6f7dW) | CoRL 2024 | - | [Project](https://portal-cornell.github.io/apricot/) |  |
+| [**Text2Interaction: Establishing Safe and Preferable Human-Robot Interaction**](https://arxiv.org/abs/2408.06105) | CoRL 2024 | 2024-08-12 | ![Star](https://img.shields.io/github/stars/JakobThumm/text2interaction?style=social&label=Star) [Github](https://github.com/JakobThumm/text2interaction) |  |
+| [**GenH2R: Learning Generalizable Human-to-Robot Handover via Scalable Simulation, Demonstration, and Imitation**](https://arxiv.org/abs/2401.00929) | CVPR 2024 | 2024-01-01  | ![Star](https://img.shields.io/github/stars/chenjy2003/genh2r?style=social&label=Star) [Github](https://github.com/chenjy2003/genh2r)  |
+| [KNOWNO: **Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners**](https://arxiv.org/abs/2307.01928) | CoRL 2023 | 2023-07-04 | [Github](https://github.com/google-research/google-research/tree/master/language_model_uncertainty) | |
+| [LILAC: **Yell At Your Robot: Improving On-the-Fly from Language Corrections**](https://arxiv.org/abs/2403.12910) | arXiv | 2024-03-19 | ![Star](https://img.shields.io/github/stars/yay-robot/yay_robot?style=social&label=Star) [Github](https://github.com/yay-robot/yay_robot) | |
+| [YAY Robot: **"No, to the Right" -- Online Language Corrections for Robotic Manipulation via Shared Autonomy**](https://arxiv.org/abs/2301.02555) | HRI 2023 | 2023-01-06 | ![Star](https://img.shields.io/github/stars/Stanford-ILIAD/lilac?style=social&label=Star) [Github](https://github.com/Stanford-ILIAD/lilac) | |
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
+
+
+
+## Safety
+<!-- |  Title  |   Venue  |   Date   |   Code   |   Notes  |
+|:--------|:--------:|:--------:|:--------:|:--------:| -->
+|  Title  |   Venue  |   Date   |   Code   | 
+|:--------|:--------:|:--------:|:--------:|
+| [**ContactRL: Safe Reinforcement Learning based Motion Planning for Contact based Human Robot Collaboration**](https://arxiv.org/abs/2512.03707) | arXiv | 2025-12-03 | ![Star](https://img.shields.io/github/stars/SMulkana/ContactRL?style=social&label=Star) [Github](https://github.com/SMulkana/ContactRL) |  |
+| [**Gated Uncertainty-Aware Runtime Dual Invariants for Neural Signal-Controlled Robotics**](https://arxiv.org/abs/2511.20570) | NeurIPS 2025 | 2025-11-25 | - |  |
+| [**Safe and Stable Neural Network Dynamical Systems for Robot Motion Planning**](https://arxiv.org/abs/2511.20593) | arXiv | 2025-11-25 | - |  |
+| [**SM2ITH: Safe Mobile Manipulation with Interactive Human Prediction via Task-Hierarchical Bilevel Model Predictive Control**](https://arxiv.org/abs/2511.17798) | arXiv | 2025-11-21 | - |  |
+| [**Safe and Optimal Variable Impedance Control via Certified Reinforcement Learning**](https://arxiv.org/abs/2511.16330) | arXiv | 2025-11-20 | - |  |
 | [**What You Don't Know Can Hurt You: How Well do Latent Safety Filters Understand Partially Observable Safety Constraints?**](https://arxiv.org/abs/2510.06492) | arXiv | 2025-10-07 | [Project](https://cmu-intentlab.github.io/multisafe/) |  |
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>

@@ -53,6 +53,8 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Vision-Language-Action Models for Selective Robotic Disassembly: A Case Study on Critical Component Extraction from Desktops**](https://arxiv.org/abs/2512.04446) | arXiv | 2025-12-04 | - |  |
+| [**From Observation to Action: Latent Action-based Primitive Segmentation for VLA Pre-training in Industrial Settings**](https://arxiv.org/abs/2511.21428) | arXiv | 2025-11-26 | - |  |
 | [**Vision-based Manipulation of Transparent Plastic Bags in Industrial Setups**](https://arxiv.org/abs/2411.09623) | frobt 2025 | 2024-11-14 | - |  |
 | [**A Flexible Manufacturing Assembly System with Deep Reinforcement Learning**](https://www.sciencedirect.com/science/article/pii/S0967066121002343) | Control Engineering Practice 2022 | 2021-10-25 | - |  |
 | [**Toward Fully Autonomous Mobile Manipulation for Industrial Environments**](https://journals.sagepub.com/doi/full/10.1177/1729881417718588) | IJARS 2017 | 2017-07-14 | - |  |
@@ -104,6 +106,7 @@
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 | _Medical Science_|
+| [**SurgiPose: Estimating Surgical Tool Kinematics from Monocular Video for Surgical Robot Learning**](https://arxiv.org/abs/2512.18068) | arXiv | 2025-12-19 | - | |
 | [**UltraDP: Generalizable Carotid Ultrasound Scanning with Force-Aware Diffusion Policy**](https://arxiv.org/abs/2511.15550) | arXiv | 2025-11-19 | - | |
 | [**Cosmos-Surg-dVRK: World Foundation Model-based Automated Online Evaluation of Surgical Robot Policy Learning**](https://arxiv.org/abs/2510.16240) | arXiv | 2025-10-17 | - | |
 | [**Learning to Perform Low-Contact Autonomous Nasotracheal Intubation by Recurrent Action-Confidence Chunking with Transformer**](https://www.arxiv.org/abs/2508.01808) | IROS 2025 | 2025-08-03 | - | |
