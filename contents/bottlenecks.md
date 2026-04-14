@@ -29,7 +29,9 @@
             - [SE(3)/SIM(3)-Equivariance/View Changes](#se3sim3-equivarianceview-changes)
             - [Lighting/background/distractor Changes](#lightingbackgrounddistractor-changes)
         - [Cross-Embodiment Generalization](#cross-embodiment-generalization)
+    - [Agent](#agent)
     - [Human-Robot Interaction and Collaboration](#human-robot-interaction-and-collaboration)
+    - [Safety](#safety)
 
 
 
@@ -60,6 +62,8 @@
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 | _UMI_ |
+| [**OmniUMI: Towards Physically Grounded Robot Learning via Human-Aligned Multimodal Interaction**](https://arxiv.org/abs/2604.10647) | arXiv | 2026-04-12 | - |  |
+| [**TAMEn: Tactile-Aware Manipulation Engine for Closed-Loop Data Collection in Contact-Rich Tasks**](https://arxiv.org/abs/2604.07335) | arXiv | 2026-04-08 | ![Star](https://img.shields.io/github/stars/OpenDriveLab/TAMEn?style=social&label=Star) [Github](https://github.com/OpenDriveLab/TAMEn) |  |
 | [**FeasibleCap: Real-Time Embodiment Constraint Guidance for In-the-Wild Robot Demonstration Collection**](https://arxiv.org/abs/2603.07580) | arXiv | 2026-03-08 | - |  |
 | [**In-the-Wild Compliant Manipulation with UMI-FT**](https://arxiv.org/abs/2601.09988) | arXiv | 2026-01-15 | ![Star](https://img.shields.io/github/stars/real-stanford/UMI-FT?style=social&label=Star) [Github](https://github.com/real-stanford/UMI-FT) |  |
 | [**ActiveUMI: Robotic Manipulation with Active Perception from Robot-Free Human Demonstrations**](https://arxiv.org/abs/2510.01607) | arXiv | 2025-10-02 | [Project](https://activeumi.github.io/) |  |
@@ -143,6 +147,8 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds**](https://arxiv.org/abs/2604.08544) | arXiv | 2026-04-09 | ![Star](https://img.shields.io/github/stars/InternRobotics/SIM1?style=social&label=Star) [Github](https://github.com/InternRobotics/SIM1) |  |  
+| [**CRAFT: Video Diffusion for Bimanual Robot Data Generation**](https://arxiv.org/abs/2604.03552) | arXiv | 2026-04-04 | [Project](https://craftaug.github.io/) |  |  
 | [**V-Dreamer: Automating Robotic Simulation and Trajectory Synthesis via Video Generation Priors**](https://arxiv.org/abs/2603.18811) | arXiv | 2026-03-19 | [Project](https://jia-handsome.github.io/v-Dreamer/) |  |  
 | [**RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset**](https://arxiv.org/abs/2603.11811) | arXiv | 2026-03-12 | - |  |  
 | [**RoboCurate: Harnessing Diversity with Action-Verified Neural Trajectory for Robot Learning**](https://arxiv.org/abs/2602.18742) | arXiv | 2026-02-21 | [Project](https://seungkukim.github.io/robocurate/) |  |  
@@ -213,6 +219,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**WM-DAgger: Enabling Efficient Data Aggregation for Imitation Learning with World Models**](https://arxiv.org/abs/2604.113511) | arXiv | 2026-04-13 | ![Star](https://img.shields.io/github/stars/czs12354-xxdbd/WM-Dagger?style=social&label=Star) [Github](https://github.com/czs12354-xxdbd/WM-Dagger) |  |
 | [**RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation**](https://arxiv.org/abs/2601.05241) | arXiv | 2026-01-08 | ![Star](https://img.shields.io/github/stars/RoboVIP/RoboVIP_VDM?style=social&label=Star) [Github](https://github.com/RoboVIP/RoboVIP_VDM) |  |
 | [**MOVE: A Simple Motion-Based Data Collection Paradigm for Spatial Generalization in Robotic Manipulation**](https://arxiv.org/abs/2512.04813) | arXiv | 2025-12-04 | ![Star](https://img.shields.io/github/stars/lucywang720/MOVE?style=social&label=Star) [Github](https://github.com/lucywang720/MOVE) |  |
 | [**Restoring  Noisy Demonstration for Imitation Learning With Diffusion Models**](https://arxiv.org/abs/2510.14467) | TNNLS 2025 | 2025-10-16 | - |  |
@@ -591,6 +598,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**LIDEA: Human-to-Robot Imitation Learning via Implicit Feature Distillation and Explicit Geometry Alignment**](https://arxiv.org/abs/2604.10677) | arXiv | 2026-04-12  | [Project](https://yifuxu1127.github.io/LIDEA/) |  |
 | [**One-Policy-Fits-All: Geometry-Aware Action Latents for Cross-Embodiment Manipulation**](https://arxiv.org/abs/2603.14522) | ICRA 2026 | 2026-03-15  | [Project](https://mujc2021.github.io/opfa/) |  |
 | [**Data Analogies Enable Efficient Cross-Embodiment Transfer**](https://arxiv.org/abs/2603.06450) | arXiv | 2026-03-06 | - |  |
 | [**Embedding Morphology into Transformers for Cross-Robot Policy Learning**](https://arxiv.org/abs/2603.00182) | arXiv | 2026-02-26 | - |  |
@@ -626,12 +634,26 @@
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 
+### Agent
+<!-- |  Title  |   Venue  |   Date   |   Code   |   Notes  |
+|:--------|:--------:|:--------:|:--------:|:--------:| -->
+|  Title  |   Venue  |   Date   |   Code   | 
+|:--------|:--------:|:--------:|:--------:|
+| [**ABot-Claw: A Foundation for Persistent, Cooperative, and Self-Evolving Robotic Agents**](https://arxiv.org/abs/2604.10096) | arXiv | 2026-04-11 | ![Star](https://img.shields.io/github/stars/amap-cvlab/ABot-Claw?style=social&label=Star) [Github](https://github.com/amap-cvlab/ABot-Claw) | |
+| [**SOMA: Strategic Orchestration and Memory-Augmented System for Vision-Language-Action Model Robustness via In-Context Adaptation**](https://arxiv.org/abs/2603.24060) | arXiv | 2026-03-25 | ![Star](https://img.shields.io/github/stars/LZY-1021/SOMA?style=social&label=Star) [Github](https://github.com/LZY-1021/SOMA) | |
+| [**RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks**](https://arxiv.org/abs/2603.11558) | arXiv | 2026-03-12 | ![Star](https://img.shields.io/github/stars/RoboClaw-Robotics/RoboClaw?style=social&label=Star) [Github](https://github.com/RoboClaw-Robotics/RoboClaw) | |
+| [**VLA<sup>2</sup>: Empowering Vision-Language-Action Models with an Agentic Framework for Unseen Concept Manipulation**](https://arxiv.org/abs/2510.14902) | arXiv | 2025-10-16 | [Project](https://vla-2.github.io/) | |
+| [**Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents**](https://arxiv.org/abs/2505.23450) | arXiv | 2025-05-29 | ![Star](https://img.shields.io/github/stars/Agentic-Robot/agentic-robot?style=social&label=Star) [Github](https://github.com/Agentic-Robot/agentic-robot) | |
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
+
 
 ## Human-Robot Interaction and Collaboration
 <!-- |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Generative Simulation for Policy Learning in Physical Human-Robot Interaction**](https://arxiv.org/abs/2604.08664) | arXiv | 2026-04-09 | [Project](https://rchi-lab.github.io/gen_phri/) |  |
 | [**TATIC: Task-Aware Temporal Learning for Human Intent Inference from Physical Corrections in Human-Robot Collaboration**](https://arxiv.org/abs/2603.11077) | arXiv | 2026-03-10 | - |  |
 | [**Sticky-Glance: Robust Intent Recognition for Human Robot Collaboration via Single-Glance**](https://arxiv.org/abs/2603.06121) | arXiv | 2026-03-06 | - |  |
 | [**SPIRIT: Perceptive Shared Autonomy for Robust Robotic Manipulation under Deep Learning Uncertainty**](https://arxiv.org/abs/2603.05111) | arXiv | 2026-03-05 | - |  |
@@ -657,6 +679,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models**](https://arxiv.org/abs/2604.03956) | arXiv | 2026-04-05 | - |  |
 | [**Provably Safe Trajectory Generation for Manipulators Under Motion and Environmental Uncertainties**](https://arxiv.org/abs/2603.09083) | arXiv | 2026-03-10 | - |  |
 | [**SafeFlowMPC: Predictive and Safe Trajectory Planning for Robot Manipulators with Learning-based Policies**](https://arxiv.org/abs/2602.12794) | ICRA 2026 | 2026-02-13 | ![Star](https://img.shields.io/github/stars/TU-Wien-ACIN-CDS/SafeFlowMPC?style=social&label=Star) [Github](https://github.com/TU-Wien-ACIN-CDS/SafeFlowMPC) |  |
 | [**SURE: Safe Uncertainty-Aware Robot-Environment Interaction using Trajectory Optimization**](https://arxiv.org/abs/2602.06864) | arXiv | 2026-02-06 | - |  |

@@ -107,6 +107,7 @@
 | [**From Foresight to Forethought: VLM-In-the-Loop Policy Steering via Latent Alignment**](https://arxiv.org/abs/2502.01828) | RSS 2025 | 2025-02-03 | - |  |
 | [Matcha: **Chat with the Environment: Interactive Multimodal Perception Using Large Language Models**](https://arxiv.org/abs/2303.08268) | IROS 2023 | 2023-03-14 | ![Star](https://img.shields.io/github/stars/xf-zhao/Matcha-agent?style=social&label=Star) [Github](https://github.com/xf-zhao/Matcha-agent) |  |
 | _Reward Reasoning_ |
+| [**ARM: Advantage Reward Modeling for Long-Horizon Manipulation**](https://arxiv.org/abs/2604.03037) | arXiv | 2026-04-03 | ![Star](https://img.shields.io/github/stars/limxdynamics/FluxVLA?style=social&label=Star) [Github](https://github.com/limxdynamics/FluxVLA) |  |
 | [**SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning**](https://arxiv.org/abs/2603.28730) | arXiv | 2026-03-30 | - |  |
 | [**Large Reward Models: Generalizable Online Robot Reward Generation with Vision-Language Models**](https://arxiv.org/abs/2603.16065) | arXiv | 2026-03-17 | [Project](https://yanru-wu.github.io/Large-Reward-Models/) |  |
 | [**Robometer: Scaling General-Purpose Robotic Reward Models via Trajectory Comparisons**](https://arxiv.org/abs/2603.02115) | arXiv | 2026-03-02 | ![Star](https://img.shields.io/github/stars/robometer/robometer?style=social&label=Star) [Github](https://github.com/robometer/robometer) |  |
@@ -114,6 +115,7 @@
 | [**RoboReward: General-Purpose Vision-Language Reward Models for Robotics**](https://arxiv.org/abs/2601.00675) | arXiv | 2026-01-02 | [Project](https://crfm.stanford.edu/helm/robo-reward-bench/latest/) |  |
 | [**Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation**](https://arxiv.org/abs/2512.23703) | CVPR 2026 | 2025-12-29 | ![Star](https://img.shields.io/github/stars/FlagOpen/Robo-Dopamine?style=social&label=Star) [Github](https://github.com/FlagOpen/Robo-Dopamine) |  |
 | _Robot Reasoning_ |
+| [**HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents**](https://arxiv.org/abs/2604.07430) | arXiv | 2026-04-08 | ![Star](https://img.shields.io/github/stars/Tencent-Hunyuan/HY-Embodied?style=social&label=Star) [Github](https://github.com/Tencent-Hunyuan/HY-Embodied) |  |
 | [**ACE-Brain-0: Spatial Intelligence as a Shared Scaffold for Universal Embodiments**](http://arxiv.org/abs/2603.03198) | arXiv | 2026-03-03 | ![Star](https://img.shields.io/github/stars/ACE-Brain-Team/ACE-Brain-0?style=social&label=Star) [Github](https://github.com/ACE-Brain-Team/ACE-Brain-0) |  |
 | [**RynnBrain: Open Embodied Foundation Models**](https://arxiv.org/abs/2602.14979) | arXiv | 2026-02-13 | ![Star](https://img.shields.io/github/stars/alibaba-damo-academy/RynnBrain?style=social&label=Star) [Github](https://github.com/alibaba-damo-academy/RynnBrain) |  |
 | [**GSR: Learning Structured Reasoning for Embodied Manipulation**](https://arxiv.org/abs/2602.01693) | arXiv | 2026-02-02 | [Project](https://klmmotion.github.io/gsr.github.io/) |  |
@@ -141,6 +143,8 @@
 | [**SpatialBot: Precise Spatial Understanding with Vision Language Models**](https://arxiv.org/abs/2406.13642) | ICRA 2025 | 2024-06-19 | ![Star](https://img.shields.io/github/stars/BAAI-DCAI/SpatialBot?style=social&label=Star)  [Github](https://github.com/BAAI-DCAI/SpatialBot) |  |
 | [**SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities**](https://arxiv.org/abs/2401.12168) | CVPR 2024 | 2024-01-22 | ![Star](https://img.shields.io/github/stars/remyxai/VQASynth?style=social&label=Star) [Github](https://github.com/remyxai/VQASynth) |  |
 | _Affordance Reasoning_ |
+| [**LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation**](https://arxiv.org/abs/2604.08475) | arXiv | 2026-04-09 | [Project](https://zju3dv.github.io/LAMP/) |  |
+| [**CompassAD: Intent-Driven 3D Affordance Grounding in Functionally Competing Objects**](https://arxiv.org/abs/2604.02060) | arXiv | 2026-04-02 | ![Star](https://img.shields.io/github/stars/Lorenzo-0-0/CompassAD?style=social&label=Star) [Github](https://github.com/Lorenzo-0-0/CompassAD) |  |
 | [**BiPreManip: Learning Affordance-Based Bimanual Preparatory Manipulation through Anticipatory Collaboration**](https://arxiv.org/abs/2603.21679) | CVPR 2026 | 2026-03-23 | [Project](https://sites.google.com/view/bipremanip) |  |
 | [**RAAP: Retrieval-Augmented Affordance Prediction with Cross-Image Action Alignment**](https://arxiv.org/abs/2603.29419) | ICRA 2026 | 2026-03-31 | ![Star](https://img.shields.io/github/stars/SEU-VIPGroup/RAAP?style=social&label=Star) [Github](https://github.com/SEU-VIPGroup/RAAP) |  |
 | [**RoboPCA: Pose-centered Affordance Learning from Human Demonstrations for Robot Manipulation**](https://arxiv.org/abs/2603.07691) | ICRA 2026 | 2026-03-08 | - |  |
@@ -232,6 +236,7 @@
 | [**Ditto: Building Digital Twins of Articulated Objects from Interaction**](https://arxiv.org/abs/2202.08227) | CVPR 2022 | 2022-08-16 | ![Star](https://img.shields.io/github/stars/UT-Austin-RPL/Ditto?style=social&label=Star) [Github](https://github.com/UT-Austin-RPL/Ditto) | Part-based |
 | [NDF: **Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation**](https://arxiv.org/abs/2112.05124) | ICRA 2022 | 2021-12-09 | ![Star](https://img.shields.io/github/stars/anthonysimeonov/ndf_robot?style=social&label=Star) [Github](https://github.com/anthonysimeonov/ndf_robot) |  |
 | _3DGS_ |
+| [**BLaDA: Bridging Language to Functional Dexterous Actions within 3DGS Fields**](https://arxiv.org/abs/2604.08410) | arXiv | 2026-04-09 | ![Star](https://img.shields.io/github/stars/PopeyePxx/BLaDA?style=social&label=Star) [Github](https://github.com/PopeyePxx/BLaDA) | |
 | [**Learning Geometrically-Grounded 3D Visual Representations for View-Generalizable Robotic Manipulation**](https://arxiv.org/abs/2601.22988) | arXiv | 2026-01-30 | ![Star](https://img.shields.io/github/stars/RichardDuan-shandong/GEM3D?style=social&label=Star) [Github](https://github.com/RichardDuan-shandong/GEM3D) | |
 | [**Observer Actor: Active Vision Imitation Learning with Sparse View Gaussian Splatting**](https://arxiv.org/abs/2511.18140) | ICRA 2026 | 2025-11-22 | [Project](https://obact.github.io/) | |
 | [**RoboArmGS: High-Quality Robotic Arm Splatting via Bézier Curve Refinement**](https://arxiv.org/abs/2511.17961) | arXiv | 2025-11-22 | - | |

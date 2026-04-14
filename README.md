@@ -8,7 +8,7 @@ This repository will be continuously updated, and we warmly welcome contribution
 
 ## 📢 News
 
-- **[2026/04]** Updated the venue information for most papers and removed a few references without publicly available code. Revised the subsection titles under *High-Level Planning*, separated *Video-Based Planners* into an independent subsection, and are currently refining the *Motion Planning* section. Added coverage of *Aerial Manipulation* and *Underwater Manipulation*, and further improved parts of the taxonomy, such as *Human Teleoperation* under *Data Collection*.
+- **[2026/04]** Updated venue information for most papers and removed a few references without publicly available code. Refined the taxonomy under *High-Level Planning*, separated *Video-Based Planners* into an independent subsection, and are revising the *Motion Planning* section. Added coverage of *Aerial Manipulation* and *Underwater Manipulation*, and improved categories such as *Human Teleoperation* under *Data Collection*.
 - **[2025/10]** Our paper [Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey](https://arxiv.org/abs/2510.10903) is on available! 
 - **[2025/08]** Major revision of the classification system with a more refined taxonomy; substantial improvements across all sections.
 - **[2025/07]** Expanded coverage of *Dexterous*, *Soft Robotic*, *Mobile*, *Quadrupedal*, and *Humanoid Manipulation*; refined the categorization and content for *Awesome Simulators, Benchmarks, and Datasets*，added non-learning-based control methods.  
@@ -123,6 +123,7 @@ Stay tuned for updates to this comprehensive survey!
 | [**Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning**](https://arxiv.org/abs/2501.02116) | arXiv | 2025-01-03 | - | Humanoid Manipulation |
 | [**Teleoperation of Humanoid Robots: A Survey**](https://arxiv.org/abs/2301.04317) | T-RO 2024 | 2023-01-11 | [Project](https://humanoid-teleoperation.github.io/) | Humanoid |
 | _Others_ |
+| [**From Video to Control: A Survey of Learning Manipulation Interfaces from Temporal Visual Data**](https://arxiv.org/abs/2604.04974) | arXiv | 2026-04-04 | - | video |
 | [**Toward Generalist Neural Motion Planners for Robotic Manipulators: Challenges and Opportunities**](https://arxiv.org/abs/2603.24318) | TASE 2026 | 2026-03-25 | ![Star](https://img.shields.io/github/stars/DavoodSZ/DeepLearning-MotionPlanning-Manipulators?style=social&label=Star) [Github](https://github.com/DavoodSZ/DeepLearning-MotionPlanning-Manipulators) | Motion Planning |
 | [**Video Generation Models in Robotics -- Applications, Research Challenges, Future Directions**](https://arxiv.org/abs/2601.07823) | arXiv | 2026-01-12 | - | Video Generation |
 | [**Embodied Robot Manipulation in the Era of Foundation Models: Planning and Learning Perspectives**](https://arxiv.org/abs/2512.22983) | arXiv | 2025-12-28 | - | Manipulation |
@@ -201,6 +202,7 @@ Stay tuned for updates to this comprehensive survey!
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies**](https://arxiv.org/abs/2604.09860) | arXiv | 2026-04-10 | - | |
 | [**REALM: A Real-to-Sim Validated Benchmark for Generalization in Robotic Manipulation**](https://arxiv.org/abs/2512.19562) | arXiv | 2025-12-22 | ![Star](https://img.shields.io/github/stars/martin-sedlacek/REALM?style=social&label=Star) [Github](https://github.com/martin-sedlacek/REALM) | |
 | [**RobotArena: Scalable Robot Benchmarking via Real-to-Sim Translation**](https://arxiv.org/abs/2510.23571) | ICLR 2026 | 2025-10-27 | [Project](https://robotarenainf.github.io/) | |
 | [**GSWorld: Closed-Loop Photo-Realistic Simulation Suite for Robotic Manipulation**](https://arxiv.org/abs/2510.20813) | ICRA 2026 | 2025-10-23 | ![Star](https://img.shields.io/github/stars/luccachiang/GSWorld?style=social&label=Star) [Github](https://github.com/luccachiang/GSWorld) | |
@@ -465,6 +467,7 @@ Stay tuned for updates to this comprehensive survey!
 ### Human and Robotic Video Datasets
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**EgoVerse: An Egocentric Human Dataset for Robot Learning from Around the World**](https://arxiv.org/abs/2604.07607) | arXiv | 2026-04-08 | ![Star](https://img.shields.io/github/stars/GaTech-RL2/EgoVerse?style=social&label=Star) [Github](https://github.com/GaTech-RL2/EgoVerse) | |
 | [**Wow, wo, val! A Comprehensive Embodied World Model Evaluation Turing Test**](https://arxiv.org/abs/2601.04137) | arXiv | 2026-01-07 | - | |
 | [**Hoi! -- A Multimodal Dataset for Force-Grounded, Cross-View Articulated Manipulation**](https://arxiv.org/abs/2512.04884) | arXiv | 2025-12-04 | ![Star](https://img.shields.io/github/stars/showlab/RobotSeg?style=social&label=Star) [Github](https://github.com/showlab/RobotSeg) | |
 | [**RobotSeg: A Model and Dataset for Segmenting Robots in Image and Video**](https://arxiv.org/abs/2511.22950) | arXiv | 2025-11-28 | ![Star](https://img.shields.io/github/stars/showlab/RobotSeg?style=social&label=Star) [Github](https://github.com/showlab/RobotSeg) | |
