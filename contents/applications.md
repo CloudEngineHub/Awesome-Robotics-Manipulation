@@ -122,13 +122,14 @@
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 | _Medical Science_|
-| [**Give me scissors: Collision-Free Dual-Arm Surgical Assistive Robot for Instrument Delivery**](https://arxiv.org/abs/2603.02553) | ICRA 2026 | 2026-03-03 | ![Star](https://img.shields.io/github/stars/XuejinLuo/Give-me-scissors-ICRA2026?style=social&label=Star) [Github](https://github.com/XuejinLuo/Give-me-scissors-ICRA2026) | |
 | [**MoE-ACT: Improving Surgical Imitation Learning Policies through Supervised Mixture-of-Experts**](https://arxiv.org/abs/2601.21971) | arXiv | 2026-01-29 | - | |
 | [**SurgWorld: Learning Surgical Robot Policies from Videos via World Modeling**](https://arxiv.org/abs/2512.23162) | arXiv | 2025-12-29 | - | |
 | [**SurgiPose: Estimating Surgical Tool Kinematics from Monocular Video for Surgical Robot Learning**](https://arxiv.org/abs/2512.18068) | IROS 2025 | 2025-12-19 | - | |
 | [**UltraDP: Generalizable Carotid Ultrasound Scanning with Force-Aware Diffusion Policy**](https://arxiv.org/abs/2511.15550) | IROS 2025 | 2025-11-19 | - | |
 | [**Cosmos-Surg-dVRK: World Foundation Model-based Automated Online Evaluation of Surgical Robot Policy Learning**](https://arxiv.org/abs/2510.16240) | arXiv | 2025-10-17 | - | |
 | [**Learning Surgical Robotic Manipulation with 3D Spatial Priors**](https://arxiv.org/abs/2603.03798) | CVPR 2026 | 2026-03-04 | - | |
+| [**A Vision-Language-Action Model for Adaptive Ultrasound-Guided Needle Insertion and Needle Tracking**](https://arxiv.org/abs/2604.20347) | ICRA 2026 | 2026-04-22 | - | |
+| [**Give me scissors: Collision-Free Dual-Arm Surgical Assistive Robot for Instrument Delivery**](https://arxiv.org/abs/2603.02553) | ICRA 2026 | 2026-03-03 | ![Star](https://img.shields.io/github/stars/XuejinLuo/Give-me-scissors-ICRA2026?style=social&label=Star) [Github](https://github.com/XuejinLuo/Give-me-scissors-ICRA2026) | |
 | [**Learning to Perform Low-Contact Autonomous Nasotracheal Intubation by Recurrent Action-Confidence Chunking with Transformer**](https://www.arxiv.org/abs/2508.01808) | IROS 2025 | 2025-08-03 | - | |
 | [**CapsDT: Diffusion-Transformer for Capsule Robot Manipulation**](https://arxiv.org/abs/2506.16263) | IROS 2025 | 2025-06-19 | - | |
 | [**S3D: A Spatial Steerable Surgical Drilling Framework for Robotic Spinal Fixation Procedures**](https://arxiv.org/abs/2507.01779) | IROS 2025 | 2025-07-02 | - | |
@@ -138,6 +139,7 @@
 | [**3D Perception based Imitation Learning under Limited Demonstration for Laparoscope Control in Robotic Surgery**](https://arxiv.org/abs/2204.031958) | ICRA 2022 | 2022-04-07 | - | |
 | [**Collaborative Robot-Assisted Endovascular Catheterization with Generative Adversarial Imitation Learning**](https://ieeexplore.ieee.org/document/9196912) | ICRA 2020 | 2020-09-15 | - | |
 | _Biology_ |
+| [**Micro-Dexterity in Biological Micromanipulation: Embodiment, Perception, and Control**](https://arxiv.org/abs/2604.11640) | arXiv | 2026-04-13 | - | Survey |
 | [**Learning From a Steady Hand: A Weakly Supervised Agent for Robot Assistance under Microscopy**](https://arxiv.org/abs/2601.20776) | arXiv | 2026-01-28 | - | |
 | [**RoboCulture: A Robotics Platform for Automated Biological Experimentation**](https://arxiv.org/abs/2505.14941) | arXiv | 2025-05-20 | - | |
 | [**Real-Time Spatiotemporal Assistance for Micromanipulation Using Imitation Learning**](https://ieeexplore.ieee.org/document/10436348/) | RA-L 2024 | 2024-02-14 | - | |

@@ -337,6 +337,8 @@
 | [**Dexterous Manipulation by Rolling and Finger Gaiting**](https://ieeexplore.ieee.org/abstract/document/677060/) | ICAR 1998 | 1998-05 | - |
 | [**Kinematic and Force Analysis of Articulated Mechanical Hands**](https://asmedigitalcollection.asme.org/mechanicaldesign/article-abstract/105/1/35/433931/Kinematic-and-Force-Analysis-of-Articulated) | JMTAD 1998 | 1983-01 | - |
 | _RL_ |
+| [**HANDFUL: Sequential Grasp-Conditioned Dexterous Manipulation with Resource Awareness**](https://arxiv.org/abs/2604.25126) | arXiv | 2026-04-28 | [Project](https://handful-dex.github.io//) |
+| [**ETac: A Lightweight and Efficient Tactile Simulation Framework for Learning Dexterous Manipulation**](https://arxiv.org/abs/2604.20295) | arXiv | 2026-04-22 | - |
 | [**DexFormer: Cross-Embodied Dexterous Manipulation via History-Conditioned Transformer**](https://arxiv.org/abs/2602.08278) | arXiv | 2026-02-09 | [Project](https://davidlxu.github.io/DexFormer-web/) |
 | [**RFS: Reinforcement Learning with Residual Flow Steering for Dexterous Manipulation**](https://arxiv.org/abs/2602.01789) | arXiv | 2026-02-02 | [Project](https://weirdlabuw.github.io/rfs/) |
 | [**World Models Can Leverage Human Videos for Dexterous Manipulation**](https://arxiv.org/abs/2512.13644) | arXiv | 2025-12-15 | [Project](https://raktimgg.github.io/dexwm/) |
@@ -385,7 +387,7 @@
 | [**End-to-End Dexterous Arm-Hand VLA Policies via Shared Autonomy: VR Teleoperation Augmented by Autonomous Hand VLA Policy for Efficient Data Collection**](https://arxiv.org/abs/2511.00139) | arXiv | 2025-10-30 | [Project](https://dexvla-seed.github.io/dex-vla/) |
 | [VITRA: **Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos**](https://arxiv.org/abs/2510.21571) | arXiv | 2025-10-24 | ![Star](https://img.shields.io/github/stars/microsoft/VITRA?style=social&label=Star) [Code](https://github.com/microsoft/VITRA) |
 | [**UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos**](https://arxiv.org/abs/2603.22264) | CVPR 2026 | 2026-03-23 | ![Star](https://img.shields.io/github/stars/unidex-ai/UniDex?style=social&label=Star) [Code](https://github.com/unidex-ai/UniDex) |
-| [**Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos**](https://arxiv.org/abs/2507.15597) | arXiv | 2025-07-21 | ![Star](https://img.shields.io/github/stars/BeingBeyond/Being-H0?style=social&label=Star) [Code](https://github.com/BeingBeyond/Being-H0) |
+| [**Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos**](https://arxiv.org/abs/2507.15597) | ICML 2026 | 2025-07-21 | ![Star](https://img.shields.io/github/stars/BeingBeyond/Being-H0?style=social&label=Star) [Code](https://github.com/BeingBeyond/Being-H0) |
 | [**A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation**](https://arxiv.org/abs/2507.05331) | arXiv | 2025-07-07 | [Project](https://toyotaresearchinstitute.github.io/lbm1/) |
 | [**Object-Focus Actor for Data-efficient Robot Generalization Dexterous Manipulation**](https://arxiv.org/abs/2505.15098) | arXiv | 2025-05-21 | ![Star](https://img.shields.io/github/stars/Louis-ZhangLe/BRMData?style=social&label=Star) [Code](https://github.com/Louis-ZhangLe/BRMData) |
 | [**DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping**](https://arxiv.org/abs/2502.20900) | AAAI 2026 | 2025-03-05 | ![Star](https://img.shields.io/github/stars/Psi-Robot/DexGraspVLA?style=social&label=Star) [Github](https://github.com/Psi-Robot/DexGraspVLA) |  |
@@ -534,8 +536,11 @@
 | [**Mobile Manipulation in Unstructured Environments: Perception, Planning, and Execution**](https://ieeexplore.ieee.org/document/6213233) | RAM 2012 | 2012-06 | - |
 | [**An Optimization Approach to Planning for Mobile Manipulation**](https://ieeexplore.ieee.org/abstract/document/4543365/) | ICRA 2008 | 2008-06 | - |
 | _Hybrid Learning + Model-based Control_ |
+| [**GenerativeMPC: VLM-RAG-guided Whole-Body MPC with Virtual Impedance for Bimanual Mobile Manipulation**](https://arxiv.org/abs/2604.19522) | arXiv | 2026-04-21 | - |
 | [**Dynamic Manipulation of Deformable Objects using Imitation Learning with Adaptation to Hardware Constraints**](https://arxiv.org/abs/2403.12685) | IROS 2024 | 2024-03-19 | ![Star](https://img.shields.io/github/stars/trannguyenle95/bilbo_bag?style=social&label=Star) [Github](https://github.com/trannguyenle95/bilbo_bag) |
 | _RL_ |
+| [**FastGrasp: Learning-based Whole-body Control method for Fast Dexterous Grasping with Mobile Manipulators**](https://arxiv.org/abs/2604.12879) | arXiv | 2026-04-14 | [Project](https://taoheng-star.github.io/fastgrasp-page/) |
+| [**Whole-Body Mobile Manipulation using Offline Reinforcement Learning on Sub-optimal Controllers**](https://arxiv.org/abs/2604.12509) | arXiv | 2026-04-14 | [Project](https://sites.google.com/view/whole-moma) |
 | [**Robi Butler: Multimodal Remote Interaction with a Household Robot Assistant**](https://arxiv.org/abs/2409.20548) | ICRA 2025 | 2024-09-30 | [Project](https://robibutler.github.io/) |
 | [**Harmonic Mobile Manipulation**](https://arxiv.org/abs/2312.06639) | IROS 2024 | 2023-12-11 | ![Star](https://img.shields.io/github/stars/RchalYang/harmonic_mobile_manipulation?style=social&label=Star) [Github](https://github.com/RchalYang/harmonic_mobile_manipulation) |
 | [Causal MoMa: **Causal Policy Gradient for Whole-Body Mobile Manipulation**](https://arxiv.org/abs/2305.04866) | RSS 2023 | 2023-05-04 | ![Star](https://img.shields.io/github/stars/JiahengHu/CausalMoMa?style=social&label=Star) [Github](https://github.com/JiahengHu/CausalMoMa) |
@@ -688,6 +693,8 @@
 | [**GR00T N1: An Open Foundation Model for Generalist Humanoid Robots**](https://arxiv.org/abs/2503.14734) | arXiv | 2025-03-18 | ![Star](https://img.shields.io/github/stars/NVIDIA/Isaac-GR00T?style=social&label=Star) [Github](https://github.com/NVIDIA/Isaac-GR00T) | |
 | [**Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration**](https://arxiv.org/abs/2502.14795) | arXiv | 2025-02-20 | - | |
 | [**HumanVLA: Towards Vision-Language Directed Object Rearrangement by Physical Humanoid**](https://arxiv.org/abs/2406.19972) | NeurIPS 2024 | 2024-06-28 | ![Star](https://img.shields.io/github/stars/AllenXuuu/HumanVLA?style=social&label=Star) [Github](https://github.com/AllenXuuu/HumanVLA) | |
+| _WAM_ |
+| [**UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling**](https://arxiv.org/abs/2604.19734) | arXiv | 2026-04-21 | ![Star](https://img.shields.io/github/stars/xpeng-robotics/UniT?style=social&label=Star) [Github](https://github.com/xpeng-robotics/UniT) | |
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 

@@ -85,7 +85,7 @@ Stay tuned for updates to this comprehensive survey!
   - [Other Simulators and Benchmarks](#other-simulators-and-benchmarks)
   - [Trajectory Datasets](#trajectory-datasets)
   - [Embodied QA and Affordance Datasets](#embodied-qa-and-affordance-datasets)
-  - [Human and Robotic Video Datasets](#human-and-robotic-video-datasets)
+  - [Human and Robotic Video Benchmarks and Datasets](#human-and-robotic-video-benchmarks-and-datasets)
 - [🛠️ Awesome Techniques](#-awesome-techniques)
   - [Tutorial](#tutorial)
   - [Github Repo](#github-repo)
@@ -100,17 +100,19 @@ Stay tuned for updates to this comprehensive survey!
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | _VLA Models_ |
-| [**An Anatomy of Vision-Language-Action Models: From Modules to Milestones and Challenges**](https://arxiv.org/abs/2512.11362) | arXiv | 2025-12-12 | ![Star](https://img.shields.io/github/stars/SuyuZ1/VLA-Survey-Anatomy?style=social&label=Star) [Github](https://github.com/SuyuZ1/VLA-Survey-Anatomy) | VLA Models |
-| [**A Survey on Efficient Vision-Language-Action Models**](https://arxiv.org/abs/2510.24795) | arXiv | 2025-10-27 | ![Star](https://img.shields.io/github/stars/YuZhaoshu/Efficient-VLAs-Survey?style=social&label=Star) [Github](https://github.com/YuZhaoshu/Efficient-VLAs-Survey) | VLA Models |
-| [**Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey**](https://arxiv.org/abs/2510.17111) | arXiv | 2025-10-20 | - | VLA Models |
-| [**Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications**](https://arxiv.org/abs/2510.07077) | IEEE Access 2025 | 2025-10-08 | [Project](https://vla-survey.github.io/) | VLA Models |
-| [**Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey**](https://arxiv.org/abs/2508.13073) | arXiv | 2025-08-23 | ![Star](https://img.shields.io/github/stars/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation?style=social&label=Star) [Github](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation) | VLA Models |
-| [**Survey of Vision-Language-Action Models for Embodied Manipulation**](https://arxiv.org/abs/2508.15201) | arXiv | 2025-08-21 | - | VLA Models |
-| [**Vision Language Action Models in Robotic Manipulation: A Systematic Review**](https://arxiv.org/abs/2507.10672) | arXiv | 2025-07-14 | - | VLA Models |
-| [**A Survey on Vision-Language-Action Models: An Action Tokenization Perspective**](https://arxiv.org/abs/2507.01925) | arXiv | 2025-07-02 | - | VLA Models |
-| [**Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends**](https://arxiv.org/abs/2506.20966) | arXiv | 2025-05-26 | ![Star](https://img.shields.io/github/stars/AoqunJin/Awesome-VLA-Post-Training?style=social&label=Star) [Github](https://github.com/AoqunJin/Awesome-VLA-Post-Training) | VLA Models |
-| [**Vision-Language-Action Models: Concepts, Progress, Applications and Challenges**](https://arxiv.org/abs/2505.04769) | arXiv | 2025-05-07 | - | VLA Models |
-| [**A Survey on Vision-Language-Action Models for Embodied AI**](https://arxiv.org/abs/2405.14093) | arXiv | 2024-05-23 | - | VLA Models |
+| [**Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines**](https://arxiv.org/abs/2604.23001) | TMLR 2026 | 2026-04-24 | ![Star](https://img.shields.io/github/stars/ziyaow1010/vla-datasets-benchmarks?style=social&label=Star) [Github](https://github.com/ziyaow1010/vla-datasets-benchmarks) | VLA + Data |
+| [**Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms**](https://arxiv.org/abs/2604.23775) | arXiv | 2026-04-26 | ![Star](https://img.shields.io/github/stars/LiQiiiii/Awesome-VLA-Safety?style=social&label=Star) [Github](https://github.com/LiQiiiii/Awesome-VLA-Safety) | VLA + Robustness |
+| [**An Anatomy of Vision-Language-Action Models: From Modules to Milestones and Challenges**](https://arxiv.org/abs/2512.11362) | arXiv | 2025-12-12 | ![Star](https://img.shields.io/github/stars/SuyuZ1/VLA-Survey-Anatomy?style=social&label=Star) [Github](https://github.com/SuyuZ1/VLA-Survey-Anatomy) | VLA |
+| [**A Survey on Efficient Vision-Language-Action Models**](https://arxiv.org/abs/2510.24795) | arXiv | 2025-10-27 | ![Star](https://img.shields.io/github/stars/YuZhaoshu/Efficient-VLAs-Survey?style=social&label=Star) [Github](https://github.com/YuZhaoshu/Efficient-VLAs-Survey) | VLA Models + Efficiency |
+| [**Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey**](https://arxiv.org/abs/2510.17111) | arXiv | 2025-10-20 | - | VLA + Efficiency |
+| [**Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications**](https://arxiv.org/abs/2510.07077) | IEEE Access 2025 | 2025-10-08 | [Project](https://vla-survey.github.io/) | VLA |
+| [**Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey**](https://arxiv.org/abs/2508.13073) | arXiv | 2025-08-23 | ![Star](https://img.shields.io/github/stars/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation?style=social&label=Star) [Github](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation) | VLA |
+| [**Survey of Vision-Language-Action Models for Embodied Manipulation**](https://arxiv.org/abs/2508.15201) | arXiv | 2025-08-21 | - | VLA |
+| [**Vision Language Action Models in Robotic Manipulation: A Systematic Review**](https://arxiv.org/abs/2507.10672) | arXiv | 2025-07-14 | - | VLA |
+| [**A Survey on Vision-Language-Action Models: An Action Tokenization Perspective**](https://arxiv.org/abs/2507.01925) | arXiv | 2025-07-02 | - | VLA |
+| [**Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends**](https://arxiv.org/abs/2506.20966) | arXiv | 2025-05-26 | ![Star](https://img.shields.io/github/stars/AoqunJin/Awesome-VLA-Post-Training?style=social&label=Star) [Github](https://github.com/AoqunJin/Awesome-VLA-Post-Training) | VLA |
+| [**Vision-Language-Action Models: Concepts, Progress, Applications and Challenges**](https://arxiv.org/abs/2505.04769) | arXiv | 2025-05-07 | - | VLA |
+| [**A Survey on Vision-Language-Action Models for Embodied AI**](https://arxiv.org/abs/2405.14093) | arXiv | 2024-05-23 | - | VLA |
 | _Dexterous Manipulation_ |
 | [**The Developments and Challenges towards Dexterous and Embodied Robotic Manipulation: A Survey**](https://arxiv.org/abs/2507.11840) | arXiv | 2025-07-16 | - | Dexterous Manipulation |
 | [**Interactive Imitation Learning for Dexterous Robotic Manipulation: Challenges and Perspectives -- A Survey**](https://arxiv.org/abs/2506.00098) | arXiv | 2025-06-30 | - | Dexterous Manipulation |
@@ -123,7 +125,10 @@ Stay tuned for updates to this comprehensive survey!
 | [**Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning**](https://arxiv.org/abs/2501.02116) | arXiv | 2025-01-03 | - | Humanoid Manipulation |
 | [**Teleoperation of Humanoid Robots: A Survey**](https://arxiv.org/abs/2301.04317) | T-RO 2024 | 2023-01-11 | [Project](https://humanoid-teleoperation.github.io/) | Humanoid |
 | _Others_ |
-| [**From Video to Control: A Survey of Learning Manipulation Interfaces from Temporal Visual Data**](https://arxiv.org/abs/2604.04974) | arXiv | 2026-04-04 | - | video |
+| [**Robot Learning from Human Videos: A Survey**](https://arxiv.org/abs/2604.27621) | arXiv | 2026-04-30  | ![Star](https://img.shields.io/github/stars/IRMVLab/awesome-robot-learning-from-human-videos?style=social&label=Star) [Github](https://github.com/IRMVLab/awesome-robot-learning-from-human-videos) | Video |
+| [**3D Generation for Embodied AI and Robotic Simulation: A Survey**](https://arxiv.org/abs/2604.26509) | arXiv | 2026-04-29 | - | 3D |
+| [**Foundation Models in Robotics: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Research Directions**](https://arxiv.org/abs/2604.15395) | arXiv | 2026-04-16 | - | Robotics |
+| [**From Video to Control: A Survey of Learning Manipulation Interfaces from Temporal Visual Data**](https://arxiv.org/abs/2604.04974) | arXiv | 2026-04-04 | - | Video |
 | [**Toward Generalist Neural Motion Planners for Robotic Manipulators: Challenges and Opportunities**](https://arxiv.org/abs/2603.24318) | TASE 2026 | 2026-03-25 | ![Star](https://img.shields.io/github/stars/DavoodSZ/DeepLearning-MotionPlanning-Manipulators?style=social&label=Star) [Github](https://github.com/DavoodSZ/DeepLearning-MotionPlanning-Manipulators) | Motion Planning |
 | [**Video Generation Models in Robotics -- Applications, Research Challenges, Future Directions**](https://arxiv.org/abs/2601.07823) | arXiv | 2026-01-12 | - | Video Generation |
 | [**Embodied Robot Manipulation in the Era of Foundation Models: Planning and Learning Perspectives**](https://arxiv.org/abs/2512.22983) | arXiv | 2025-12-28 | - | Manipulation |
@@ -182,6 +187,7 @@ Stay tuned for updates to this comprehensive survey!
 | [**ACRONYM: A Large-Scale Grasp Dataset Based on Simulation**](https://arxiv.org/abs/2011.09584) | ICRA 2021 | 2020-11-18 | ![Star](https://img.shields.io/github/stars/NVlabs/acronym?style=social&label=Star) [Github](https://github.com/NVlabs/acronym) | |
 | [**GraspNet-1Billion: A Large-Scale Benchmark for General Object Grasping**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_GraspNet-1Billion_A_Large-Scale_Benchmark_for_General_Object_Grasping_CVPR_2020_paper.pdf) | CVPR 2020 | 2020-08-05 | ![Star](https://img.shields.io/github/stars/graspnet/graspnet-baseline?style=social&label=Star) [Github](https://github.com/graspnet/graspnet-baseline) | |
 | _Dexterous Grasp_ |
+| [**HRDexDB: A Large-Scale Dataset of Dexterous Human and Robotic Hand Grasps**](https://arxiv.org/abs/2604.14944) | arXiv | 2026-04-16 | [Project](https://snuvclab.github.io/HRDexDB/) | |
 | [**Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation**](https://arxiv.org/abs/2506.17198) | RSS 2025 | 2025-06-20 | [Project](https://jianglongye.com/dex1b/) | |
 | [**DexGraspNet 2.0: Learning Generative Dexterous Grasping in Large-scale Synthetic Cluttered Scenes**](https://openreview.net/attachment?id=5W0iZR9J7h&name=pdf) | CoRL 2024 | 2024 | ![Star](https://img.shields.io/github/stars/PKU-EPIC/DexGraspNet2?style=social&label=Star) [Github](https://github.com/PKU-EPIC/DexGraspNet2)  |
 | [**UniFucGrasp: Human-Hand-Inspired Unified Functional Grasp Annotation Strategy and Dataset for Diverse Dexterous Hands**](https://www.arxiv.org/abs/2508.03339) | RA-L 2025 | 2025-08-05 | ![Star](https://img.shields.io/github/stars/cxcAxxy/UniFucGrasp?style=social&label=Star) [Github](https://github.com/cxcAxxy/UniFucGrasp) | |
@@ -202,6 +208,7 @@ Stay tuned for updates to this comprehensive survey!
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [WorldComposer: **From Seeing to Simulating: Generative High-Fidelity Simulation with Digital Cousins for Generalizable Robot Learning and Evaluation**](https://arxiv.org/abs/2604.15805) | arXiv | 2026-04-17 | ![Star](https://img.shields.io/github/stars/jaber628/WorldComposer?style=social&label=Star) [Github](https://github.com/jaber628/WorldComposer) | |
 | [**RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies**](https://arxiv.org/abs/2604.09860) | arXiv | 2026-04-10 | - | |
 | [**REALM: A Real-to-Sim Validated Benchmark for Generalization in Robotic Manipulation**](https://arxiv.org/abs/2512.19562) | arXiv | 2025-12-22 | ![Star](https://img.shields.io/github/stars/martin-sedlacek/REALM?style=social&label=Star) [Github](https://github.com/martin-sedlacek/REALM) | |
 | [**RobotArena: Scalable Robot Benchmarking via Real-to-Sim Translation**](https://arxiv.org/abs/2510.23571) | ICLR 2026 | 2025-10-27 | [Project](https://robotarenainf.github.io/) | |
@@ -262,7 +269,7 @@ Stay tuned for updates to this comprehensive survey!
 ### Basic Manipulation with Generalization Tasks
 <!-- |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
-|  Title  |   Venue  |   Date   |   Code   | 
+|  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | [**LIBERO-Para: A Diagnostic Benchmark and Metrics for Paraphrase Robustness in VLA Models**](https://arxiv.org/abs/2603.28301) | arXiv | 2026-03-30 | ![Star](https://img.shields.io/github/stars/cau-hai-lab/LIBERO-Para?style=social&label=Star) [Github](https://github.com/cau-hai-lab/LIBERO-Para) | |
 | [**LIBERO-X: Robustness Litmus for Vision-Language-Action Models**](https://arxiv.org/abs/2602.06556) | arXiv | 2026-02-06 | ![Star](https://img.shields.io/github/stars/zackhxn/LIBERO-X?style=social&label=Star) [Github](https://github.com/zackhxn/LIBERO-X) | |
@@ -282,6 +289,7 @@ Stay tuned for updates to this comprehensive survey!
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**LongBench: Evaluating Robotic Manipulation Policies on Real-World Long-Horizon Tasks**](https://arxiv.org/abs/2604.16788) | arXiv | 2026-04-18 | [Project](https://cxy0103.github.io/LongBench_Website/#leaderboard) | |
 | [**ManipArena: Comprehensive Real-world Evaluation of Reasoning-Oriented Generalist Robot Manipulation**](https://arxiv.org/abs/2603.28545) | arXiv | 2026-03-30 | ![Star](https://img.shields.io/github/stars/maniparena/maniparena-repo?style=social&label=Star) [Github](https://github.com/maniparena/maniparena-repo) | |
 | [**AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World**](https://arxiv.org/abs/2503.24278)  ICLRW 2025 | 2025-03-31 | ![Star](https://img.shields.io/github/stars/zhouzypaul/auto_eval?style=social&label=Star) [Github](https://github.com/zhouzypaul/auto_eval) | |
 
@@ -327,6 +335,7 @@ Stay tuned for updates to this comprehensive survey!
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**FLASH: Fast Learning via GPU-Accelerated Simulation for High-Fidelity Deformable Manipulation in Minutes**](https://arxiv.org/abs/2604.17513) | arXiv | 2026-04-19 | [Project](Website: https://siyuanluo.com/flash) |
 | [**Real Garment Benchmark (RGBench): A Comprehensive Benchmark for Robotic Garment Manipulation featuring a High-Fidelity Scalable Simulator**](https://arxiv.org/abs/2511.06434) | AAAI 2026 | 2025-11-09 | ![Star](https://img.shields.io/github/stars/hwk0809/RGBench?style=social&label=Star) [Github](https://github.com/hwk0809/RGBench) |
 | [**MoDeSuite: Robot Learning Task Suite for Benchmarking Mobile Manipulation with Deformable Objects**](https://arxiv.org/abs/2507.21796) | RA-L 2025 | 2025-07-29 | [Project](https://sites.google.com/view/modesuite/home) |
 | [**DaXBench: Benchmarking Deformable Object Manipulation with Differentiable Physics**](https://arxiv.org/abs/2210.13066) | ICLR 2023 | 2022-10-24 | ![Star](https://img.shields.io/github/stars/AdaCompNUS/DaXBench?style=social&label=Star) [Github](https://github.com/AdaCompNUS/DaXBench) | |
@@ -380,6 +389,7 @@ Stay tuned for updates to this comprehensive survey!
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 | [**MolmoSpaces: A Large-Scale Open Ecosystem for Robot Navigation and Manipulation**](https://arxiv.org/abs/2602.11337) | arXiv | 2026-02-11 | ![Star](https://img.shields.io/github/stars/allenai/molmospaces?style=social&label=Star) [Github](https://github.com/allenai/molmospaces) |
+| [**GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning**](https://arxiv.org/abs/2604.25459) | RSS 2026 | 2026-04-28 | ![Star](https://img.shields.io/github/stars/discoverse-dev/gs_playground?style=social&label=Star) [Github](https://github.com/discoverse-dev/gs_playground) |
 | [**Isaac Lab: A GPU-Accelerated Simulation Framework for Multi-Modal Robot Learning**](https://arxiv.org/abs/2511.04831) | arXiv | 2025-11-06 | ![Star](https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=social&label=Star) [Github](https://github.com/isaac-sim/IsaacLab) |
 | [**AgentWorld: An Interactive Simulation Platform for Scene Construction and Mobile Robotic Manipulation**](https://arxiv.org/abs/2508.07770) | CoRL 2025 | 2025-08-11 | ![Star](https://img.shields.io/github/stars/yizhengzhang1/agent_world?style=social&label=Star) [Github](https://github.com/yizhengzhang1/agent_world) |
 | [**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**](https://arxiv.org/abs/2506.09049) | NeurIPS 2025 | 2025-06-10 | ![Star](https://img.shields.io/github/stars/MARS-EAI/VIKI-R?style=social&label=Star) [Github](https://github.com/MARS-EAI/VIKI-R) |
@@ -402,6 +412,7 @@ Stay tuned for updates to this comprehensive survey!
 |:--------|:--------:|:--------:|:--------:|
 | [**ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K**](https://arxiv.org/abs/2603.16866) | arXiv | 2026-03-17 | [Project](https://manitwin.github.io/) | |
 | [**BrickSim: A Physics-Based Simulator for Manipulating Interlocking Brick Assemblies**](https://arxiv.org/abs/2603.16853) | arXiv | 2026-03-17 | ![Star](https://img.shields.io/github/stars/intelligent-control-lab/BrickSim?style=social&label=Star) [Github](https://github.com/intelligent-control-lab/BrickSim) | |
+| [**KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning**](https://arxiv.org/abs/2604.25788) | RSS 2026 | 2026-04-28 | ![Star](https://img.shields.io/github/stars/Princeton-Robot-Planning-and-Learning/kindergarden?style=social&label=Star) [Github](https://github.com/Princeton-Robot-Planning-and-Learning/kindergarden) | |
 | [**TabletopGen: Instance-Level Interactive 3D Tabletop Scene Generation from Text or Single Image**](https://arxiv.org/abs/2512.01204) | arXiv | 2025-12-01 | ![Star](https://img.shields.io/github/stars/D-Robotics-AI-Lab/TabletopGen?style=social&label=Star) [Github](https://github.com/D-Robotics-AI-Lab/TabletopGen) | |
 | [**MarketGen: A Scalable Simulation Platform with Auto-Generated Embodied Supermarket Environments**](https://arxiv.org/abs/2511.21161) | CVPR 2026 | 2025-11-26 | [Project](https://xuhu0529.github.io/MarketGen/) | |
 | [**MagBotSim: Physics-Based Simulation and Reinforcement Learning Environments for Magnetic Robotics**](https://arxiv.org/abs/2511.16158) | arXiv | 2025-11-20 | [Project](https://ubi-coro.github.io/MagBotSim/) | |
@@ -418,6 +429,8 @@ Stay tuned for updates to this comprehensive survey!
 ### Trajectory Datasets
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics**](https://arxiv.org/abs/2604.21017) | arXiv | 2026-04-22 | ![Star](https://img.shields.io/github/stars/open-h/open-h-embodiment?style=social&label=Star) [Github](https://github.com/open-h/open-h-embodiment) | |
+| [**VTouch++: A Multimodal Dataset with Vision-Based Tactile Enhancement for Bimanual Manipulation**](https://arxiv.org/abs/2604.20444) | arXiv | 2026-04-22 | - | |
 | [**Trustworthy Evaluation of Robotic Manipulation: A New Benchmark and AutoEval Methods**](https://arxiv.org/abs/2601.18723) | arXiv | 2026-01-26 | [Project](https://term-bench.github.io/) | |
 | [**RoboMIND 2.0: A Multimodal, Bimanual Mobile Manipulation Dataset for Generalizable Embodied Intelligence**](https://arxiv.org/abs/2512.24653) | arXiv | 2025-12-31 | - | |
 | [**OXE-AugE: A Large-Scale Robot Augmentation of OXE for Scaling Cross-Embodiment Policy Learning**](https://arxiv.org/abs/2512.13100) | arXiv | 2025-12-15 | ![Star](https://img.shields.io/github/stars/GuanhuaJi/oxe-auge?style=social&label=Star) [Github](https://github.com/GuanhuaJi/oxe-auge) | |
@@ -464,11 +477,15 @@ Stay tuned for updates to this comprehensive survey!
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
 <!-- ------- 2.7 - Human and Robotic Video Datasets ------- -->
-### Human and Robotic Video Datasets
+### Human and Robotic Video Benchmarks and Datasets
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| _Benchmarks_ |
+| [**RoboWM-Bench: A Benchmark for Evaluating World Models in Robotic Manipulation**](https://arxiv.org/abs/2604.19092) | arXiv | 2026-04-21 | ![Star](https://img.shields.io/github/stars/fffstrong/RoboWM-Bench?style=social&label=Star) [Github](https://github.com/fffstrong/RoboWM-Bench) | |
+| [**Wow, wo, val! A Comprehensive Embodied World Model Evaluation Turing Test**](https://arxiv.org/abs/2601.04137) | arXiv | 2026-01-07 | - | |  
+| _Datasets_ |
+| [**EgoLive: A Large-Scale Egocentric Dataset from Real-World Human Tasks**](https://arxiv.org/abs/2604.23570) | arXiv | 2026-04-26 | [Dataset](https://robotdata-market.jdcloud.com/console/market) | |
 | [**EgoVerse: An Egocentric Human Dataset for Robot Learning from Around the World**](https://arxiv.org/abs/2604.07607) | arXiv | 2026-04-08 | ![Star](https://img.shields.io/github/stars/GaTech-RL2/EgoVerse?style=social&label=Star) [Github](https://github.com/GaTech-RL2/EgoVerse) | |
-| [**Wow, wo, val! A Comprehensive Embodied World Model Evaluation Turing Test**](https://arxiv.org/abs/2601.04137) | arXiv | 2026-01-07 | - | |
 | [**Hoi! -- A Multimodal Dataset for Force-Grounded, Cross-View Articulated Manipulation**](https://arxiv.org/abs/2512.04884) | arXiv | 2025-12-04 | ![Star](https://img.shields.io/github/stars/showlab/RobotSeg?style=social&label=Star) [Github](https://github.com/showlab/RobotSeg) | |
 | [**RobotSeg: A Model and Dataset for Segmenting Robots in Image and Video**](https://arxiv.org/abs/2511.22950) | arXiv | 2025-11-28 | ![Star](https://img.shields.io/github/stars/showlab/RobotSeg?style=social&label=Star) [Github](https://github.com/showlab/RobotSeg) | |
 | [**OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling**](https://arxiv.org/abs/2509.12201) | ICLR 2026 | 2025-09-15 | ![Star](https://img.shields.io/github/stars/yangzhou24/OmniWorld?style=social&label=Star) [Github](https://github.com/yangzhou24/OmniWorld) | |
