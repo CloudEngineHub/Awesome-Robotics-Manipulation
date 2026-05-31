@@ -125,6 +125,7 @@ Stay tuned for updates to this comprehensive survey!
 | [**Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning**](https://arxiv.org/abs/2501.02116) | arXiv | 2025-01-03 | - | Humanoid Manipulation |
 | [**Teleoperation of Humanoid Robots: A Survey**](https://arxiv.org/abs/2301.04317) | T-RO 2024 | 2023-01-11 | [Project](https://humanoid-teleoperation.github.io/) | Humanoid |
 | _Others_ |
+| [**Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses**](https://arxiv.org/abs/2605.02900) | arXiv | 2026-05 | ![Star](https://img.shields.io/github/stars/x-zheng16/Awesome-Embodied-AI-Safety?style=social&label=Star) [Github](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) | Embodied + Safety |
 | [**Robot Learning from Human Videos: A Survey**](https://arxiv.org/abs/2604.27621) | arXiv | 2026-04-30  | ![Star](https://img.shields.io/github/stars/IRMVLab/awesome-robot-learning-from-human-videos?style=social&label=Star) [Github](https://github.com/IRMVLab/awesome-robot-learning-from-human-videos) | Video |
 | [**3D Generation for Embodied AI and Robotic Simulation: A Survey**](https://arxiv.org/abs/2604.26509) | arXiv | 2026-04-29 | - | 3D |
 | [**Foundation Models in Robotics: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Research Directions**](https://arxiv.org/abs/2604.15395) | arXiv | 2026-04-16 | - | Robotics |
