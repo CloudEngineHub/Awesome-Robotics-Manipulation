@@ -3,6 +3,7 @@
 - Application
     - [Household](#household)
     - [Agriculture](#agriculture)
+    - [Service](#service)
     - [Art](#art)
     - [AI4Science](#ai4science)
     - [Sports](#sports)
@@ -59,6 +60,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**FactoryNet: A Large-Scale Dataset toward Industrial Time-Series Foundation Models**](https://arxiv.org/abs/2605.09081) | arXiv | 2026-05-09 | ![Star](https://img.shields.io/github/stars/Forgis-Labs/FactoryNet?style=social&label=Star) [Github](https://github.com/Forgis-Labs/FactoryNet) |  |
 | [**Agile-VLA: Few-Shot Industrial Pose Rectification via Implicit Affordance Anchoring**](https://arxiv.org/abs/2603.22899) | arXiv | 2026-03-24 | - |  |
 | [**SELF-VLA: A Skill Enhanced Agentic Vision-Language-Action Framework for Contact-Rich Disassembly**](https://arxiv.org/abs/2603.11080) | arXiv | 2026-03-10 | - |  |
 | [**Vision-Language-Action Models for Selective Robotic Disassembly: A Case Study on Critical Component Extraction from Desktops**](https://arxiv.org/abs/2512.04446) | arXiv | 2025-12-04 | - |  |
@@ -67,6 +69,18 @@
 | [**A Flexible Manufacturing Assembly System with Deep Reinforcement Learning**](https://www.sciencedirect.com/science/article/pii/S0967066121002343) | Control Engineering Practice 2022 | 2021-10-25 | - |  |
 | [**Toward Fully Autonomous Mobile Manipulation for Industrial Environments**](https://journals.sagepub.com/doi/full/10.1177/1729881417718588) | IJARS 2017 | 2017-07-14 | - |  |
 | [**RobotML for Industrial Robots: Design and Simulation of Manipulation Scenarios**](https://ieeexplore.ieee.org/document/7733727) | ETFA 2016 | 2016-11-07 | - |  |
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
+
+
+
+## Service
+<!-- |  Title  |   Venue  |   Date   |   Code   |   Notes  |
+|:--------|:--------:|:--------:|:--------:|:--------:| -->
+|  Title  |   Venue  |   Date   |   Code   | 
+|:--------|:--------:|:--------:|:--------:|
+| [**SABER: A Scalable Action-Based Embodied Dataset for Real-World VLA Adaptation**](https://arxiv.org/abs/2605.09613) | arXiv | 2026-05-10 | [Project](https://dreamvu.ai/saber/) |  |
+| [**CANINE: Coaching Visually Impaired Users for Interactive Navigation with a Robot Guide Dog**](https://arxiv.org/abs/2605.19501) | RSS 2026 | 2026-05-19 | [Project](https://cunjunyu.github.io/project/canine/) |  |
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
@@ -139,6 +153,7 @@
 | [**3D Perception based Imitation Learning under Limited Demonstration for Laparoscope Control in Robotic Surgery**](https://arxiv.org/abs/2204.031958) | ICRA 2022 | 2022-04-07 | - | |
 | [**Collaborative Robot-Assisted Endovascular Catheterization with Generative Adversarial Imitation Learning**](https://ieeexplore.ieee.org/document/9196912) | ICRA 2020 | 2020-09-15 | - | |
 | _Biology_ |
+| [**BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation**](https://arxiv.org/abs/2605.07306) | arXiv | 2026-05-08 | - |  |
 | [**Micro-Dexterity in Biological Micromanipulation: Embodiment, Perception, and Control**](https://arxiv.org/abs/2604.11640) | arXiv | 2026-04-13 | - | Survey |
 | [**Learning From a Steady Hand: A Weakly Supervised Agent for Robot Assistance under Microscopy**](https://arxiv.org/abs/2601.20776) | arXiv | 2026-01-28 | - | |
 | [**RoboCulture: A Robotics Platform for Automated Biological Experimentation**](https://arxiv.org/abs/2505.14941) | arXiv | 2025-05-20 | - | |
@@ -179,6 +194,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**DexHoldem: Playing Texas Hold'em with Dexterous Embodied System**](https://arxiv.org/abs/2605.18727) | arXiv | 2026-05-18 | [Project](https://dexholdem.github.io/Dexholdem/) | |
 | [**System Design for Maintaining Internal State Consistency in Long-Horizon Robotic Tabletop Games**](https://arxiv.org/abs/2603.25405) | arXiv | 2026-03-26 | - | |
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
