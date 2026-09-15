@@ -43,6 +43,8 @@ This repository will be continuously updated, and we warmly welcome contribution
 
 <summary>Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey</summary>
 
+<div style="height:5px;"></div>
+
 This survey presents a unified perspective on robot manipulation by organizing existing methods according to the relationship between **high-level planning** and **low-level action modeling**. We provide a systematic taxonomy that connects different forms of task-level reasoning, structured representations, and executable action generation.
 
 <div align="center">
@@ -50,7 +52,7 @@ This survey presents a unified perspective on robot manipulation by organizing e
        style="image-rendering: auto; max-width: 100%; height: auto;">
 </div>
 
-The survey first reviews robot manipulation from multiple aspects, including task types, robot embodiments, simulators and benchmarks, high-level planning, learning-based action modeling, applications, and key challenges. This overview provides a comprehensive map of recent advances and highlights the connections among different research directions.
+<b>Summary.</b> The survey first reviews robot manipulation from multiple aspects, including task types, robot embodiments, simulators and benchmarks, high-level planning, learning-based action modeling, applications, and key challenges. This overview provides a comprehensive map of recent advances and highlights the connections among different research directions.
 
 <div align="center">
   <img src="imgs/basic.png" alt="basic" width="50%"
@@ -67,14 +69,14 @@ For learning-based action modeling, we further organize existing methods into th
        style="image-rendering: auto; max-width: 95%; height: auto;">
 </div>
 
-The survey covers a broad range of literature from major robotics, machine learning, and computer vision venues. The collected papers are mainly published in leading conferences and journals, including CoRL, ICRA, RSS, IROS, NeurIPS, ICLR, CVPR, ICML, IEEE RA-L, IEEE T-RO, IJRR, and other representative venues.
+<b>Literature Distribution.</b> The survey covers a broad range of literature from major robotics, machine learning, and computer vision venues. The collected papers are mainly published in leading conferences and journals, including CoRL, ICRA, RSS, IROS, NeurIPS, ICLR, CVPR, ICML, IEEE RA-L, IEEE T-RO, IJRR, and other representative venues.
 
 <div align="center">
   <img src="imgs/keyword_wordcloud.png" alt="keyword cloud"
        style="image-rendering: auto; max-width: 100%; height: auto;">
 </div>
 
-The keyword analysis summarizes major research trends in robot manipulation, highlighting emerging topics such as imitation learning, reinforcement learning, vision-language-action models, diffusion policies, dexterous manipulation, grasping, world models, and generalization.
+<b>Word Cloud.</b> The keyword analysis summarizes major research trends in robot manipulation, highlighting emerging topics such as imitation learning, reinforcement learning, vision-language-action models, diffusion policies, dexterous manipulation, grasping, world models, and generalization.
 
 </details>
 
