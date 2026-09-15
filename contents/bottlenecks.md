@@ -48,6 +48,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**DISEIL: Demonstration Distillation for Sample-Efficient Imitation Learning**](https://arxiv.org/abs/2609.08123) | arXiv | 2026-09-08 | - |  |
 | [**EgoGuide: Egocentric Guidance for Efficient Robot-Free Demonstration Collection and Learning**](https://arxiv.org/abs/2606.14665) | arXiv | 2026-06-12 | [Project](https://silicx.github.io/EgoGuide/) |  |
 | [**Towards Generalizable Robotic Data Flywheel: High-Dimensional Factorization and Composition**](https://arxiv.org/abs/2603.25583) | arXiv | 2026-03-26 | [Project](https://f-acil.github.io/) |  |
 | [**Efficient and Reliable Teleoperation through Real-to-Sim-to-Real Shared Autonomy**](https://arxiv.org/abs/2603.17016) | arXiv | 2026-03-17 | ![Star](https://img.shields.io/github/stars/shuosha/Residual_Copilot?style=social&label=Star) [GitHub](https://github.com/shuosha/Residual_Copilot) |  |
@@ -105,6 +106,7 @@
 | [**TeleMoMa: A Modular and Versatile Teleoperation System for Mobile Manipulation**](https://arxiv.org/abs/2403.07869) | ICRAW 2024 | 2024-03-12 | ![Star](https://img.shields.io/github/stars/UT-Austin-RobIn/telemoma?style=social&label=Star) [GitHub](https://github.com/UT-Austin-RobIn/telemoma) | |
 | [**Deep Imitation Learning for Complex Manipulation Tasks from Virtual Reality Teleoperation**](https://arxiv.org/abs/1710.04615) | ICRA 2018 | 2017-10-12 | - |  |
 | _VR-Humanoids_ |
+| [**SPOT: Spatial Perception-Oriented Long-Horizon Humanoid Teleoperation**](https://arxiv.org/abs/2609.07933) | arXiv | 2026-09-07 | - |  |
 | [**EgoKit: Towards Unified Low-Cost Egocentric Data Collection with Heterogeneous Devices**](https://arxiv.org/abs/2605.16797) | arXiv | 2026-05-16 | [Project](https://www.chuange.org/papers/EgoKit.html) |  |
 | [**OmniClone: Engineering a Robust, All-Rounder Whole-Body Humanoid Teleoperation System**](https://arxiv.org/abs/2603.14327) | arXiv | 2026-03-15 | - |  |
 | [**A Closed-Form Geometric Retargeting Solver for Upper Body Humanoid Robot Teleoperation**](https://arxiv.org/abs/2602.01632) | arXiv | 2026-02-02 | [Project](https://sew-mimic.com/) |  |
@@ -162,6 +164,9 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**RoboCousin: Build Your Own Simulation Playground for Robust Bimanual Robotic Manipulation**](https://arxiv.org/abs/2609.08339) | arXiv | 2026-09-08 | - |  |  
+| [**GIF: Agentic Generation of Interactive and Functional Object Compositions for Robot Learning**](https://arxiv.org/abs/2609.05927) | arXiv | 2026-09-05 | - |  |  
+| [**DREAM: Deployment-Time Demonstration Generation via Real-to-Sim for Scalable Policy Adaptation**](https://arxiv.org/abs/2608.29078) | arXiv | 2026-08-29 | - |  |  
 | [**Worlds in One Demo: A Synthetic Data Engine for Learning Open-World Mobile Manipulation**](https://arxiv.org/abs/2607.13154) | arXiv | 2026-07-14 | [Project](https://wanda.lecar-lab.org/) |  |  
 | [**RoboSnap: One-Shot Real-to-Sim Scene Generation for Generalizable Robot Learning and Evaluation**](https://arxiv.org/abs/2607.06699) | arXiv | 2026-07-07 | ![Star](https://img.shields.io/github/stars/robosnap/robosnap?style=social&label=Star) [GitHub](https://github.com/robosnap/robosnap) |  |  
 | [**PRISM: Personalized Robotic Dataset Generation via Image-based Scene and Motion Synthesis**](https://arxiv.org/abs/2607.04880) | arXiv | 2026-07-06 | - |  |  
@@ -322,6 +327,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+| [**Hierarchical Skill Retrieval for Data-Efficient Adaptation of Vision-Language-Action Models**](https://arxiv.org/abs/2608.24042) | arXiv | 2026-08-25 | [Project](https://hoar012.github.io/HSR-Project/) | |
 | [**ReGIL: Retrieval-Guided Imitation Learning from a Single Demonstration**](https://arxiv.org/abs/2606.09381) | arXiv | 2026-06-08 | [Project](https://regil2026.github.io/) | |
 | [**Grounding Robot Generalization in Training Data via Retrieval-Augmented VLMs**](https://arxiv.org/abs/2603.11426) | arXiv | 2026-03-12 | [Project](https://radar-analysis.github.io/) | |
 | [**Memory Retrieval in Visuomotor Policies for Long-Horizon Robot Control**](https://arxiv.org/abs/2606.25136) | RSS 2026 | 2026-06-23 | ![Star](https://img.shields.io/github/stars/UT-Austin-RobIn/HALO?style=social&label=Star) [GitHub](https://github.com/UT-Austin-RobIn/HALO) | |
@@ -351,8 +357,9 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**IM-ENGINE: Image Editing for Embodied Data Generation**](https://arxiv.org/abs/2609.06279) | arXiv | 2026-09-05 | - |  |
 | [**RoboEdit: Turning Human Manipulation Videos into Scalable Robot Experience**](https://arxiv.org/abs/2608.18948) | arXiv | 2026-08-19 | - |  |
-| [**Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data**](https://arxiv.org/abs/2608.02580) | arXiv | 2026-08-03 | [Project](https://www-ye.github.io/ego2robot_blog/) |  |
+| [**Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data**](https://arxiv.org/abs/2608.02580) | CoRL 2026 | 2026-08-03 | [Project](https://www-ye.github.io/ego2robot_blog/) |  |
 | [**WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation**](https://arxiv.org/abs/2606.28320) | arXiv | 2026-06-26 | ![Star](https://img.shields.io/github/stars/uynitsuj/WARP-RM?style=social&label=Star) [GitHub](https://github.com/uynitsuj/WARP-RM) |  |
 | [**Improving Robotic Imitation Learning via Trajectory Standardization**](https://arxiv.org/abs/2606.22907) | arXiv | 2026-06-22 | ![Star](https://img.shields.io/github/stars/D-Robotics-AI-Lab/ISR?style=social&label=Star) [GitHub](https://github.com/D-Robotics-AI-Lab/ISR) |  |
 | [**Bridging the Embodiment Gap: Disentangled Cross-Embodiment Video Editing**](https://arxiv.org/abs/2605.03637) | arXiv | 2026-05-05 | - |  |
@@ -413,6 +420,7 @@
 | [**Diagnosing Compositional Generalization in Sequential Robot Tasks**](https://arxiv.org/abs/2607.29687) | arXiv | 2026-07-31 | ![Star](https://img.shields.io/github/stars/YixiaoWang7/Diagnosing_Compositional_Generalization_Robot?style=social&label=Star) [GitHub](https://github.com/YixiaoWang7/Diagnosing_Compositional_Generalization_Robot) |  |
 | [**Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation**](https://arxiv.org/abs/2607.21582) | arXiv | 2026-07-23 | - |  |
 | [**AC-VLA: Robust Out-of-Distribution Action Execution via Compositional Learning**](https://arxiv.org/abs/2607.15714) | arXiv | 2026-07-17 | [Project](https://ac-vla.github.io/) |  |
+| [**MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization**](https://arxiv.org/abs/2608.25864) | ECCV 2026 | 2026-08-26 | ![Star](https://img.shields.io/github/stars/zhangzaibin/future-robots?style=social&label=Star) [GitHub](https://github.com/zhangzaibin/future-robots) |  |
 | [**Efficient Data Collection for Robotic Manipulation via Compositional Generalization**](https://arxiv.org/abs/2403.05110) | RSS 2024 | 2024-03-08 | [Project](https://iliad.stanford.edu/robot-data-comp/) | Compositional Generalization |
 | [PROGRAMPORT: **Programmatically Grounded, Compositionally Generalizable Robotic Manipulation**](https://arxiv.org/abs/2304.13826) | ICLR 2023 | 2023-04-26 | [Project](https://progport.github.io/) | Compositional Generalization |
 | [**Policy Architectures for Compositional Generalization in Control**](https://arxiv.org/abs/2203.05960) | NeurIPSW 2022 | 2022-03-10 | ![Star](https://img.shields.io/github/stars/facebookresearch/entity-factored-rl?style=social&label=Star) [GitHub](https://github.com/facebookresearch/entity-factored-rl) | Compositional Generalization |
@@ -424,6 +432,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**HINT: Human-Intent Inception for Long-Horizon Robot Manipulation**](https://arxiv.org/abs/2609.02653) | arXiv | 2026-09-02 | [Project](https://robot-hint.github.io/) |  |
 | [**SkillMemo: Expert-guided Skill Memory Framework for Compositional Embodied Manipulation**](https://arxiv.org/abs/2608.05970) | arXiv | 2026-08-06 | [Project](https://changyuanwang17.github.io/SkillMemo/) | |
 | [**Scaling Short-Term Memory of Visuomotor Policies for Long-Horizon Tasks**](https://arxiv.org/abs/2606.16178) | arXiv | 2026-06-15 | [Project](https://shahrutav.github.io/short-term-memory/) | |
 | [**Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Reflection**](https://arxiv.org/abs/2604.13942) | arXiv | 2026-04-15 | - | |
@@ -670,6 +679,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**AnyWorld: Factorized Egocentric World Models for Cross-Embodiment Generalization**](https://arxiv.org/abs/2608.29242) | arXiv | 2026-08-29 | ![Star](https://img.shields.io/github/stars/xpeng-robotics/AnyWorld?style=social&label=Star) [GitHub](https://github.com/xpeng-robotics/AnyWorld) |
 | [**C2Dex: Contact-Consistent Reconstruction and Retargeting for Dexterous Manipulation from Monocular Video**](https://arxiv.org/abs/2608.07045) | arXiv | 2026-08-07 | ![Star](https://img.shields.io/github/stars/K-Jie/C2Dex_code?style=social&label=Star) [GitHub](https://github.com/K-Jie/C2Dex_code) |
 | [**UniCross: Unified Cross-Skill Dexterous Manipulation Synthesis**](https://arxiv.org/abs/2607.28198) | arXiv | 2026-07-30 | [Project](https://zdchan.github.io/UniCross/) |
 | [**AnyDexRT: Calibration-Free Dexterous Hand Retargeting with Few-Shot Human Guidance**](https://arxiv.org/abs/2607.08341) | arXiv | 2026-07-09 | [Project](https://chenxi-wang.github.io/projects/anydexrt/) |
@@ -727,6 +737,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**2AM: Grounding Agent-Side Memory as Guidance for Steerable Action Models in Long-Horizon Manipulation**](https://arxiv.org/abs/2609.11308) | arXiv | 2026-09-10 | - | |
 | [**Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence**](https://arxiv.org/abs/2608.16590) | arXiv | 2026-08-17 | ![Star](https://img.shields.io/github/stars/air-embodied-brain/Zetta-Embodiment?style=social&label=Star) [GitHub](https://github.com/air-embodied-brain/Zetta-Embodiment) | |
 | [**Practice Makes Policies: Bootstrapping and Consolidating Robotic Capabilities from Zero Human Demonstrations**](https://arxiv.org/abs/2607.26809) | arXiv | 2026-07-29 | - | |
 | [**Addressing the Orchestration Gap in Generalist Robots via Physical Agency**](https://arxiv.org/abs/2607.21725) | arXiv | 2026-07-23 | ![Star](https://img.shields.io/github/stars/lianegalanti/Pigey?style=social&label=Star) [GitHub](https://github.com/lianegalanti/Pigey) | |
@@ -749,7 +760,7 @@
 | [**SOMA: Strategic Orchestration and Memory-Augmented System for Vision-Language-Action Model Robustness via In-Context Adaptation**](https://arxiv.org/abs/2603.24060) | arXiv | 2026-03-25 | ![Star](https://img.shields.io/github/stars/LZY-1021/SOMA?style=social&label=Star) [GitHub](https://github.com/LZY-1021/SOMA) | |
 | [**RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks**](https://arxiv.org/abs/2603.11558) | ECCV 2026 | 2026-03-12 | ![Star](https://img.shields.io/github/stars/RoboClaw-Robotics/RoboClaw?style=social&label=Star) [GitHub](https://github.com/RoboClaw-Robotics/RoboClaw) | |
 | [**Decompose and Recompose: Reasoning New Skills from Existing Abilities for Cross-Task Robotic Manipulation**](https://arxiv.org/abs/2605.01448) | ICML 2026 | 2026-05-02 | - | |
-| [**Evolve Vision-Language-Action Model into an Agent with On-the-fly Tool-use**](https://arxiv.org/abs/2608.14047) | CVPRF 2026 | 2026-08-14 | - | |
+| [**Evolve Vision-Language-Action Model into an Agent with On-the-fly Tool-use**](https://arxiv.org/abs/2608.14047) | CVPR-F 2026 | 2026-08-14 | - | |
 | [**VLA<sup>2</sup>: Empowering Vision-Language-Action Models with an Agentic Framework for Unseen Concept Manipulation**](https://arxiv.org/abs/2510.14902) | arXiv | 2025-10-16 | ![Star](https://img.shields.io/github/stars/OpenHelix-Team/VLA-2?style=social&label=Star) [GitHub](https://github.com/OpenHelix-Team/VLA-2) | |
 | [**Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents**](https://arxiv.org/abs/2505.23450) | arXiv | 2025-05-29 | ![Star](https://img.shields.io/github/stars/Agentic-Robot/agentic-robot?style=social&label=Star) [GitHub](https://github.com/Agentic-Robot/agentic-robot) | |
 
@@ -761,6 +772,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Generative Action-Chunk Sampling for Adaptive Stiffness Control in Physical Human-Robot Collaboration**](https://arxiv.org/abs/2608.25284) | arXiv | 2026-08-26 | - |  |
 | [**From Perception to Assistance: Open-Vocabulary Shared Autonomy for Robotic Manipulation**](https://arxiv.org/abs/2607.17323) | arXiv | 2026-07-19 | ![Star](https://img.shields.io/github/stars/EESC-LabRoM/open-vocab-shared-autonomy?style=social&label=Star) [GitHub](https://github.com/EESC-LabRoM/open-vocab-shared-autonomy) |  |
 | [**Robots that Collaborate: Sequential Asymmetric Imitation for Learning Coupled Robot Policies**](https://arxiv.org/abs/2606.16490) | arXiv | 2026-06-15 | [Project](https://cyc0429.github.io/sai-project-page/) |  |
 | [**Hierarchical Policies from Verbal and Egocentric Human Signals for Natural Human-Robot Interaction**](https://arxiv.org/abs/2606.10276) | arXiv | 2026-06-09 | [Project](https://project-edith.github.io/) |  |

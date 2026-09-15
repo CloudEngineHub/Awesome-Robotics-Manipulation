@@ -62,6 +62,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**GTA-2: A Multi-VLM Framework for Synthesizing Robot Manipulation Skills via Grounded Task Axes**](https://arxiv.org/abs/2609.09808) | arXiv | 2026-09-09 | [Project](https://gta2-project.github.io/) | |
 | [**PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration**](https://arxiv.org/abs/2608.21031) | arXiv | 2026-08-21 | [Project](https://physcap.github.io/) | |
 | [**VLCP: Vision Language Control Policy Closed-Loop Code Replanning for Robot Manipulation**](https://arxiv.org/abs/2608.16978) | arXiv | 2026-08-17 | - | |
 | [**Self-Evolving Embodied Agents via Skill-Harness Evolution**](https://arxiv.org/abs/2608.11350) | arXiv | 2026-08-11 | - | |
@@ -105,12 +106,13 @@
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | _Common Reasoning_ |
+| [**R<sup>3</sup>: Training Robots to Reason in Natural Language via Reinforcement Learning**](https://arxiv.org/abs/2608.26053) | arXiv | 2026-08-26 | [Project](https://robotic-reasoner.github.io/) |  |
 | [**PROBE: Manipulation-Grounded Visual Question Answering with VLM Agents**](https://arxiv.org/abs/2608.17129) | arXiv | 2026-08-17 | - |  |
 | [**From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation**](https://arxiv.org/abs/2603.15600) | arXiv | 2026-03-16 | - |  |
 | [**Unifying Deep Predicate Invention with Pre-trained Foundation Models**](https://arxiv.org/abs/2512.17992) | arXiv | 2025-12-19 | ![Star](https://img.shields.io/github/stars/weiqianwang123/UniPred?style=social&label=Star) [GitHub](https://github.com/weiqianwang123/UniPred) |  |
 | [**Vision-Language-Policy Model for Dynamic Robot Task Planning**](https://arxiv.org/abs/2512.19178) | arXiv | 2025-12-22 | [Project](https://robovlp.github.io/) |  |
 | [**LACY: A Vision-Language Model-based Language-Action Cycle for Self-Improving Robotic Manipulation**](https://arxiv.org/abs/2511.02239) | arXiv | 2025-11-04 | [Project](https://vla2026.github.io/LACY/) | |
-| [**Environmental Understanding Vision-Language Model for Embodied Agent**](https://arxiv.org/abs/2604.19839) | CVPRF 2026 | 2026-04-21 | ![Star](https://img.shields.io/github/stars/jinsikbang/EUEA?style=social&label=Star) [GitHub](https://github.com/jinsikbang/EUEA) |  |   
+| [**Environmental Understanding Vision-Language Model for Embodied Agent**](https://arxiv.org/abs/2604.19839) | CVPR-F 2026 | 2026-04-21 | ![Star](https://img.shields.io/github/stars/jinsikbang/EUEA?style=social&label=Star) [GitHub](https://github.com/jinsikbang/EUEA) |  |   
 | [**EVLP: Learning Unified Embodied Vision-Language Planner with Reinforced Supervised Fine-Tuning**](https://arxiv.org/abs/2511.05553) | ICLR 2026 | 2025-11-03 | - | |
 | [**Multiview Progress Prediction of Robot Activities**](https://arxiv.org/abs/2603.00151) | ICASSP 2026 | 2026-02-25 | - |  |
 | [**From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems**](https://arxiv.org/abs/2505.15685) | EMNLP 2025 | 2025-05-21 | - | |
@@ -207,8 +209,9 @@
 | [**Learning Manipulation Skills through Robot Chain-of-Thought with Sparse Failure Guidance**](https://arxiv.org/abs/2405.13573) | IROS 2025 | 2024-05-22 | [Project](https://aha-vlm.github.io/) | Failure Detection |
 | _Success Reasoning_ |
 | [λ-Repformer: **Task Success Prediction for Open-Vocabulary Manipulation Based on Multi-Level Aligned Representations**](https://arxiv.org/abs/2410.00436) | CoRL 2024 | 2024-10-01 | [Project](https://lambda-repformer-project-pa-eziy1.kinsta.page/) | Success Prediction |
-| _Adversarial_ |
-| [**TrojanRobot: Backdoor Attacks Against LLM-based Embodied Robots in the Physical World**](https://arxiv.org/abs/2411.11683) | arXiv | 2024-11-18 | [Project](https://trojanrobot.github.io/) | |
+| _Eval_ |
+| [**R2S-Eval: Robot Evaluation with Real-to-Sim Calibration via Vision-Language Models**](https://arxiv.org/abs/2609.03276) | arXiv | 2026-09-03 | [Project](https://r2s-eval.github.io/) | |
+| [**PRM-as-a-Judge: A Dense Evaluation Paradigm for Fine-Grained Robotic Auditing**](https://arxiv.org/abs/2603.21669) | arXiv | 2026-03-23 | ![Star](https://img.shields.io/github/stars/YuyangLiu2003/PRM-as-a-Judge?style=social&label=Star) [GitHub](https://github.com/YuyangLiu2003/PRM-as-a-Judge) | |
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
@@ -249,6 +252,7 @@
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 | _Point Cloud_ |
+| [**AURORA: Active Uncertainty-Driven Re-Orientation for In-Hand Reconstruction**](https://arxiv.org/abs/2609.08493) | CoRL 2026 | 2026-09-08 | ![Star](https://img.shields.io/github/stars/FerryRain/Inhand_Activate?style=social&label=Star) [GitHub](https://github.com/FerryRain/Inhand_Activate) |  |
 | [**RoboStream: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics**](https://arxiv.org/abs/2603.12939) | arXiv | 2026-03-13 | [Project](https://robostream123.github.io/) |  |
 | [**HeRO: Hierarchical 3D Semantic Representation for Pose-aware Object Manipulation**](https://arxiv.org/abs/2602.18817) | arXiv | 2026-02-21 | ![Star](https://img.shields.io/github/stars/Chongyang-99/HeRO?style=social&label=Star) [GitHub](https://github.com/Chongyang-99/HeRO) |  |
 | [**Robo3R: Enhancing Robotic Manipulation with Accurate Feed-Forward 3D Reconstruction**](https://arxiv.org/abs/2602.10101) | arXiv | 2026-02-10 | ![Star](https://img.shields.io/github/stars/InternRobotics/Robo3R?style=social&label=Star) [GitHub](https://github.com/InternRobotics/Robo3R) |  |
@@ -292,6 +296,14 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+| [**Grounding Generated Video Plans in Simulation Towards Versatile Dexterous Controllers**](https://arxiv.org/abs/2609.10050) | arXiv | 2026-09-09 | [Project](https://boyuan-an.github.io/GALATEA/) |  |
+| [**SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators**](https://arxiv.org/abs/2609.09155) | arXiv | 2026-09-08 | ![Star](https://img.shields.io/github/stars/UMass-Embodied-AGI/SyncWorld?style=social&label=Star) [GitHub](https://github.com/UMass-Embodied-AGI/SyncWorld) |  |
+| [**IMPACT: Attention Is the Interaction Map for Scalable Interaction-Aware World Model Training**](https://arxiv.org/abs/2609.00161) | arXiv | 2026-08-31 | ![Star](https://img.shields.io/github/stars/EmbodiedCity/IMPACT.code?style=social&label=Star) [GitHub](https://github.com/EmbodiedCity/IMPACT.code) |  |
+| [**CAER: Causal Action Effect Reweighting for World Model Training**](https://arxiv.org/abs/2608.30897) | arXiv | 2026-08-31 | ![Star](https://img.shields.io/github/stars/manifoldai-research/CAER.code?style=social&label=Star) [GitHub](https://github.com/manifoldai-research/CAER.code) |  |
+| [**CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators**](https://arxiv.org/abs/2608.27406) | arXiv | 2026-08-27 | ![Star](https://img.shields.io/github/stars/omni-CLAP/clap?style=social&label=Star) [GitHub](https://github.com/omni-CLAP/clap) |  |
+| [**WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression**](https://arxiv.org/abs/2608.26239) | arXiv | 2026-08-26 | ![Star](https://img.shields.io/github/stars/X-Square-Robot/wall-ss?style=social&label=Star) [GitHub](https://github.com/X-Square-Robot/wall-ss) |  |
+| [**ConfAL-WM: Confidence-Guided Active Learning for Action-Conditioned World Models**](https://arxiv.org/abs/2608.25572) | arXiv | 2026-08-26 | ![Star](https://img.shields.io/github/stars/ConfAL-WM/ConfAL-WM?style=social&label=Star) [GitHub](https://github.com/ConfAL-WM/ConfAL-WM) |  |
+| [**JEPA-x: Cross-Predictive Physics Grounding for Forecastable Latent Dynamics**](https://arxiv.org/abs/2608.24044) | arXiv | 2026-08-25 | - |  |
 | [**Overcoming Statistical Bias in Action-Controllable World Models**](https://arxiv.org/abs/2608.04653) | arXiv | 2026-08-05 | - |  |
 | [**BWM: A Low-Cost High-Fidelity World Simulator for Robot Learning**](https://arxiv.org/abs/2607.29302) | arXiv | 2026-07-31 | - |  |
 | [**ShadowDancer: Teaching Video World Models Any Action by Learning Unified Dynamics Representations from a Video and Its Shadow**](https://arxiv.org/abs/2607.28362) | arXiv | 2026-07-30 | ![Star](https://img.shields.io/github/stars/AlayaLab/ShadowDancer?style=social&label=Star) [GitHub](https://github.com/AlayaLab/ShadowDancer) |  |
