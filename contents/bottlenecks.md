@@ -48,6 +48,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**From Gameplay to Policy: Towards Scalable Robot Data Collection via Gamified Robot-Free Interaction**](https://arxiv.org/abs/2609.18650) | arXiv | 2026-09-16 | - |  |
 | [**DISEIL: Demonstration Distillation for Sample-Efficient Imitation Learning**](https://arxiv.org/abs/2609.08123) | arXiv | 2026-09-08 | - |  |
 | [**EgoGuide: Egocentric Guidance for Efficient Robot-Free Demonstration Collection and Learning**](https://arxiv.org/abs/2606.14665) | arXiv | 2026-06-12 | [Project](https://silicx.github.io/EgoGuide/) |  |
 | [**Towards Generalizable Robotic Data Flywheel: High-Dimensional Factorization and Composition**](https://arxiv.org/abs/2603.25583) | arXiv | 2026-03-26 | [Project](https://f-acil.github.io/) |  |
@@ -113,9 +114,11 @@
 | [**Coordinated Humanoid Manipulation with Choice Policies**](https://arxiv.org/abs/2512.25072) | arXiv | 2025-12-31 | ![Star](https://img.shields.io/github/stars/x-robotics-lab/modular-teleop?style=social&label=Star) [GitHub](https://github.com/x-robotics-lab/modular-teleop) |  |
 | [**TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**](https://arxiv.org/abs/2511.02832) | arXiv | 2025-11-04 | ![Star](https://img.shields.io/github/stars/amazon-far/TWIST2?style=social&label=Star) [GitHub](https://github.com/amazon-far/TWIST2) |  |
 | _Exoskeleton-Dexterous_ |
+| [**SEED-UMI: Sharing the Exoskeleton between human and robot for onE-to-one Dexterous demonstration**](https://arxiv.org/abs/2609.11753) | arXiv | 2025-09-10 | ![Star](https://img.shields.io/github/stars/Tengbo-Yu/SEED-UMI?style=social&label=Star) [GitHub](https://github.com/Tengbo-Yu/SEED-UMI) |  |
 | [**DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation**](https://arxiv.org/abs/2505.21864) | RSSW 2025 | 2025-05-28 | ![Star](https://img.shields.io/github/stars/real-stanford/DexUMI?style=social&label=Star) [GitHub](https://github.com/real-stanford/DexUMI) |  |
 | [**DexEXO: A Wearability-First Dexterous Exoskeleton for Operator-Agnostic Demonstration and Learning**](https://arxiv.org/abs/2603.17323) | arXiv | 2026-03-18 | [Project](https://dexexo-research.github.io/) |  |
 | _Tactile-Dexterous_ |
+| [**XRoboToolKit-T: Teleoperation with High Stability and Precision with Tactile Sensing for Contact-rich Manipulation**](https://arxiv.org/abs/2609.16437) | arXiv | 2026-09-14 | - | V, T |
 | [**DexTeleop-0: Force-Aware Bimanual Dexterous Teleoperation with Ego-Centric Perception towards Shared Autonomy**](https://arxiv.org/abs/2606.23431) | arXiv | 2026-06-22 | [Project](https://henryhcliu.github.io/dexteleop-0/) | V, T |
 | [**FlexiTac: A Low-Cost, Open-Source, Scalable Tactile Sensing Solution for Robotic Systems**](https://arxiv.org/abs/2604.28156) | arXiv | 2026-04-30 | ![Star](https://img.shields.io/github/stars/FlexiTac/FlexiTac_Hardware_Repo?style=social&label=Star) [GitHub](https://github.com/FlexiTac/FlexiTac_Hardware_Repo) | V, T |
 | [**DexViTac: Collecting Human Visuo-Tactile-Kinematic Demonstrations for Contact-Rich Dexterous Manipulation**](https://arxiv.org/abs/2603.17851) | arXiv | 2026-03-18 | ![Star](https://img.shields.io/github/stars/xitong-c/DexViTac_Code?style=social&label=Star) [GitHub](https://github.com/xitong-c/DexViTac_Code) | V, T |
@@ -151,6 +154,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**HIL-UMI: Bringing Human-in-the-Loop Post-Training of Vision-Language-Action Models to Universal Manipulation Interface**](https://arxiv.org/abs/2609.20659) | arXiv | 2026-09-17 | [Project](https://hil-umi.github.io/) |  |
 | [**AutoIntervene: Calibrated Intervention for Action-Chunking Imitation Learning Policies**](https://arxiv.org/abs/2608.07065) | arXiv | 2026-08-07 | [Project](https://aus.bot/research/autointervene/) |  |
 | [**HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation**](https://arxiv.org/abs/2603.30042) | ICRA 2026 | 2026-03-31 | ![Star](https://img.shields.io/github/stars/ripl/HapCompass?style=social&label=Star) [GitHub](https://github.com/ripl/HapCompass) |  |
 | [**CUPID: Curating Data your Robot Loves with Influence Functions**](https://arxiv.org/abs/2506.19121) | CoRL 2025 | 2025-06-23 | ![Star](https://img.shields.io/github/stars/agiachris/cupid?style=social&label=Star) [GitHub](https://github.com/agiachris/cupid) |  |
@@ -247,6 +251,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**DATAFARM: Distribution-Aligned Task and Motion Planning for Fine-Tuning Vision-Language-Action Models**](https://arxiv.org/abs/2609.12316) | arXiv | 2026-09-11 | [Project](https://prpl-group.com/datafarm/) |  |
 | [**EXIMO: VLM Guided Exploration of VLA Policies**](https://arxiv.org/abs/2608.19891) | arXiv | 2026-08-20 | - |  |
 | [**RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation**](https://arxiv.org/abs/2608.03387) | arXiv | 2026-08-04 | [Project](https://roboreact.github.io/) |  |
 | [**Self-Evolving Learning for Embodied AI with Criticality Model**](https://arxiv.org/abs/2607.28251) | arXiv | 2026-07-30 | [Project](https://r2rdreamer.github.io/) |  |
@@ -276,6 +281,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**ReWeight: Leveraging Human Data for VLA Post-Training via Demonstration Retrieval and Sample Weighting**](https://arxiv.org/abs/2609.13851) | arXiv | 2026-09-12 | [Project](https://reweight-vla.github.io/) |  |
 | [**When Does Legacy Data Start to Help? Emergent Transfer in Cross-Configuration Robot Learning**](https://arxiv.org/abs/2607.25593) | arXiv | 2026-07-28 | - |  |
 | [**BEACON: Cross-Domain Co-Training of Generative Robot Policies via Best-Effort Adaptation**](https://arxiv.org/abs/2605.08571) | arXiv | 2026-05-09 | [Project](https://computationalrobotics.seas.harvard.edu/BEACON/) |  |
 | [**Conservative Offline Robot Policy Learning via Posterior-Transition Reweighting**](https://arxiv.org/abs/2603.16542) | arXiv | 2026-03-17 | ![Star](https://img.shields.io/github/stars/BeingBeyond/PTR?style=social&label=Star) [GitHub](https://github.com/BeingBeyond/PTR) |  |
@@ -435,6 +441,7 @@
 | [**HINT: Human-Intent Inception for Long-Horizon Robot Manipulation**](https://arxiv.org/abs/2609.02653) | arXiv | 2026-09-02 | [Project](https://robot-hint.github.io/) |  |
 | [**SkillMemo: Expert-guided Skill Memory Framework for Compositional Embodied Manipulation**](https://arxiv.org/abs/2608.05970) | arXiv | 2026-08-06 | [Project](https://changyuanwang17.github.io/SkillMemo/) | |
 | [**Scaling Short-Term Memory of Visuomotor Policies for Long-Horizon Tasks**](https://arxiv.org/abs/2606.16178) | arXiv | 2026-06-15 | [Project](https://shahrutav.github.io/short-term-memory/) | |
+| [**Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision**](https://arxiv.org/abs/2609.20820) | CoRL 2026 | 2026-09-17 | - |  |
 | [**Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Reflection**](https://arxiv.org/abs/2604.13942) | arXiv | 2026-04-15 | - | |
 | [**Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation**](https://arxiv.org/abs/2603.24576) | arXiv | 2026-03-25 | ![Star](https://img.shields.io/github/stars/gxyes/MARS_Chameleon?style=social&label=Star) [GitHub](https://github.com/gxyes/MARS_Chameleon) | |
 | [**Offline Discovery of Interpretable Skills from Multi-Task Trajectories**](https://arxiv.org/abs/2602.01018) | arXiv | 2026-02-01 | ![Star](https://img.shields.io/github/stars/ChongyuZhu/LOKI?style=social&label=Star) [GitHub](https://github.com/ChongyuZhu/LOKI) | |
@@ -617,6 +624,8 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**AnyViewDex: View-Invariant Dexterous Manipulation from RGB Observations**](https://arxiv.org/abs/2609.20107) | arXiv | 2026-09-17 | [Project](https://anyviewdex.github.io/) | |
+| [**ActiveScale: Scaling Active Perception for Robots across Model, Data, and Hardware**](https://arxiv.org/abs/2609.18514) | arXiv | 2026-09-16 | ![Star](https://img.shields.io/github/stars/ShuaiZhou302/ActiveScale?style=social&label=Star) [GitHub](https://github.com/ShuaiZhou302/ActiveScale) | |
 | [**ARGUS: Aligning Robot Scene Geometry Under Shifting Views with Large 3D Vision Models**](https://arxiv.org/abs/2608.05579) | arXiv | 2026-08-06 | [Project](https://rsathua.github.io/ARGUS/) | |
 | [**OC-VLA++: Monocular Geometry-Guided Cross-View Consistency for Viewpoint-Robust Robotic Manipulation**](https://arxiv.org/abs/2608.01066) | arXiv | 2026-08-02 | - | |
 | [**Pix2Act: Image-Space Manipulation Policies with Equivariant Augmentation**](https://arxiv.org/abs/2607.11167) | arXiv | 2026-07-13 | [Project](https://haojhuang.github.io/pix2act_page/) | |
@@ -737,6 +746,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**REVOLVE: An Automated Closed-Loop Framework for Evolving Robot Manipulation with Minimal Human Intervention**](https://arxiv.org/abs/2609.14633) | arXiv | 2026-09-13 | - | |
 | [**2AM: Grounding Agent-Side Memory as Guidance for Steerable Action Models in Long-Horizon Manipulation**](https://arxiv.org/abs/2609.11308) | arXiv | 2026-09-10 | - | |
 | [**Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence**](https://arxiv.org/abs/2608.16590) | arXiv | 2026-08-17 | ![Star](https://img.shields.io/github/stars/air-embodied-brain/Zetta-Embodiment?style=social&label=Star) [GitHub](https://github.com/air-embodied-brain/Zetta-Embodiment) | |
 | [**Practice Makes Policies: Bootstrapping and Consolidating Robotic Capabilities from Zero Human Demonstrations**](https://arxiv.org/abs/2607.26809) | arXiv | 2026-07-29 | - | |

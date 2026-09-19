@@ -117,6 +117,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Rapid Learning of Dexterous In-Hand Pen Writing through Real-Time Jacobian Estimation**](https://arxiv.org/abs/2609.11775) | arXiv | 2026-09-10 | ![Star](https://img.shields.io/github/stars/srl-ethz/dexterity_from_jacobian?style=social&label=Star) [GitHub](https://github.com/srl-ethz/dexterity_from_jacobian) |  |
 | [**ScanDP: Generalizable 3D Scanning with Diffusion Policy**](https://arxiv.org/abs/2603.10390) | arXiv | 2026-03-11 | [Project](https://treeitsuki.github.io/ScanDP/) |  |
 | [**DexDrummer: In-Hand, Contact-Rich, and Long-Horizon Dexterous Robot Drumming**](https://arxiv.org/abs/2603.22263) | arXiv | 2026-03-23 | ![Star](https://img.shields.io/github/stars/hc-fang/dexdrummer?style=social&label=Star) [GitHub](https://github.com/hc-fang/dexdrummer) |  |
 | [**HandelBot: Real-World Piano Playing via Fast Adaptation of Dexterous Robot Policies**](https://arxiv.org/abs/2603.12243) | arXiv | 2026-03-12 | ![Star](https://img.shields.io/github/stars/amberxie88/handelbot?style=social&label=Star) [GitHub](https://github.com/amberxie88/handelbot) |  |

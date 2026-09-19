@@ -221,6 +221,8 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+| [**V2-STRep: VLM-Grounded Structured Task Representations for Reusable Robot Skills Acquired from Generated Videos**](https://arxiv.org/abs/2609.20582) | arXiv | 2026-09-17 | - |  |
+| [**ManiSkillFormer: Demonstration-Free Compositional Manipulation via Task-Conditioned Geometric Contracts**](https://arxiv.org/abs/2609.16331) | arXiv | 2026-09-14 | - |  |
 | [**GAIDE: Graph-based Attention Masking for Spatial- and Embodiment-aware Motion Planning**](https://arxiv.org/abs/2603.04463) | arXiv | 2026-03-03 | - |  |
 | [**Demonstration-Free Robotic Control via LLM Agents**](https://arxiv.org/abs/2601.20334) | arXiv | 2026-01-28 | ![Star](https://img.shields.io/github/stars/robiemusketeer/faea-sim?style=social&label=Star) [GitHub](https://github.com/robiemusketeer/faea-sim) |  |
 | [**CoRAL: Contact-Rich Adaptive LLM-based Control for Robotic Manipulation**](https://arxiv.org/abs/2605.02600) | RSS 2026 | 2026-05-04 | [Project](https://sites.google.com/view/lira-coral) |  |
@@ -296,6 +298,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+| [**DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation**](https://arxiv.org/abs/2609.20649) | IROSW 2026 | 2026-09-17 | - |  |
 | [**Grounding Generated Video Plans in Simulation Towards Versatile Dexterous Controllers**](https://arxiv.org/abs/2609.10050) | arXiv | 2026-09-09 | [Project](https://boyuan-an.github.io/GALATEA/) |  |
 | [**SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators**](https://arxiv.org/abs/2609.09155) | arXiv | 2026-09-08 | ![Star](https://img.shields.io/github/stars/UMass-Embodied-AGI/SyncWorld?style=social&label=Star) [GitHub](https://github.com/UMass-Embodied-AGI/SyncWorld) |  |
 | [**IMPACT: Attention Is the Interaction Map for Scalable Interaction-Aware World Model Training**](https://arxiv.org/abs/2609.00161) | arXiv | 2026-08-31 | ![Star](https://img.shields.io/github/stars/EmbodiedCity/IMPACT.code?style=social&label=Star) [GitHub](https://github.com/EmbodiedCity/IMPACT.code) |  |

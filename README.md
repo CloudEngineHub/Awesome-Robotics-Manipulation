@@ -20,7 +20,7 @@ This repository will be continuously updated, and we warmly welcome contribution
 ## 📢 News
 
 - **[2026/08]** 🎉 Our paper [Embodied Robot Manipulation in the Era of Foundation Models: Planning and Learning Perspectives](https://arxiv.org/abs/2512.22983) has been accepted by IEEE Transactions on Robotics (T-RO)!
-- **[2026/08]** Released Version 2 of [Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey](https://arxiv.org/abs/2510.10903). The detailed revision log is available in [arxiv_update_log_v2.md](documents/arxiv_update_log_v2.md).
+- **[2026/08]** Released Version 2 of [Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey](https://arxiv.org/abs/2510.10903). The detailed revision log is available in [arxiv_update_log_v2.md](documents/arXiv/arxiv_update_log_v2.md).
 - **[2026/04]** Updated venue information for most papers and removed a few references without publicly available code. Refined the taxonomy under *High-Level Planning*, separated *Video-Based Planners* into an independent subsection, and are revising the *Motion Planning* section. Added coverage of *Aerial Manipulation* and *Underwater Manipulation*, and improved categories such as *Human Teleoperation* under *Data Collection*.
 - **[2025/10]** Our paper [Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey](https://arxiv.org/abs/2510.10903) is now available!
 
@@ -41,9 +41,7 @@ This repository will be continuously updated, and we warmly welcome contribution
 ## 📝 Summary of Survey
 <details>
 
-<summary>Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey</summary>
-
-<div style="height:5px;"></div>
+<summary><i>Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey</i></summary>
 
 This survey presents a unified perspective on robot manipulation by organizing existing methods according to the relationship between **high-level planning** and **low-level action modeling**. We provide a systematic taxonomy that connects different forms of task-level reasoning, structured representations, and executable action generation.
 
@@ -168,6 +166,7 @@ For learning-based action modeling, we further organize existing methods into th
 | [**Vision-Language-Action Models: Concepts, Progress, Applications and Challenges**](https://arxiv.org/abs/2505.04769) | arXiv | 2025-05-07 | - | VLA |
 | [**A Survey on Vision-Language-Action Models for Embodied AI**](https://arxiv.org/abs/2405.14093) | TNNLS 2026 | 2024-05-23 | - | VLA |
 | _World Model_|
+| [**World Models for Embodied Intelligence: From Plausible to Controllable to Actionable**](https://arxiv.org/abs/2609.16697) | arXiv | 2026-09-15 | [Project](https://3dagentworld.github.io/EmbodiedWM/) | World Model |
 | [**Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models**](https://arxiv.org/abs/2609.03927) | arXiv | 2026-09-03 | - | World Model |
 | [**From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence**](https://arxiv.org/abs/2607.11689) | arXiv | 2026-07-13 | - | World Model |
 | [**A Definition and Roadmap for World Models**](https://arxiv.org/abs/2607.06401) | arXiv | 2026-07-07 | - | World Model |
@@ -422,6 +421,7 @@ For learning-based action modeling, we further organize existing methods into th
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**Bench2Dex: Benchmarking Visuo-Tactile Bimanual Dexterous Manipulation Across Dexterous Hands**](https://arxiv.org/abs/2609.15726) | arXiv | 2026-09-14 | ![Star](https://img.shields.io/github/stars/Bench2Dex/Bench2Dex?style=social&label=Star) [GitHub](https://github.com/Bench2Dex/Bench2Dex) | |
 | [**DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation**](https://arxiv.org/abs/2607.08751) | arXiv | 2026-07-09 | ![Star](https://img.shields.io/github/stars/ycyao216/DexVerse?style=social&label=Star) [GitHub](https://github.com/ycyao216/DexVerse) | |
 | [**DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo**](https://arxiv.org/abs/2605.16257) | arXiv | 2026-05-15 | ![Star](https://img.shields.io/github/stars/brave-eai/dexjoco?style=social&label=Star) [GitHub](https://github.com/brave-eai/dexjoco) | |
 | [**TriFinger: An Open-Source Robot for Learning Dexterity**](https://arxiv.org/abs/2008.03596) | CoRL 2021 | 2020-08-08 | ![Star](https://img.shields.io/github/stars/open-dynamic-robot-initiative/trifinger_simulation?style=social&label=Star) [GitHub](https://github.com/open-dynamic-robot-initiative/trifinger_simulation) | |
@@ -434,6 +434,7 @@ For learning-based action modeling, we further organize existing methods into th
 |:--------|:--------:|:--------:|:--------:|:--------:| -->
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**DeformSmith: Physics Harness-Guided Hierarchical Generation of Deformable Assets for Robot Manipulation**](https://arxiv.org/abs/2609.18620) | arXiv | 2026-09-16 | [Project](https://can-lee.github.io/deformsmith-web/) |
 | [**FolDeX: A Physical-World Benchmark for Long-Horizon Robotic Manipulation of Deformable Objects**](https://arxiv.org/abs/2609.10243) | arXiv | 2026-08-14 | [Project](https://ai.midea.com/#/fold-challenge) |
 | [**SoftVTBench: A Safety-Aware Visuo-Tactile Benchmark for Physically Constrained Robotic Manipulation of Deformable Objects**](https://arxiv.org/abs/2607.04234) | arXiv | 2026-07-05 | ![Star](https://img.shields.io/github/stars/TuojingAI/SoftVTBench?style=social&label=Star) [GitHub](https://github.com/TuojingAI/SoftVTBench) |
 | [**WireCraft: A Simulation Benchmark for Industrial DLO Manipulation**](https://arxiv.org/abs/2606.18097) | arXiv | 2026-06-16 | - |
@@ -558,6 +559,7 @@ For learning-based action modeling, we further organize existing methods into th
 | [**RoboTacDex: A Dexterous Visual-Tactile-Action Dataset for Humanoid Manipulation**](https://arxiv.org/abs/2606.31836) | arXiv | 2026-06-30 | - | |
 | [**HapTile: A Haptic-Informed Vision-Tactile-Language-Action Dataset for Contact-Rich Imitation Learning**](https://arxiv.org/abs/2606.04825) | arXiv | 2026-06-03 | [Project](https://haptile-dataset.github.io/) | |
 | [**Scalable Behavior Cloning with Open Data, Training, and Evaluation**](https://arxiv.org/abs/2606.27375) | arXiv | 2026-06-25 | ![Star](https://img.shields.io/github/stars/amazon-far/abc?style=social&label=Star) [GitHub](https://github.com/amazon-far/abc) |  |
+| [**FoldNet++: a Large-Scale Synthetic Dataset for Robotic T-Shirt Folding and Unfolding**](https://arxiv.org/abs/2609.12433) | CoRL 2026 | 2026-09-15 | [Project](https://pku-epic.github.io/FoldNetXX/) | |
 | [**Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics**](https://arxiv.org/abs/2604.21017) | arXiv | 2026-04-22 | ![Star](https://img.shields.io/github/stars/open-h/open-h-embodiment?style=social&label=Star) [GitHub](https://github.com/open-h/open-h-embodiment) | |
 | [**VTouch++: A Multimodal Dataset with Vision-Based Tactile Enhancement for Bimanual Manipulation**](https://arxiv.org/abs/2604.20444) | arXiv | 2026-04-22 | - | |
 | [**Gripper-aware Vision Language Action Models**](https://arxiv.org/abs/2608.24603) | ECCV 2026 | 2026-08-25 | [Project](https://airvlab.github.io/G-VLA/) | |
@@ -633,6 +635,7 @@ For learning-based action modeling, we further organize existing methods into th
 | [**KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Groundings**](https://arxiv.org/abs/2607.19876) | ECCV 2026 | 2026-07-22 | ![Star](https://img.shields.io/github/stars/minecraft-zzz/KineBench?style=social&label=Star) [GitHub](https://github.com/minecraft-zzz/KineBench) | |
 | [**Wow, wo, val! A Comprehensive Embodied World Model Evaluation Turing Test**](https://arxiv.org/abs/2601.04137) | arXiv | 2026-01-07 | - | |  
 | _Datasets_ |
+| [**TouchSight: Bare-Handed Tactile Prediction from Egocentric Video via Generative Visual Augmentation**](https://arxiv.org/abs/2609.20414) | arXiv | 2026-09-17 | - | |
 | [**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**](https://arxiv.org/abs/2607.28625) | arXiv | 2026-07-30 | [Project](https://ace-data-engine.github.io/ACE-Data-0/) | |
 | [**EgoTactile: Learning Grasp Pressure for Everyday Objects from Egocentric Video**](https://arxiv.org/abs/2606.09243) | arXiv | 2026-06-08 | ![Star](https://img.shields.io/github/stars/Russell-Zeng/EgoTactile?style=social&label=Star) [GitHub](https://github.com/Russell-Zeng/EgoTactile) | |
 | [**Minerva-Ego: Spatiotemporal Hints for Egocentric Video Understanding**](https://arxiv.org/abs/2605.15342) | arXiv | 2026-05-14 | ![Star](https://img.shields.io/github/stars/google-deepmind/neptune?style=social&label=Star) [GitHub](https://github.com/google-deepmind/neptune) | |
